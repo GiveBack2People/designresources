@@ -21,9 +21,8 @@
 | [3D Sky Free](https://3dskyfree.com/category/textures/) | Website offering free 3D models, textures, and HDRI materials for architectural visualization and interior design. |
 | [3D Textures](https://3dtextures.me/) | Site offering free seamless PBR textures with color, normal, displacement, occlusion, and roughness maps for 3D modeling. |
 | [3D total Shop](https://store.3dtotal.com/products/total-textures-19-pack-download-bundle-50-off-download-only) | Free 19-pack Total Textures download bundle with handcrafted textures covering human, creature, sci-fi, and environment themes. |
-| [3D Zip](https://3dzip.org/amp/textures/) | Website offering free texture downloads in categories including wood, floor coverings, metal, stone, fabric, and HDRI. |
-| [3D Zip](https://3dzip.org/textures/hdri/) | Aggregator page linking to free HDRI packs for 3D rendering and lighting environments from various sources. |
-| [3dlancer](https://3dlancer.net/en/freetextures) | Platform offering free textures for 3D modeling and visualization projects across multiple categories. |
+| [3D Zip](https://3dzip.info/amp/textures/) | Website offering free texture downloads in categories including wood, floor coverings, metal, stone, fabric, and HDRI. |
+| [3D Zip](https://3dzip.info/textures/hdri/) | Aggregator page linking to free HDRI packs for 3D rendering and lighting environments from various sources. |
 | [3Ds Max Free3d](https://t.me/textures_mebel_3D) | Telegram channel sharing premium 3D models, textures, and scenes for architectural visualization software. |
 | [50 best free brush](https://speckyboy.com/free-photoshop-brushes/) | Article curating 50-plus free high-resolution Photoshop brush sets including watercolor, grunge, smoke, and ink styles. |
 | [50 sets](https://designdrizzle.com/50-free-sets-of-photoshop-brushes/) | Collection of 50 free Photoshop brush sets categorized by type including grunge, watercolor, splatter, and nature themes. |
@@ -31,12 +30,11 @@
 | [6000 brushes](https://apps.apple.com/us/app/brushes-for-procreate/id6444915222) | iOS app offering over 6,000 free Procreate brushes, palettes, and background images with in-app purchases. |
 | [71 of the best free Photoshop brushes \| Creative Bloq](https://www.creativebloq.com/photoshop/free-photoshop-brushes-11121140) | Curated list of 71 free Photoshop brushes covering painting, watercolor, ink, charcoal, landscape, and special effects. |
 | [A free repository of 100K textures generated from 1,270 scientific simulations​](https://www.reddit.com/r/blender/comments/1p6r5k6/scitextures_a_free_repository_of_100k_textures/) | Reddit post announcing a free repository of 100,000 textures generated from 1,270 scientific simulations. |
-| [Ace Brush](https://www.dan.art/acebrushes) | Gumroad page for Ace Brush sets, a commercial brush collection available for purchase from various marketplaces. |
 | [Acubens Design](https://acubensdesign.gumroad.com/l/scribbletextures) | Gumroad page offering free scribble texture packs for graphic design and digital art projects. |
 | [AE Blender](https://www.aeblender.com/tag/zbrush/) | Website sharing free ZBrush brushes, alphas, patterns, and resources for 3D sculpting. |
 | [AE Screens](https://aescreens.gumroad.com/l/texture-hop) | Gumroad page offering animated paper textures and motion graphics presets. |
 | [Airbrush Surrealism](https://ar.pinterest.com/search/pins/?q=Airbrush%20Surrealism&rs=typed) | Pinterest search results page for Airbrush Surrealism art style inspiration and visual references. |
-| [All 3D](https://all-3dd.com/product-category/textures/?wpf=wpf_64f79341ddb90&wpf_page=1&wpf_cat=textures&wpf_pa_price=free) | Marketplace offering free and paid 3D textures including wood, metal, fabric, tile, and HDRI for 3ds Max. |
+| [All 3D](https://all-3dd.com/product-category/textures/) | Marketplace offering free and paid 3D textures including wood, metal, fabric, tile, and HDRI for 3ds Max. |
 | [Anagram Design](https://anagramdesign.graphics/free-textures/) | Website offering free texture packs including marble, concrete, brick, smoke, fire, and shattered glass for designers. |
 | [Antonin](https://antoninwork.gumroad.com/l/63animatedtextures) | Gumroad page for animated texture packs, a commercial resource from various marketplace authors. |
 | [Aprende Z Brush](https://t.me/AprendeZbrush) | Telegram channel dedicated to sharing ZBrush tutorials, tips, and resources for digital sculptors. |
@@ -61,18 +59,17 @@
 | [Behance 3](https://www.behance.net/search/projects/free%203d%20texture?tracking_source=typeahead_nav_recent_suggestion) | Behance search results page for free 3D texture projects including PBR materials and tileable maps. |
 | [Behance Freebies](https://www.behance.net/search/projects/freebies%20paper%20texture) | Behance search results page for free paper texture freebies including kraft and vintage paper packs. |
 | [Blender](https://download.blender.org/archive/textures/) | Blender Institute archive offering free texture downloads organized by categories like bark, bricks, and concrete. |
-| [Blender VDM Tutorial](https://www.blenderkit.com/blender-tutorials/tutorial_vdm_brush/) | BlenderKit tutorial explaining Vector Displacement Mesh brushes and how to create them for Blender sculpting. |
-| [Blenderkit](https://www.blenderkit.com/asset-gallery?query=is_free%3Atrue+category_subtree%3Abrush) | BlenderKit gallery of free and paid 3D brushes for use directly within Blender. |
-| [blenderkit.com](https://www.blenderkit.com/asset-gallery?query=tags:VDM%20Brush) | BlenderKit gallery of VDM brushes for sculpting detailed 3D meshes in Blender. |
+| [Blender VDM Tutorial](https://www.blendkit.com/blender-tutorials/tutorial_vdm_brush/) | BlenderKit tutorial explaining Vector Displacement Mesh brushes and how to create them for Blender sculpting. |
+| [Blenderkit](https://www.blendkit.com/) | BlenderKit gallery of free and paid 3D brushes for use directly within Blender. |
+| [blenderkit.com](https://www.blendkit.com/) | BlenderKit gallery of VDM brushes for sculpting detailed 3D meshes in Blender. |
 | [Brick Texture](https://ar.pinterest.com/search/pins/?q=brick%20texture&rs=typed) | Pinterest search results page for brick texture inspiration and reference images. |
 | [Brick Textures](https://brick-textures.com/) | Premium seamless PBR brick texture marketplace with high-resolution maps for architectural visualization. |
 | [Brick Textures 2](https://bricktextures.gumroad.com/l/pasllm?layout=profile) | Gumroad page offering an all-in-one brick bundle with seamless PBR textures for 3D rendering. |
 | [Brush](https://t.me/brush_procreate) | Telegram channel sharing Procreate brush packs and resources with over 21,000 subscribers. |
 | [Brush Base](https://t.me/brushbase) | Telegram channel providing a library of brushes and tutorials for graphic artists. |
 | [Brush Procreate](https://t.me/brushprocreate) | Telegram channel offering free Procreate brushes and resources for digital artists. |
-| [Brusheezy](http://www.brusheezy.com/actions) | Website offering free Photoshop Actions that transform images with prerecorded one-click effects. |
+| [Brusheezy](https://www.brusheezy.com/actions) | Website offering free Photoshop Actions that transform images with prerecorded one-click effects. |
 | [Brushez](https://brushez.com/brushes) | Website offering free Photoshop brushes organized into categories like abstract, grunge, and nature. |
-| [Brushless](https://www.brushless.ai/generate) | AI-powered SVG vector generator that creates scalable vector graphics from text prompts. |
 | [Canvas Texture](https://ar.pinterest.com/search/pins/?q=canvas%20texture&rs=typed) | Pinterest search results page for canvas texture pins and references. |
 | [CC0 textures](https://cc0-textures.com/) | Library of over 3,300 public domain CC0 textures available for free download. |
 | [christophercant.com](https://www.christophercant.com/blog/krita-brushes) | Blog article showcasing dozens of free Krita brush packs and explaining Krita's built-in brush engines. |
@@ -95,15 +92,13 @@
 | [Cube Brush](https://cubebrush.co/marketplace?categories=2D%20assets:HDRi&q=anime) | Cube Brush marketplace for anime-style HDRI sky backgrounds and environment maps. |
 | [Cube Brush](https://cubebrush.co/marketplace?resource=2D%20assets&categories=2D%20assets:HDRi) | Cube Brush marketplace for HDRI environment maps including skies, interiors, and landscapes. |
 | [Cube Brush](https://cubebrush.co/marketplace?categories=2D%20assets:HDRi&q=space) | Cube Brush marketplace for space-themed HDRI and skybox environment assets. |
-| [D5 Render](https://www.d5render.com/post/free-3d-textures-within-easy-reach) | Blog post about D5 Render's built-in library of over 1,000 free 3D textures for architectural visualization. |
+| [D5 Render](https://www.d5render.com/posts/free-3d-textures-within-easy-reach) | Blog post about D5 Render's built-in library of over 1,000 free 3D textures for architectural visualization. |
 | [Dam Dam Studio](https://studiodamdam.gumroad.com/l/TexturesBundle) | Paper textures and transitions bundle for motion graphics and video projects. |
 | [De Lighter](https://agisoft.freshdesk.com/support/solutions/articles/31000158376-agisoft-texture-de-lighter-general-workflow) | Agisoft support article describing how to remove shadows from scanned textures using Texture De-Lighter. |
 | [DeeBrush](https://t.me/deephoshop) | Telegram channel offering a personal collection of Photoshop brushes for artists. |
 | [Design Bundles](https://designbundles.net/search?search=procreate+brushes) | Design Bundles marketplace section for commercial Procreate brush products and stamps. |
 | [Design Syndrome](https://designsyndrome.com/collections/design-assets?filter.p.m.custom.asset_type=Gradient+Maps&filter.p.m.custom.asset_type=Template+Files&filter.p.m.custom.asset_type=Layer+Styles&filter.p.m.custom.asset_type=Brushes) | Design asset store offering brushes, textures, layer styles, and gradient maps for Photoshop. |
-| [Digital Brushes](https://digitalbrushes.tumblr.com/) | Tumblr blog curated by Eyecager featuring free digital brushes for Clip Studio Paint and Photoshop. |
 | [Doron Supply](https://www.doronsupply.com/shop/filter-textures) | Curated asset marketplace offering design resources including textures, mockups, and effects. |
-| [Download Textures](https://downloadtextures.com/?page=1) | Seamless tileable images for texture mapping and 3D rendering projects. |
 | [Dream Texture](https://github.com/carson-katri/dream-textures) | Open-source AI texture generation plugin for Blender that runs locally. |
 | [Drive](https://telegra.ph/Textures-Collection-07-02) | Telegraph page collecting Google Drive links to Arroway texture sets organized by material type. |
 | [ebtrr.gumroad.com](https://ebtrr.gumroad.com/l/simple-procedural-textures-02) | Gumroad page offering a set of simple procedural textures for 3D artists and designers. |
@@ -126,50 +121,48 @@
 | [Free 3d textures HD](https://free-3dtextureshd.com/) | Free library of over 500 seamless PBR textures in 4K plus 3D furniture models and HD wallpapers. |
 | [Free Brushes](https://t.me/free_brushes) | Telegram channel sharing free Procreate brushes for digital artists. |
 | [Free Textures for 3D](https://textures.nicortx.com/) | AI-generated seamless CC0 textures for personal and commercial 3D rendering projects. |
-| [FreePik](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture&query=texture&type=vector) | Freepik search for vector texture graphics and illustrations for design projects. |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=paper+texture&selection=1&type=psd) | Freepik search for paper texture PSD files for Photoshop and graphic design projects. |
-| [Freepik](https://www.freepik.com/vectors/illustrator-brushes) | Freepik collection of vector Illustrator brushes for digital illustration and design work. |
-| [FreePSDVN](https://freepsdvn.com/?s=paper+texture) | FreePSDVN search results for paper texture stock images, mockups and Photoshop resources. |
+| [FreePik](https://www.magnific.com/search?format=search&last_filter=query&last_value=texture&query=texture&type=vector) | Freepik search for vector texture graphics and illustrations for design projects. |
+| [Freepik](https://www.magnific.com/search?format=search&last_filter=selection&last_value=1&query=paper+texture&selection=1&type=psd) | Freepik search for paper texture PSD files for Photoshop and graphic design projects. |
+| [Freepik](https://www.magnific.com/vectors/illustrator-brushes) | Freepik collection of vector Illustrator brushes for digital illustration and design work. |
+| [FreePSDVN](https://freepsdvn.com/search/paper+texture/) | FreePSDVN search results for paper texture stock images, mockups and Photoshop resources. |
 | [Game Assets](https://itch.io/game-assets/free/tag-textures) | Free game-ready texture assets on itch.io tagged for game development. |
 | [GameTextures](https://gametextures.com/) | Subscription-based library of 4K textures and PBR materials for game development. |
 | [Gold Texture](https://ar.pinterest.com/search/pins/?q=gold%20texture&rs=typed) | Pinterest search results for gold texture inspiration and reference images. |
 | [google.com](https://www.google.com/search?q=figma+graphic+texture+site%3Afigma.com) | Google search for Figma graphic texture files hosted on the Figma community platform. |
 | [Grass Texture](https://ar.pinterest.com/search/pins/?q=grass%20texture&rs=typed) | Pinterest search results for grass texture reference images and patterns. |
 | [Grunge Texture](https://ar.pinterest.com/search/pins/?q=grunge%20texture&rs=typed) | Pinterest search results for grunge texture backgrounds and overlay images. |
-| [Grunge Textures](https://grungetextures.com/gallery) | Grunge Textures gallery offering distressed and weathered surface texture downloads. |
+| [Grunge Textures](https://grungetextures.com) | Grunge Textures gallery offering distressed and weathered surface texture downloads. |
 | [Gumroad](https://gumroad.com/design?query=paper+texture&rating=3) | Gumroad search results for paper texture design resources from various creators. |
-| [How to Add and Import New Brushes in Krita -](https://artworkpath.com/how-to-add-and-import-brushes-in-krita/) | ArtworkPath tutorial explaining how to install and manage new brush packs in Krita. |
 | [How To Import Photoshop Brushes into Clip Studio Paint -](https://www.grutbrushes.com/how-to-import-photoshop-brushes-into-clip-studio-paint/) | GrutBrushes tutorial on importing Photoshop ABR brush files into Clip Studio Paint. |
 | [How to Use Photoshop Brushes in Procreate](https://design.tutsplus.com/tutorials/how-to-use-photoshop-brushes-in-procreate--cms-34540) | Envato Tuts+ tutorial on converting and using Photoshop brushes in Procreate. |
 | [iarchitect](https://iarchitect.gumroad.com/l/bmbdx) | Bundle of Illustrator brushes for architects and designers. |
 | [Indieground Design](https://indieground.net/shop-category/textures/) | Indieground Design shop offering paper, film, dust, grunge and other texture packs. |
 | [Infinite Texture](https://sites.google.com/view/infinitexture/home) | VasTexture repository of 500,000 free CC0 textures and PBR materials from real-world images. |
 | [Isometric Photoshop Brushes](https://arcacademy.gumroad.com/l/isometricbrushes) | Arc Academy Gumroad offering isometric Photoshop brushes for architecture diagrams. |
-| [Kyle T Webster Brushes](https://www.adobe.com/products/photoshop/brushes.html) | Adobe's official page for Kyle T Webster Photoshop brush sets with installation guide. |
+| [Kyle T Webster Brushes](https://www.adobe.com/products/photoshop/photoshop-brushes.html) | Adobe's official page for Kyle T Webster Photoshop brush sets with installation guide. |
 | [L. Ruiz](https://lnrmotion.gumroad.com/l/textures_vol1) | Lnrmotion Gumroad offering animated textures volume 1 for motion graphics projects. |
 | [Learn How to Give Your Motion Graphics Texture in After Effects](https://nofilmschool.com/give-motion-graphics-texture-after-affects) | No Film School tutorial on using displacement maps to add texture in After Effects. |
 | [Leather Texture](https://ar.pinterest.com/search/pins/?q=leather%20texture&rs=typed) | Pinterest search results for leather texture patterns and material references. |
-| [Leo Supply](https://leosupply.co/shop/brushes) | Leo Supply online shop selling Procreate and Photoshop brush sets for digital artists. |
+| [Leo Supply](https://leosupply.co) | Leo Supply online shop selling Procreate and Photoshop brush sets for digital artists. |
 | [List of Lumion Texture Websites](https://community.lumion.com/index.php?resources/the-official-lumion-list-of-texture-collections.4/) | Lumion community curated list of texture collection websites for architectural rendering. |
 | [Location Textures](https://locationtextures.gumroad.com/) | LocationTextures Gumroad offering high-quality location-based texture photographs. |
 | [Make seamless texture online](https://www.imgonline.com.ua/eng/make-seamless-texture.php) | IMOnline tool to convert regular images into seamless tileable textures online. |
 | [Many Textures](https://www.manytextures.com/) | ManyTextures database of royalty-free seamless tileable textures for 3D and design. |
 | [Marble Texture](https://ar.pinterest.com/search/pins/?q=marble%20texture&rs=typed) | Pinterest search results for marble texture patterns and stone material references. |
-| [Martyr](https://martyr.shop/collections/textures) | Martyr shop collection of texture and design asset packs for creative projects. |
+| [Martyr](https://martyr.shop) | Martyr shop collection of texture and design asset packs for creative projects. |
 | [Maxon Z Brush](https://www.youtube.com/@MaxonZBrush) | Maxon ZBrush official YouTube channel featuring tutorials and sculpting content. |
 | [Mels Brushes](https://melsbrushes.co.uk/procreate-brushes/) | Mels Brushes UK offering hand-crafted Procreate brush sets for digital painting. |
 | [MH2](https://misterhorse.com/products/textures/3301) | Mister Horse offering animated 4K texture packs for Adobe After Effects motion graphics. |
 | [Miksks](https://miksks.com/products/vintage-paper-textures-free-sample) | Vintage paper texture free sample from Miksks design store. |
 | [Miksks](https://miksks.com/collections/procreate-brushes) | Miksks online store selling Procreate brush sets for digital illustration and design. |
-| [Motion Squared](https://textures.motionsquared.net/) | Collection of free high-resolution textures for 3D and graphic design projects. |
+| [Motion Squared](https://motionsquared.net) | Collection of free high-resolution textures for 3D and graphic design projects. |
 | [Motion Textures](https://motiontextures.com/pages/download-free-animated-texture-pack) | Online shop selling 4K animated paper textures with After Effects project templates. |
 | [Museum Textures](https://www.museumtextures.com/) | French image bank offering free high-quality textures for Photoshop and 3D students and architects. |
 | [My Free Textures](https://www.myfreetextures.com/) | Free texture library offering a variety of seamless and non-seamless textures for design projects. |
 | [njbrown.itch.io](https://njbrown.itch.io/texturelab) | Free and open source procedural texture generation tool for Windows, macOS, and Linux. |
-| [Onelvxe PBR Material Pipeline](https://cgdownload.ru/catalog/5863-onelvxe-pbr-textures/) | Russian site offering 90 PBR materials with ONELVXE Texture Bridge for free download. |
+| [Onelvxe PBR Material Pipeline](https://cgdownload.net/catalog/5863-onelvxe-pbr-textures/) | Russian site offering 90 PBR materials with ONELVXE Texture Bridge for free download. |
 | [Overlay](https://intro-hd.net/?s=film+overlay&category=Select+All) | Site offering free After Effects and Premiere Pro templates including film overlays and effects. |
-| [Overlay FX](https://www.overlayfx.com/category/overlays-transitions) | Website offering overlay and transition effects for video editing and motion graphics projects. |
-| [Overlays](https://www.psdly.to/?s=film+overlay) | Free premium graphic resources site with film overlays, Photoshop actions, and After Effects templates. |
+| [Overlays](https://www.psdly.co.uk/?s=film+overlay) | Free premium graphic resources site with film overlays, Photoshop actions, and After Effects templates. |
 | [Paper Texture](https://ar.pinterest.com/search/pins/?q=paper%20texture&rs=typed) | Pinterest search results aggregating thousands of paper texture pin references. |
 | [Paper Texture](https://aminesz.gumroad.com/l/papertexture2) | Gumroad listing for a pack of over 100 animated crumpled paper textures. |
 | [Paper-co](https://free-paper-texture.com/) | Japanese site offering free high-quality paper textures available for commercial use. |
@@ -179,21 +172,20 @@
 | [Pixabay](https://pixabay.com/images/search/texture/) | Pixabay search page with over 70,000 free royalty-free texture background images. |
 | [Plain Textures](https://www.plaintextures.com/) | Collection of free textures, PBR textures, photos, brushes, patterns and material packs. |
 | [Plant Modelling in Blender](https://www.textures.com/category/tutorials/114571) | Textures.com tutorial on plant modelling in Blender with step-by-step guidance. |
-| [Poliigon](https://cgdownload.ru/catalog/0912-surface-imperfections-3d-textures/) | Russian site offering Poliigon Surface Imperfections texture pack for free download. |
+| [Poliigon](https://cgdownload.net/catalog/0912-surface-imperfections-3d-textures/) | Russian site offering Poliigon Surface Imperfections texture pack for free download. |
 | [Procreate Brush](https://procreatebrush.net/product-category/free-brushes/page/4/) | Marketplace for free and paid Procreate brushes organized by category and style. |
-| [Procreate Brushes](https://procreate.brushes.work/) | Catalog of over 1,800 free and paid Procreate brushes from various artists worldwide. |
+| [Procreate Brushes](https://brushes.work/) | Catalog of over 1,800 free and paid Procreate brushes from various artists worldwide. |
 | [Procreate Club](https://t.me/procratefree) | Telegram channel sharing free Procreate brush packs and digital art resources. |
 | [Procreate Folio](https://folio.procreate.com/discussions/10) | Procreate community forum where users share resources, tips and discussion threads. |
-| [PSD Keys](https://psdkeys.com/add-ons/brushes/) | Website offering free Photoshop brushes, add-ons and design resources. |
-| [PSDLY](https://www.psdly.xyz/?s=paper+texture) | Free premium graphics resource site with paper textures, mockups and Photoshop add-ons. |
+| [PSDLY](https://www.psdly.co.uk/?s=paper+texture) | Free premium graphics resource site with paper textures, mockups and Photoshop add-ons. |
 | [Pure Ref for Blender](https://github.com/kken498/References-Overlays) | Blender add-on that lets users add image and video references directly in the 3D viewport. |
 | [Raw Textures](https://raw-textures.com/) | Free high-resolution texture library for 3D artists and graphic designers. |
 | [Rawpixel](https://www.rawpixel.com/search/paper%20texture?page=1&path=1522&sort=curated) | Royalty-free stock photography site with paper textures, overlays and design resources. |
 | [reddit.com](https://www.reddit.com/r/SketchbookPro/comments/n95maj/sketchbook_pro_free_brushes_mega_set/) | Reddit post sharing a mega set of free Sketchbook Pro brushes for digital artists. |
 | [Resource Boy](https://resourceboy.com/textures/shadow-overlays/) | Free bundle of 100 transparent shadow overlay PNG textures in 4K resolution. |
 | [Rule by Art](https://rulebyart.com/collections/textures) | Creative stock graphics shop selling premium abstract textures and design resources. |
-| [Rule by Art](https://rulebyart.com/collections/brushes) | Creative stock shop selling premium brushes for Photoshop, Procreate and Illustrator. |
-| [Seamless Texture Generator Plugin](https://www.the-orange-box.com/portfolio_page/free-seamless-texture/) | Free Photoshop plugin that converts any image layer into a seamless texture with one click. |
+| [Rule by Art](https://rulebyart.com) | Creative stock shop selling premium brushes for Photoshop, Procreate and Illustrator. |
+| [Seamless Texture Generator Plugin](https://the-orange-box.com/product/free-seamless-texture-generator/) | Free Photoshop plugin that converts any image layer into a seamless texture with one click. |
 | [Seamless Textures](https://www.deviantart.com/seamlesstextures/gallery) | DeviantArt community group gallery featuring thousands of seamless textures from various artists. |
 | [Share Textures](https://www.sharetextures.com/textures/surfaceimperfection) | Free surface imperfection texture library for 3D rendering and material creation. |
 | [Share Textures](https://www.sharetextures.com/atlases) | Free texture atlas collection for 3D rendering including stone and rock textures. |
@@ -216,30 +208,27 @@
 | [Supply Family](https://supply.family/product-category/more/procreate-brushes/) | Online store selling Procreate brushes, design assets and creative resources. |
 | [SVG Textures \| VISIWIG](https://www.visiwig.com/textures/) | Website offering free SVG textures and vector design resources. |
 | [Textile Textures](https://www.blauwfilms.com/products/textile-textures) | Offers free PBR textile texture maps captured from real fabrics, designed for 3D garment design workflows. |
-| [Texture Box](https://www.texturebox.com/free) | Provides free and premium seamless PBR textures, materials, and 3D assets for 3D artists. |
+| [Texture Box](https://texturebox.com/free) | Provides free and premium seamless PBR textures, materials, and 3D assets for 3D artists. |
 | [Texture Brush Packs](https://forum.affinity.serif.com/index.php?/topic/45019-texture-brush-packs-hatching-version-3/) | Forum thread offering free hatching texture brush packs for Affinity Designer and Photo. |
-| [Texture Can](https://www.texturecan.com/details/332/#google_vignette) | Offers over 650 free CC0 PBR textures with maps including base color, normal, roughness, and displacement. |
+| [Texture Can](https://www.texturecan.com/details/332/) | Offers over 650 free CC0 PBR textures with maps including base color, normal, roughness, and displacement. |
 | [Texture Central](https://www.deviantart.com/texture-central/gallery) | A DeviantArt community gallery featuring thousands of categorized texture deviations from various artists. |
-| [Texture DB](https://www.the3rdsequence.com/texturedb/seamless-converter/) | Provides a free tool to upload and convert textures into seamless/tileable versions. |
+| [Texture DB](https://www.manytextures.com/tools/seamless-converter/) | Provides a free tool to upload and convert textures into seamless/tileable versions. |
 | [Texture Fabrik](https://texturefabrik.com/gallery/) | Donationware site offering a large gallery of free textures, patterns, and overlays for Photoshop. |
 | [Texture Fabrik](https://texturefabrik.com/category/paper/) | Offers free paper texture downloads including torn paper, kraft paper, and notebook paper textures. |
-| [Texture Fun](https://texturefun.com/) | Domain appears to have been repurposed and no longer offers texture resources. |
 | [Texture Hub](https://texturehub.co.uk/) | Free UK-based texture library with categories including grass, wood, concrete, skies, and walls. |
 | [Texture King](https://www.textureking.com/) | Offers free stock texture photos in categories like grunge, concrete, wood, rust, metal, and fabric. |
 | [Texture Lab](https://www.texturelab.io/) | An open-source node-based procedural texture generation tool for creating tileable PBR materials. |
 | [Texture labs](https://texturelabs.org/txl-tools/) | Marketplace for Photoshop and After Effects tools including plugins, actions, brushes, and templates. |
 | [Texture Labs](https://texturelabs.org/) | Free resource site offering high-resolution textures, video tutorials, and custom tools for art and design. |
 | [Texture Labs](https://texturelabs.org/?ct=744) | Category page for free atmosphere textures including fog, smoke, lightning, fire, and rain overlays. |
-| [Texture labs](https://youtube.com/@texturelabs?si=Vfn82mTl2R2ml8El) | YouTube channel featuring texture tutorials, Photoshop techniques, and After Effects training videos. |
+| [Texture labs](https://www.youtube.com/@texturelabs?si=Vfn82mTl2R2ml8El) | YouTube channel featuring texture tutorials, Photoshop techniques, and After Effects training videos. |
 | [Texture Labs Collection](https://archive.org/details/texture-labs-asset-archive-20250418) | Archive.org collection of the complete Texture Labs texture asset archive for offline access. |
-| [Texture Library](https://www.texture-library.com/) | Curated collection of high-quality textures for use in graphic design and 3D rendering projects. |
 | [Texture Ninja](https://texture.ninja/textures/Brick/1) | A React-based web app for browsing and downloading brick textures with various categories. |
 | [Texture Reference](https://texture-reference.com/) | Community-driven reference site for high-resolution texture photographs, licensed under MIT. |
 | [Texture Supply](https://texturesupply.gumroad.com/) | Gumroad store offering texture supply packs and design resources for digital artists. |
 | [TextureCreate](https://gameanimation.info/texture-create/) | Online tool for creating custom textures with opacity, displacement, and animated effects. |
 | [TextureGenerator-Online](https://cpetry.github.io/TextureGenerator-Online/) | Browser-based tool for generating seamless textures including bricks, clouds, perlin noise, and textiles. |
 | [Texturelabs](https://texturelabs.org/?ct=666) | Category page for free paper textures with subcategories including clean, vintage, torn, and folded paper. |
-| [Texturer](http://texturer.com/) | Domain has been repurposed as a Thai gambling website and no longer offers texture resources. |
 | [Textures](https://www.textures.com/category/decals/52338) | PBR texture marketplace offering decal textures, with free and paid options for 3D artists. |
 | [Textures](https://www.textures.com/category/3d-decals/115139) | PBR texture marketplace offering 3D decal textures, with free and paid options for 3D artists. |
 | [Textures](https://www.textures.com/library?filter=substance) | PBR texture marketplace with Substance Designer filter, offering free and paid material textures. |
@@ -253,21 +242,18 @@
 | [Top Texture](https://toptexture.com/) | Premium marketplace for high-resolution seamless CG textures with PBR maps for 3D artists. |
 | [Tree Square](https://teesquare.gumroad.com/) | Gumroad store offering isometric Photoshop brush packs and design resources. |
 | [True Grit Texture Supply](https://www.truegrittexturesupply.com/collections/for-clip-studio-paint) | Premium texture supply store offering brushes, actions, and effects kits for Photoshop and Clip Studio. |
-| [Twinbru](https://textures.twinbru.com/en/products?display_value=gallery&page_size=50&page=1) | Fabric textures from real brands, delivered via email after a short processing time. |
+| [Twinbru](https://textures.twinbru.com/products?display_value=gallery&page_size=50&page=1) | Fabric textures from real brands, delivered via email after a short processing time. |
 | [Unity Asset Collection](https://unityassetcollection.com/category/2d/2d-textures-materials/page/2/) | Free 2D textures and materials for Unity game development projects. |
 | [Urban Brush](https://www.urbanbrush.net/?s=%EC%A0%84%EB%8B%A8%EC%A7%80&post_type=download) | Korean design resource site offering free vector and brush downloads, with membership options. |
 | [Vecteezy](https://www.vecteezy.com/free-png/paper-texture) | Free PNG paper texture downloads with various grunge and vintage paper overlay options. |
 | [Wood Texture](https://ar.pinterest.com/search/pins/?q=wood%20texture&rs=typed) | Pinterest search results page for wood texture inspiration and references. |
 | [Workflow between ZBrush and Blender](https://www.reddit.com/r/ZBrush/comments/12os36o/best_workflow_between_zbrush_blender_and/) | Reddit discussion thread about best workflow practices between ZBrush and Blender. |
-| [Wow Brushes](https://wowbrushes.com/) | Site appears to be unavailable or experiencing server issues. |
-| [X03D](https://xo3d.co.uk/tools/texture-generator/) | Free browser-based texture generator tool for creating seamless procedural textures. |
+| [X03D](https://labs.xo3d.co.uk/texture-generator/) | Free browser-based texture generator tool for creating seamless procedural textures. |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/textures) | Premium design resource marketplace offering textures, mockups, and graphic design assets. |
 | [Zuli](https://zuli.gumroad.com/l/freesofttextures) | Gumroad page offering a free pack of soft fabric textures for 3D rendering and design. |
 | [Zulia Assets](https://www.zuliassets.com/shop/textures) | Marketplace offering texture packs, mockups, and vintage design resources for digital artists. |
 | [Brusheezy](https://www.brusheezy.com/) | Offers a wide range of free Photoshop brushes, patterns, textures, and more. It's a community-driven site where designers share their resources. |
 | [BrushKing](https://www.brushking.eu/) | Provides a wide collection of free Photoshop brushes for various design needs. |
-| [BrushLovers](https://www.brushlovers.com/) | Provides a good selection of high-quality free Photoshop brushes. The site also offers premium brushes for more advanced needs. |
 | [DeviantArt](https://www.deviantart.com/) | A vast community of artists where you can find many free Photoshop brush packs. Be sure to check the license and credit the artists accordingly. |
-| [Fbrushes](https://www.fbrushes.com/) | Features a collection of free brushes for Photoshop. The site categorizes brushes by type, making it easy to find what you need. |
 | [MyPhotoshopBrushes](https://myphotoshopbrushes.com/) | A site offering a variety of free Photoshop brushes, patterns, and textures shared by the design community. |
 

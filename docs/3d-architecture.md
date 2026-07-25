@@ -35,10 +35,7 @@
 | [3D Cosmos](https://3dcosmos.org/?gotl-signin) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Cosmos](https://3dcosmos.org/) | Enscape / 3Dsmax / Sketchup |
 | [3D Cosmos](https://3dcosmos.org/product-category/sketchup/) | Archmag X / Sketchup Scene / - Scenes |
-| [3D Cu](https://www.3dcu.com/) | Creepy 2 Shadowcore , TopGFX , Daz 3D , , Daz 3D Poser |
-| [3D Export](https://3dexport.com/3d-models/architectural-exterior/environment/terrain) | / Turbo Squid / Fab / AE Juice / - Not Free |
-| [3D Export](https://3dexport.com/3d-models/characters) | Reblium Studio / Fab / / Turbosquid |
-| [3D Export](https://3dexport.com/free-search?page=5) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Cu](https://phuongdzu.com/) | Creepy 2 Shadowcore , TopGFX , Daz 3D , , Daz 3D Poser |
 | [3D Garden Plants](https://3dgardenplants.gumroad.com/) | Darstellungsart / Nntuantus / - Not Free |
 | [3D Imperfections](https://t.me/BlenderUniverse/1685) | Animated Condensation texture for Blender |
 | [3D Jungle](https://3djungle.net/models/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -57,7 +54,7 @@
 | [3D Model Libraries - 3D Printing Resources and Tools -](https://guides.library.utoronto.ca/3Dprinting/libraries) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Model Org](https://3d-model.org/3d-print/) | STL3D Pro / / Historical Military STLs |
 | [3D Model Pro Free](https://t.me/model3dpro) | 3D Max Model / 3D for Free / |
-| [3D Model Share](https://3dmodelshare.org/3d-scenes/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Model Share](https://3dzip.info/3d-scenes/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Models](https://3dmodels.org/ko/blueprints/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Models](https://rt3dmodels.com/tag/lumion/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3d models free](https://3dsmodelfree.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -70,10 +67,8 @@
 | [3D Printing Wiki](https://www.reddit.com/r/3Dprinting/wiki/index/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Render](https://www.3d-render.nl/tag/gobo/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3d Render](https://www.3d-render.nl/tag/hdri/) | For Blenderkit |
-| [3D Rendering Tool - XO3D](https://xo3d.co.uk/tools/3d-rendering/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Rendering Tool - XO3D](https://labs.xo3d.co.uk/3d-rendering/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Scan Store](https://www.3dscanstore.com/) | / Me Rror / Human Alloy / Suerhive |
-| [3D Scenes](https://3dscenes.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Scenes](https://3dscenes.org/3d-models/sketchup-models/) | 3D333 , Lumion Vietnam , Sketch Shaper / |
 | [3D Shop Free](https://www.3dshopfree.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Sketchup net](https://t.me/free3dsketchup) | Telegram 🏴‍☠️ |
 | [3D Sky](https://3dsky.org/3dmodels?types=free&types=om&cat=teksturi&subcat=teksturi_kirpich&subcat=tkan&subcat=napolnie_pokritya&subcat=hdri&subcat=material_kozha&subcat=metall&subcat=teksturi_raznoe&subcat=organika&subcat=paniramnie_izobrazhenia&subcat=teksturi_kovri&subcat=kamen&subcat=teksturi_kafel_plitka&subcat=cteni_oboi&subcat=derevo) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -84,7 +79,6 @@
 | [3D Sky Free](https://3dskyfree.com/page/4/?s=molding) | / Dikart -/ 3ddd / 3D Jungle - Mouldings |
 | [3D Sky Free](https://3dskyfree.com/category/plants-bush/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Sky Model](https://3dskymodel.com/?sfid=67729&_sfm_type=Free) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Sky Models](https://3dskymodels.org/3d-models/interior-parts-obk3v190?category=0&format=0&page=2&price=&quality=&query=&render=0&sort=&tags=) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Space](https://t.me/all_3dsky) | 3D Oasis / 3D sky Pro / / 3ddd.ru |
 | [3D Texel](https://3dtexel.com/pbr-material/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Tools](https://3dtools.gumroad.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -99,15 +93,14 @@
 | [3D Wall Panels Italia](https://it.3dwallpanels-italia.com/acoustic) | Panels/Products Italy |
 | [3D Warehouse](https://3dwarehouse.sketchup.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D Warehouse](https://3dwarehouse.sketchup.com/search/models?q=sculpture) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Zip](https://3dzip.org/scripts/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Zip](https://3dzip.org/tag/plant/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3D Zip](https://3dzip.org/scenes/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Zip](https://3dzip.info/scripts/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Zip](https://3dzip.info/tag/plant/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3D Zip](https://3dzip.info/scenes/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D.sk](https://www.3d.sk/) | U may need to open in Tor |
 | [3d.techdesigns](https://www.instagram.com/3d.techdesigns/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3D333](https://3d333.blogspot.com/) | , Lumion Vietnam , Sketch Shaper / 3D Scenes |
 | [3d66](https://linggantu.3d66.com/home) | Chinese 82net / / ff / |
 | [3DArt](https://www.3dart.it/en/free-hdri-sky-timelapse/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3dbestie](https://www.3dbestie.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DBrute](https://3dbrute.com/category/3d-scenes/bathroom-scene/&3d-scenes/bedroom/&3d-scenes/cinema-room/&3d-scenes/directors-room/&3d-scenes/dressing-room/&3d-scenes/exterior/&3d-scenes/general-room/&3d-scenes/gym-entertainment/&3d-scenes/hallway/&3d-scenes/kitchen-dining-room/&3d-scenes/living-room/&3d-scenes/meeting-room/&3d-scenes/office-room/&3d-scenes/reception/&3d-scenes/restaurant-coffee/&3d-scenes/showroom/&3d-scenes/spa-room/&3d-scenes/tea-room/&3d-scenes/work-room?type=free) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DCarParts.org](https://3dcarparts.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DChaya](https://www.3dchaya.com/views/content/us/contents/index.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -115,10 +108,8 @@
 | [3dcoat.com](https://3dcoat.com/documentation/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3ddd](https://3ddd.ru/3dmodels?query=%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%20%D0%B3%D0%B8%D0%BF%D1%81) | 3D Sky Free / Dikart -/ / 3D Jungle - Mouldings |
 | [3ddd.ru](https://t.me/pro_model_3dxyz) | 3D Oasis / 3D sky Pro / 3D Space / |
-| [3DExport](https://3dexport.com/search?hidden=486088&search_keywords=vdb) | Fab / Orbital Market / CG Trader / -/ CGHeven Not Free |
 | [3Dline](https://t.me/s/promodel_3dsky) | / 3DS Max / 3Ds Max Library |
 | [3DLOAD](https://3d-load.net/) | Creepy , Poser , CG Bytes , Render State , Assets Free , Daz Studio |
-| [3dmarvel.com](https://3dmarvel.com/) | - 2 free downloads p/day w/user |
 | [3DModels Ru](https://3dmodels.ru/models/arkhitiektura/zdaniia) | - Buildings, Medicine, Sports, Music |
 | [3DNchu](https://3dnchu.com/archives/category/plugin_addon/blender_addon/) | Modeling Happy / / 2 / Gachoki |
 | [3DNChu](https://3dnchu.com/archives/category/asset/unreal_engine_asset/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -134,17 +125,15 @@
 | [3Ds Max Shortcuts](https://cheatography.com/mollick2/cheat-sheets/3ds-max-2012/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DS Model Free](https://3dsmodelfree.com/category/3dsmax/3ds-trees/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DSKY](https://3dsky.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3dsky](https://3dsky.me/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3Dsky](https://t.me/block3dsky) | 3D Block W.A. / / Block 3Ds Max / Blocks / 3D Block Platinum |
 | [3Dsky Free](https://3dskyfree.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DSky Free](https://3dskyfree.com/category/living-room-sets/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DSky Free](https://3dskyfree.com/category/hdri/) | 3D Zip / / 2 / 3DSyorg |
 | [3dskyfree.com](https://3dskyfree.com/category/decor-helper-map-hdri/) | 3D Zip / 3DSky Free / / 3DSyorg |
-| [3dsmax Scene](https://3dsmaxscene.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3dsMaxdepot.com](https://3dsmaxdepot.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [3DSyorg](https://3dsky.org/3dmodels?query=hdri&order=relevance) | 3D Zip / 3DSky Free / 2 / |
 | [3dvn.org](https://3dvn.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [3DZip](https://3dzip.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [3DZip](https://3dzip.info/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [6 GB of 3DSmax Rocks](https://t.me/render3Dbrasil/16707/217302) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [A23D](https://www.a23d.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [A23D](https://www.a23d.co/decals) | Kangaroo , Sir Charles , Andrian Luchian , - Not Free |
@@ -183,7 +172,7 @@
 | [Archibase 3D](https://archibase3d.blogspot.com/search/label/hdri%20maps) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Archicad & 3Dsmax](https://t.me/archicad3d/192547) | Telegram 🏴‍☠️ |
 | [Archive](https://archive.org/search?query=warhammer+stl) | / Redit / CG Download / Telegram / 2 / 3 - Warhammer |
-| [Archive 3D](https://archive3d.net/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Archive 3D](https://free3d.io/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [archivinci.com](https://www.archivinci.com/blogs/top-cloud-rendering-softwares) | Top Renderfarm Cloud Rendering Services for Blender Users / / 3 |
 | [are.na](https://www.are.na/nicky-knicky-3dxxlr2n7l4/delightful-interactions-bcb-j8spqiy) | Are.na Motion design collection , 2 , |
 | [Art Station](https://www.artstation.com/marketplace/game-dev/resources/dev-tools/plugins?section=trending&softwares=3ds-max) | Gumroad / / CG Trader - Not Free |
@@ -210,22 +199,22 @@
 | [Blender free Universe](https://t.me/BlenderUniverse/1581) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Blender GPT](https://www.blendergpt.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Blender Guru](https://www.youtube.com/c/BlenderGuruOfficial) | Youtube wolf73 , Josiahbout , Ian Hubert , Kaizen , Clever Poly , |
-| [Blender Kit](https://www.blenderkit.com/?query=order%3A-created+is_free%3Atrue+category_subtree%3Alandscape) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blender kit](https://www.blenderkit.com/?query=molding+order:_score) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blender Kit](https://www.blenderkit.com/asset-gallery?query=order%3A-created+category_subtree%3Atable+is_free%3Atrue&page=2) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blender Kit](https://www.blenderkit.com/asset-gallery?query=category_subtree:hdr-nature+space+order:_score) | Era / Super Hive Market / Cube Brush / / Earth Digital |
-| [Blender Market](https://blendermarket.com/products?sort_price=asc) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blender Kit](https://www.blendkit.com/?query=order%3A-created+is_free%3Atrue+category_subtree%3Alandscape) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blender kit](https://www.blendkit.com/?query=molding+order:_score) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blender Kit](https://www.blendkit.com/?query=order%3A-created+category_subtree%3Atable+is_free%3Atrue&page=2) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blender Kit](https://www.blendkit.com/?query=category_subtree:hdr-nature+space+order:_score) | Era / Super Hive Market / Cube Brush / / Earth Digital |
+| [Blender Market](https://superhivemarket.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Blender Market Pro](https://t.me/BlenderMarketPro) | Telegram Free Blender Assets / |
 | [Blender Plugs](https://t.me/blenderplugs) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Blender Universe](https://t.me/BlenderUniverse) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Blenderhub](https://blenderhub.net/top-free-and-paid-blender-addons/) | Lists of Blender Addons |
-| [Blenderkit](https://www.blenderkit.com/?query=category_subtree:addon) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blenderkit](https://www.blenderkit.com/asset-gallery?query=category_subtree:material+order:-created+is_free:true) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blenderkit](https://www.blenderkit.com/?query=category_subtree:science) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blenderkit](https://www.blenderkit.com/?query=category_subtree:plant) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blenderkit](https://www.blenderkit.com/?query=category_subtree:character) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Blenderkit](https://www.blenderkit.com/?query=category_subtree:printable%20order:-created) | Redpah / Gumroad / - Not Free |
-| [Blenderkit](https://www.blenderkit.com/asset-gallery?query=category_subtree:hdr+order:-bookmarks+availability:free) | / Super hive / 3D Ocean / Cube Brush / 3D Sky - Not Free |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:addon) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:material+order:-created+is_free:true) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:science) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:plant) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:character) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:printable%20order:-created) | Redpah / Gumroad / - Not Free |
+| [Blenderkit](https://www.blendkit.com/?query=category_subtree:hdr+order:-bookmarks+availability:free) | / Super hive / 3D Ocean / Cube Brush / 3D Sky - Not Free |
 | [Blob Blab 3D](https://www.instagram.com/bloblab3d) | IG - Cute toys |
 | [Block 3Ds Max](https://t.me/block_3dmax) | 3D Block W.A. / 3Dsky / / Blocks / 3D Block Platinum |
 | [BU 2](https://t.me/BlenderUniverse/9257) | Telegram Blender free Universe / / |
@@ -233,7 +222,7 @@
 | [Cartesianic](https://github.com/cartesiancs/map3d) | - Open source 3D map creator |
 | [CG Cookie](https://cgcookie.com/posts/the-ultimate-guide-to-the-best-blender-add-ons) | Lists of Blender Addons |
 | [CG Cookie](https://cgcookie.com/posts/best-free-blender-add-ons-for-work-efficiency) | Lists of Blender Addons |
-| [CG Download](https://cgdownload.ru/?s=3dsky) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [CG Download](https://cgdownload.net/?s=3dsky) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [CG Trader](https://www.cgtrader.com/search?keywords=scripts-plugins%203ds%20max) | Gumroad / Art Station / - Not Free |
 | [CG Trader](https://www.cgtrader.com/search?keywords=scripts-plugins+maya) | Gumroad / Art station / / Flipped Normals - Not Free |
 | [CG Trader](https://www.cgtrader.com/search?keywords=substance) | Textures / Gumroad 2 / Flipped Normal / / - Not Free |
@@ -257,7 +246,6 @@
 | [Copy To](https://www.scriptspot.com/3ds-max/scripts/copyto) | With , you can copy between 3dsmax open files |
 | [Cults 3D](https://cults3d.com/en?srsltid=AfmBOopCQjZdIG9FbVn4ydFCa13bH9OnuUl_ThDIB0Kqsh0Zrb7srTtk) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [D5 Render Assets Store](https://d5renderassetsstore.gumroad.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [D5 Render complete Material Library.](https://designrender.gumroad.com/l/sclojz) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [D5 Renders](https://forum.d5render.com/c/content-hub/scene-express/42) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Daz 3D](https://daz3d-poser.net/) | Creepy 2 Shadowcore , TopGFX , , 3D Cu , Poser |
 | [Daz 3D](https://www.daz3d.com/free-3d-models) | Creepy 3 , Renderosity Zone GFX , GFX Hub / PresetsFX / DesireFX |
@@ -272,11 +260,10 @@
 | [Design Syndrome](https://vagon.io/blog/the-ultimate-3ds-max-pc-build-or-buy-the-perfect-workstation-for-power-and-performance) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [DesireFX](https://www.desirefx.com/category/3d-models/daz-3d) | Creepy 3 Daz 3D , Renderosity Zone GFX , GFX Hub / PresetsFX / |
 | [dmi-3d.net](https://www.dmi-3d.net/freemodels.html) | List of Websites with car 3D models |
-| [Down 3D models](https://down3dmodels.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Dribble](https://dribbble.com/tags/free_3d_illustration) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Drop and Render](https://dropandrender.com/en/corona-render-farm) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [dropandrender.com](https://dropandrender.com/en/blog/top-ten-faq-about-render-farms) | Top Renderfarm Cloud Rendering Services for Blender Users / 2 / |
-| [Easy Render](https://www.easyrender.com/a/10-best-sketchup-tutorials-resources-and-courses-you-can-find-online) | Collections of curses / Vagon |
+| [Easy Render](https://www.easyrender.com/) | Collections of curses / Vagon |
 | [EBO 3D Scenes](https://t.me/eboArchitect3ds) | Telegram 🏴‍☠️ |
 | [Embossify](https://www.embossify.com/) | - Photo to 3D STL suitable for 3D Printing |
 | [Endless Tools](https://endlesstools.io/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -301,7 +288,7 @@
 | [Free Blender Assets](https://t.me/freeblenderasset) | Telegram / Blender Market Pro |
 | [Free Daz 3D](https://t.me/Free_Daz3D) | Telegram 🏴‍☠️ |
 | [Free for Daz](https://t.me/free4daz3d) | Telegram 🏴‍☠️ |
-| [Freepik](https://www.freepik.com/pikaso/retouch#from_element=home_tools) | - Replace or erase object in image / Upscale / Resize / Retouch |
+| [Freepik](https://www.magnific.com/app/retouch) | - Replace or erase object in image / Upscale / Resize / Retouch |
 | [From 3ddd](https://t.me/f3dddwl) | Free 3Ds Models 2 / / Materials for 3ds Max |
 | [Gachoki](https://gachoki.com/blender-addons/) | Modeling Happy / 3DNchu / 2 / |
 | [Gazzaladra Design](https://www.instagram.com/gazzaladradesign) | He scans real objects and 3D prints them |
@@ -313,7 +300,7 @@
 | [Github](https://github.com/rlczddl/awesome-3d-human-reconstruction) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Github Collection](https://github.com/topics/3d-generation) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [github.com](https://github.com/insthync/awesome-unity3d) | Github 1 / / 3 / 4 / 5 / 6 / 7 / 8 / |
-| [github.com](https://github.com/wendashi/awesome-3D-base-models) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [github.com](https://github.com/wendashi/awesome-3D-Generative-Models) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [github.com](https://github.com/mvarga1989/Datasets_Reality_capture_3Dmodelling) | Github Photogrammetry 1 / 2 / / 4 / 5 / 6 |
 | [Glassware 3D](https://pingo.gumroad.com/l/glassware3D) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Gobos Master](https://mr3d.gumroad.com/l/gobos-master) | - Not Free - For Blender |
@@ -324,20 +311,19 @@
 | [Highend 3D](https://www.highend3d.com/3dsmax/scripts-plugins/c/downloads) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Highend 3D - Scripts / Plugins](https://www.highend3d.com/scripts-plugins/c/downloads) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Historical Military STLs](https://t.me/historicalmilitarystls) | STL3D Pro / 3D Model Org / |
-| [Hitem3D](https://hitem3d.ai/) | - Can upload several angle pictures |
+| [Hitem3D](https://www.hi3d.ai/) | - Can upload several angle pictures |
 | [Hola Maybe](https://www.behance.net/maybe?fbclid=PAZXh0bgNhZW0CMTEAAablASP4sTL_Qj27mukjV_ZYuzJAthUB_cvaKuFs7Ce1hs_r9iqxfvheiv8_aem_aXY6XUEtDQptRQgXWDbReA) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Hollisbrown](https://hollisbrown.github.io/blendershortcuts/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Home Designs](https://homedesigns.ai/special-offer?hopId=cbf3e2c7-86b0-4278-8834-43d49403baef) | - Redecorate space - Not free |
+| [Home Designs](https://homedesigns.ai/) | - Redecorate space - Not free |
 | [Humano 3D](https://humano3d.com/) | Human Scan Repository / / Renderhub |
-| [ICity](https://icity3d.com/) | City Procedural 3D Gen |
+| [ICity](https://parametra.net/) | City Procedural 3D Gen |
 | [Image to STL](https://imagetostl.com/) | - PNG to STL, Option for 3D extrusion |
-| [Indigo Renderer](https://www.indigorenderer.com/materials/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Inspiration tuts](https://inspirationtuts.com/top-40-best-blender-addons/) | Lists of Blender Addons |
 | [Installation Tut.](https://icity3d.com/6-install-the-add-on-in-blender/) | City Procedural 3D Gen |
 | [Interia](https://interia.com.ua/materialy/3d-modeli/) | 3D Ukraine Basic, but lots |
 | [IT Cloud 3D](https://t.me/itcloud3d) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Jugaad Render](https://jugaadrender.tumblr.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Julio Sillet 3D Art Blender Materials Collection](https://cgdownload.ru/catalog/5260-julio-sillet-3d-art-blender-materials-collection/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Julio Sillet 3D Art Blender Materials Collection](https://cgdownload.net/catalog/5260-julio-sillet-3d-art-blender-materials-collection/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Junior 3D](https://junior3d.ru/HDRI/KosmosZvezdyHDRI.html) | AE Blender / / Retro Skyboxes |
 | [Kangaroo](https://kangarooz3d.gumroad.com/l/JXtXkV) | , Sir Charles , Andrian Luchian , A23D - Not Free |
 | [Kelly Wearstler](https://www.kellywearstler.com/) | Luxury, Warm maximalism, iconic |
@@ -365,7 +351,6 @@
 | [Neo 3D Poster](https://ar.pinterest.com/search/pins/?q=neo%203d%20poster&rs=typed) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [NIH 3D](https://3d.nih.gov/) | Anatomy, molecules, DNA, viruses |
 | [Note](https://note.com/1blog/n/nd385ff90343d) | Japanese Brush Calligrapry Achi / / Japan Design / Photoshop Vip / Coliss |
-| [NVIDIA Precise Generative AI](https://github.com/NVIDIA-Omniverse-blueprints/3d-conditioning) | - Change textures to renders |
 | [Off Screen Canvas](https://offscreencanvas.com/renders/points-lines-and-people) | Cool onsite web animations Insight , , Cntrl / nvg8 |
 | [Omega Render](https://omegarender.com/3d-exterior-rendering-services) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [onedrive.live.com](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9mZTU0NDRiNDhhM2Q5ZWM5L0VzbWVQWXEwUkZRZ2dQNXlPd0FBQUFBQktJd1pVN2IyNEhUU1dRSm5pc3pKeFE%5FZT1pRnBnbkQ&id=FE5444B48A3D9EC9%2115218&cid=FE5444B48A3D9EC9) | Aromas del Campo Spain |
@@ -402,7 +387,7 @@
 | [Render3DBrasil](https://t.me/render3Dbrasil/16882) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Renderhub](https://www.renderhub.com/3d-models/people) | Human Scan Repository / Humano 3D / |
 | [Renderhub](https://www.renderhub.com/ztl-3d-models) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Rendernet](https://app.rendernet.ai/home) | - Avatar creator, Upscale, Video face swap - D |
+| [Rendernet](https://affogato.ai/) | - Avatar creator, Upscale, Video face swap - D |
 | [Renderosity](https://www.renderosity.com/freestuff) | Creepy 3 Daz 3D , Zone GFX , GFX Hub / PresetsFX / DesireFX |
 | [ReRender](https://rerenderai.com/service/exterior) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Rerender AI](https://rerenderai.com/) | - Upscale, change style of Renders - D |
@@ -452,7 +437,7 @@
 | [Wargame 3D](https://www.wargaming3d.com/) | / 3D Breed - Not Free |
 | [wolf73](https://www.youtube.com/@wolf73blender) | Youtube , Josiahbout , Ian Hubert , Kaizen , Clever Poly , Blender Guru |
 | [Worst Volume control](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950) | Purposefully bad designed UI |
-| [X03D](https://xo3d.co.uk/tools/image-compressor/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [X03D](https://labs.xo3d.co.uk/image-compressor/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [YVO3D](https://yvo3d.com/) | 1. - U need VPN from europe |
 | [Zeel](https://zeelproject.com/ru/3d-models/decoration/3d-panel/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Каталог гипсовых 3D моделей \| ARATTA](https://arattalepnina.ru/katalog-gipsovyh-3d-modeley/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -469,23 +454,20 @@
 | [Dutch Free 360° HDRI](https://www.bobgroothuis.com/collections/360-hdri) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Free HDRI](http://freehdri.free.fr/?download) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Gaffer](https://blender-addons.org/gaffer/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [HDR Ray](https://hdrray.com/hdris) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI and Materials](https://t.me/hdri_max) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Drive](https://drive.google.com/drive/folders/1oyAixdaYQMzw0Hg7UAEe9KvwAEOpIV0E) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Generator](https://hyper3d.ai/omnicraft/hdri) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRi Haven](https://hdri-haven.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Hub](https://www.hdri-hub.com/hdrishop/freesamples/freehdri) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Hub](https://www.hdri-hub.com/hdrishop/hdri/space) | Art Station / / Production Crate - Not Free |
-| [HDRI in UE](http://rag3dviz.com/tutorial/hdri-lighting-in-unreal-engine/2/) | Tutorial on how to create an HDRI Tutorial / 2 / / 4 / 5 / 6 |
+| [HDRI in UE](https://web.archive.org/web/20241210151510/http://rag3dviz.com/tutorial/hdri-lighting-in-unreal-engine/2/) | Tutorial on how to create an HDRI Tutorial / 2 / / 4 / 5 / 6 |
 | [HDRI Japan](https://www.hdrijapan.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRi Maker Studio](https://andrew-d.gumroad.com/l/kChzm) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Maps](https://hdrmaps.com/freebies/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRI Skies](https://hdri-skies.com/free-hdris/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [HDRi Space Spheremaps](https://www.spacespheremaps.com/hdr-spheremaps/) | / Telegram / T2 / T3 / |
-| [HDRI.uk](https://www.hdri.uk/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [hdrmaps.com](https://hdrmaps.com/blog/how-to-create-hdri-maps/) | Tutorial on how to create an HDRI Tutorial / 2 / HDRI in UE / / 5 / 6 |
 | [hdrmaps.com](https://hdrmaps.com/blog/category/tutorials/) | Tutorial on how to create an HDRI Tutorial / 2 / HDRI in UE / 4 / / 6 |
-| [Lys](https://www.knaldtech.com/lys/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Matte Paint](https://mattepaint.com/gallery/hdri/skies/) | - Same HDRIs in different moments of the day - |
 | [MR HDRI](https://roz.gumroad.com/l/hdri-free-pack/uscdz3v) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [No Emotions HDRI](https://noemotionhdrs.net/hdrnight.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -504,7 +486,7 @@
 | [Telegram](https://t.me/BlenderUniverse/12040) | HDRi Space Spheremaps / / T2 / T3 / |
 | [Textures and HDRIs](https://t.me/textures_blender_3dsMax_Maya) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Tutorial](https://blog.polyhaven.com/how-to-create-high-quality-hdri/) | on how to create an HDRI / 2 / HDRI in UE / 4 / 5 / 6 |
-| [Xo3D](https://xo3d.co.uk/tools/360-viewer/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Xo3D](https://labs.xo3d.co.uk/360-viewer/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 
 ## Interior Design & Architecture
 
@@ -549,7 +531,6 @@
 | :--- | :--- |
 | [Dope Editing](https://t.me/DOPE_editing/2350) | Telegram 🏴‍☠️ |
 | [Free LUTS](https://t.me/Free_LUTS) | Telegram 🏴‍☠️ |
-| [Free Luts Work](https://luts.work/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Fresh LUTS](https://freshluts.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [LOG LUTS Drive](https://drive.google.com/drive/folders/1f5JAa4Jul92LgEquvVZw31DLfcmxCcoy) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [LUT Builder AI](https://www.lutbuilder.ai/) | AI LUT Builder - 10 free LUTs/month |
@@ -569,11 +550,11 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [16mm](https://www.psdly.to/?s=16mm+FILM+GRAIN) | Film Grains , Overlays , 8mm , , 35mm PSDLY |
+| [16mm](https://www.psdly.co.uk/?s=16mm+FILM+GRAIN) | Film Grains , Overlays , 8mm , , 35mm PSDLY |
 | [16mm](https://intro-hd.net/?s=16mm+film+grain&category=Select+All) | Intro HD 🏴‍☠️ |
-| [35mm](https://www.psdly.to/?s=35mm+FILM+GRAIN) | Film Grains , Overlays , 8mm , 16mm , PSDLY |
+| [35mm](https://www.psdly.co.uk/?s=35mm+FILM+GRAIN) | Film Grains , Overlays , 8mm , 16mm , PSDLY |
 | [35mm](https://intro-hd.net/?s=35mm+film+grain&category=Select+All) | Intro HD 🏴‍☠️ |
-| [8mm](https://www.psdly.to/?s=8mm+FILM+GRAIN) | Film Grains , Overlays , , 16mm , 35mm PSDLY |
+| [8mm](https://www.psdly.co.uk/?s=8mm+FILM+GRAIN) | Film Grains , Overlays , , 16mm , 35mm PSDLY |
 | [8mm](https://intro-hd.net/?s=8mm+film+grain&category=Select+All) | Intro HD 🏴‍☠️ |
 | [Action VFX](https://www.actionvfx.com/collections/free-surface-imperfections-stock-footage) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Action VFX](https://www.actionvfx.com/blog/so-you-want-to-learn-nuke-start-here) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -585,25 +566,25 @@
 | [Arteck](https://arteck-design.com/en/acoustic-solutions/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev/assets/animation-and-effects/vfx) | Big Films / Art Station / / 3 / 4 |
 | [artstation.com](https://www.artstation.com/marketplace/game-dev/resources/animation-effects/vfx) | Big Films / Art Station / 2 / / 4 |
-| [Austin Makes Films](https://austinmakesfilms.sellfy.store/p/UAz9/) | - 8mmFilm grain overlay |
+| [Austin Makes Films](https://austinmakesfilms.sellfy.store/p/uaz9old/) | - 8mmFilm grain overlay |
 | [Beeble AI](https://beeble.ai/) | - Free AI VFX composition |
 | [Behance](https://www.behance.net/galleries/motion/film) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Bro VFX](https://cgdownload.ru/catalog/9031-brovfx-ultimate-bro-pack/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Bro VFX](https://brovfx.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [BroVFX](https://brovfx.com/) | / Motion VFX / Gumroad / Cine Packs |
 | [C Bailey](https://www.youtube.com/@cbaileyfilm) | Youtube Smeaf , , Derek Elliot , Ducky 3d , In Light VFX |
 | [C4DSky](https://c4dsky.com/category/maya) | VFX Med / AE Blender / CG Download / GFXtra / |
 | [Casual](https://casualsolutions.es/en/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Casual](https://casualsolutions.es/en/product/sofa-beds/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CG Download](https://cgdownload.ru/brands/maya/) | VFX Med / AE Blender / / GFXtra / C4DSky |
-| [CG Download](https://cgdownload.ru/brands/zbrush/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [CG Download](https://cgdownload.ru/?s=VDB) | / PSDLY / VFXMed / AE Blender / |
+| [CG Download](https://cgdownload.net/brands/maya/) | VFX Med / AE Blender / / GFXtra / C4DSky |
+| [CG Download](https://cgdownload.net/brands/zbrush/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [CG Download](https://cgdownload.net/?s=VDB) | / PSDLY / VFXMed / AE Blender / |
 | [Chaos Pheoenix -](https://t.me/models_plugins/66904) | Tut1 , Tut2 , Tut3 , Fluid VFX |
 | [Chroma Supply](https://chromasupply.com/collections/video) | YWFT / / Motion VFX / Motion Array - Not Free |
 | [Chunk Resources - Motion Design & VFX](https://www.chunkmotion.design/resources#after-effects) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Cine Packs](https://cinepacks.store/collections/davinci-resolve-packs) | BroVFX / Motion VFX / Gumroad / |
 | [Danzo Motion](https://danzomotion.com/) | Filter Grade / Mixkit / Motion Array / Motion Elements / Motion VFX / |
 | [Derek Elliot](https://www.youtube.com/@derekelliott) | Youtube Smeaf , C Bailey , , Ducky 3d , In Light VFX |
-| [DJV](https://darbyjohnston.github.io/DJV/index.html) | - Open Sourcel VFX imagesequence and video review/player |
+| [DJV](https://grizzlypeak3d.github.io/DJV/) | - Open Sourcel VFX imagesequence and video review/player |
 | [Drive](https://drive.google.com/drive/folders/1L7-gZR5FjQeyDO6vNcWHAZtCVESyO1Rq) | 200GB of VFX, Edit, GFX pacl |
 | [Ducky 3d](https://www.youtube.com/@theducky3d) | Youtube Smeaf , C Bailey , Derek Elliot , , In Light VFX |
 | [Earth Digital](https://www.blauwfilms.com/products/earth-digital) | Era / Super Hive Market / Cube Brush / Blender Kit / |
@@ -613,7 +594,7 @@
 | [Evolution Studio](https://www.evolution-design.info/all-projects/commercial) | Over the top, eclectic |
 | [Fab](https://www.fab.com/category/vfx) | / Orbital Market / CG Trader / 3DExport -/ CGHeven Not Free |
 | [Film Convert](https://www.filmconvert.com/plugin/adobe) | / Cinegrams / Motion Array |
-| [Film Grains](https://www.psdly.to/?s=FILM+GRAIN) | , Overlays , 8mm , 16mm , 35mm PSDLY |
+| [Film Grains](https://www.psdly.co.uk/?s=FILM+GRAIN) | , Overlays , 8mm , 16mm , 35mm PSDLY |
 | [Film Grains](https://intro-hd.net/?s=film+grain&category=Select+All) | Intro HD 🏴‍☠️ |
 | [Film Simplified](https://filmsimplified.com/lut-matcher-deal) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Filter Grade](https://filtergrade.com/product-category/premiere-pro-templates/) | / Mixkit / Motion Array / Motion Elements / Motion VFX / Danzo Motion |
@@ -633,13 +614,12 @@
 | [Malcolm 341](https://www.youtube.com/channel/UCuHLxYrggu6gB4cLKAGo71w/videos) | Artefact VFX / / Online Media Tutor - Youtube |
 | [Melda](https://www.meldaproduction.com/MConvolutionEZ?gad_source=1&gclid=CjwKCAiA9IC6BhA3EiwAsbltOO8nM3VZN4VGrp_lYVo_ycvXvTHj7TlVvobKlC1cd49lr-YKHE4gURoCH6EQAvD_BwE) | - Convolution reverb plugin |
 | [Mixkit](https://mixkit.co/free-premiere-pro-templates/) | Filter Grade / / Motion Array / Motion Elements / Motion VFX / Danzo Motion |
-| [MOGRT](https://softarchive.is/search?q=MOGRT) | Videohive Collection / / Persian VFX |
 | [Motion Array](https://motionarray.com/browse/luts/) | Paramount Motion , / OIJ / Analogical Lab |
 | [Motion Array](https://motionarray.com/browse/search/animated%20texture/) | YWFT / Chroma Supply / Motion VFX / - Not Free |
 | [Motion Array](https://motionarray.com/premiere-pro-templates/) | Filter Grade / Mixkit / / Motion Elements / Motion VFX / Danzo Motion |
 | [Motion Elements](https://www.motionelements.com/ko/premiere-pro-templates) | Filter Grade / Mixkit / Motion Array / / Motion VFX / Danzo Motion |
 | [Motion Elements](https://www.motionelements.com/search/resolve?subscription=1) | visualVFX / Top 10 macros / / Mr Alex Tech |
-| [Motion Squared](https://motionsquared.net/products/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Motion Squared](https://www.motionsquared.net/materials/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Motion VFX](https://www.motionvfx.com/store/adobe-premiere-after-effects-plugins) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Motion VFX](https://www.motionvfx.com/store/stock-elements) | YWFT / Chroma Supply / / Motion Array - Not Free |
 | [Motion VFX](https://www.motionvfx.com/store/after-effects-templates) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -652,7 +632,7 @@
 | [pCon Catalogue](https://catalogs.pcon-solutions.com/) | 4. If I cannot find a model with textures, I search in the brand website or , that is the official repository for lots of futrniture brands. Here I will find a model with no textures, and add them man |
 | [pCon.catalog](https://catalogs.pcon-solutions.com/#/?f=%7B%22category_tag_ids%22%3A%5B%22t-egr%3Acategory%3Afurniture%22%5D%7D) | Official 3D banks of companies |
 | [Persian VFX](https://dl4.persiangfx.com/userfiles/template/Premiere/) | Videohive Collection / MOGRT / |
-| [PSDLY](https://www.psdly.xyz/?s=VDB) | CG Download / / VFXMed / AE Blender / |
+| [PSDLY](https://www.psdly.co.uk/?s=VDB) | CG Download / / VFXMed / AE Blender / |
 | [shufilm](https://www.youtube.com/@shufilm) | - Youtube Channel with tunnel animation loops |
 | [Smeaf](https://www.youtube.com/@Smeaf) | Youtube , C Bailey , Derek Elliot , Ducky 3d , In Light VFX |
 | [Soft Archive](https://softarchive.is/search?q=After+Effects+Templates) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
@@ -667,9 +647,9 @@
 | [VFX Camera Database](https://vfxcamdb.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [VFX Central](https://intro-hd.net/?s=vfxcentral&category=Select+All) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [VFX Download](https://vfxdownload.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [VFX Hunt](https://vfxhut.com/product-category/surface-imperfections/) | Gumroad / 2 / 3 / Lot Pixel / - Not Free |
-| [VFX Hunt](https://subs.vfxhut.com/vdb-files/) | The Pixel Lab , / Super Hive - Not Free |
-| [VFX Hut](https://subs.vfxhut.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [VFX Hunt](https://vfxhut.com/) | Gumroad / 2 / 3 / Lot Pixel / - Not Free |
+| [VFX Hunt](https://vfxhut.com/) | The Pixel Lab , / Super Hive - Not Free |
+| [VFX Hut](https://vfxhut.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [VFX Med](https://www.vfxmed.com/tag/maya/) | / AE Blender / CG Download / GFXtra / C4DSky |
 | [VFX Med](https://www.vfxmed.com/tag/zbrush/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [VFX Med](https://www.vfxmed.com/?s=vdm) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |

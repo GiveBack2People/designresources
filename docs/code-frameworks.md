@@ -18,21 +18,19 @@
 | [Bootswatch](https://bootswatch.com/) | Free themes for Bootstrap |
 | [Colorlib](https://colorlib.com/wp/templates/) | Almost any category of theme you can think of |
 | [Cruip](https://cruip.com/free-templates/) | Fully coded HTML templates to help you easily build your startup landing page without hassles. |
-| [Free CSS](https://www.free-css.com/free-css-templates) | Huge collection of free templates |
 | [FreeHTML5](https://freehtml5.co/) | Free & premium HTML5 and Bootstrap themes |
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [HTML5Up](https://html5up.net/) | Very modern, unique responsive HTML5/CSS3 themes |
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 | [Hubspot](https://www.hubspot.com/resources) | Templates, infographics, banners and much more |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
-| [mashup-template](http://www.mashup-template.com/templates.html) | HTML5/CSS3 Free Templates |
 | [Mobirise](https://mobirise.com/html-templates/) | Great looking HTML5/CSS3 templates |
 | [Onepagelove](https://onepagelove.com/) | One-page websites, templates and resources |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) | Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout. |
 | [Splawr](https://splawr.com/) | Free web templates to kickstart your idea! |
 | [Start Bootstrap](https://startbootstrap.com/) | Bootstrap starter themes |
-| [StyleShout](https://www.styleshout.com/free-templates/) | Brilliantly crafted free website templates |
+| [StyleShout](https://styleshout.com/free-templates/) | Brilliantly crafted free website templates |
 | [Templatemo](https://templatemo.com/) | Minimal, resume, gallery themes and more |
 | [Themes For App](https://themesfor.app/) | Free Bootstrap themes and landing pages |
 | [ThemeWagon](https://themewagon.com/theme-price/free/) | Collection of HTML5 Bootstrap templates from different categories |
@@ -70,9 +68,8 @@
 | [Gutenberg](https://github.com/BafS/Gutenberg) | Modern framework to print the web correctly. |
 | [Halfmoon UI](https://www.gethalfmoon.com/) | A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
 | [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
-| [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
 | [Ivory](https://github.com/IVORY-UI/ivory) | A modern CSS framework for developing powerful web interfaces faster and easier |
-| [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
+| [latex.css](https://latex.vercel.app/) | Make your website look like a LaTeX document |
 | [lit](https://github.com/ajusa/lit) | World's smallest responsive fire css framework (395 bytes). |
 | [Marx](https://github.com/mblode/marx) | Marx is the classless CSS reset to be used in any projects (namely small ones). |
 | [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
@@ -80,7 +77,6 @@
 | [Materialize](https://materializecss.com/) | A modern responsive front-end framework based on Material Design |
 | [Metro 4](https://metroui.org.ua/index.html) | Create your site quickly and effectively with Metro 4. impressive components library built on html, css, javascript. |
 | [Milligram.io](https://milligram.io/) | Minimalist CSS framework |
-| [mini.css](https://minicss.org/) | A minimal, responsive, style-agnostic CSS framework |
 | [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/) | NES-style CSS Framework |
 | [Orbit](https://github.com/zumerlab/orbit) | Orbit is the first CSS framework for creating simple or complex radial interfaces. |
@@ -88,7 +84,7 @@
 | [Picnic CSS](https://picnicss.com/) | Lightweight and beautiful library |
 | [Pico.css](https://picocss.com/) | Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. |
 | [PSone](https://github.com/micah5/PSone.css) | PS1 style CSS Framework, inspired by NES.css. |
-| [Pure CSS](https://purecss.io/) | A set of small, responsive CSS modules |
+| [Pure CSS](https://pure-css.github.io/) | A set of small, responsive CSS modules |
 | [Raster Simple Grid System](https://rsms.me/raster/) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS. |
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
 | [Semantic UI](https://semantic-ui.com/) | Empowers designers and developers by creating a shared vocabulary for UI |
@@ -117,7 +113,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Atomic CSS](https://acss.io/) | Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function. |
+| [Atomic CSS](https://acss-io.github.io/atomizer/) | Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function. |
 | [BEM](http://getbem.com/) | Methodology for creating reusable components using Block Element Modifier naming |
 | [CUBE](https://cube.fyi/) | CSS methodology focused on simplicity, pragmatism and consistency |
 | [SMACSS](http://smacss.com/) | Flexible style guide approach for structuring CSS in scalable and modular way |
@@ -137,17 +133,16 @@
 | [Bounce.js](http://bouncejs.com/) | Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations |
 | [CSS Loaders & Spinners](https://cssloaders.github.io/) | This is a library having a collection of different types of CSS loaders, spinners |
 | [CSShake](http://elrumordelaluz.github.io/csshake/) | CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page |
-| [Gradienty Animations](https://gradienty.codes/animations) | Over 600+ Curated Animations ready to copy & paste. |
+| [Gradienty Animations](https://gradientdeck.com/animations) | Over 600+ Curated Animations ready to copy & paste. |
 | [Hamburgers](https://jonsuh.com/hamburgers/) | Hamburgers is a collection of tasty CSS-animated hamburger icons. Also included is the source as a Sass library. It’s modular and customizable, so cook up your own hamburger. |
 | [Hover.css](http://ianlunn.github.io/Hover/) | Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website |
 | [Infinite](https://tilomitra.github.io/infinite/) | These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
-| [Keyframes.app](https://keyframes.app/) | A graphical user interface for generating custom CSS keyframe animations |
 | [Magic Animations](https://www.minimamente.com/project/magic/) | Animations has been one of the most impressive animation libraries available |
 | [Motion One](https://motion.dev/) | A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. |
 | [MOTION UI](https://zurb.com/playground/motion-ui) | A Sass library for creating flexible CSS transitions and animations |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/) | Animations for the strong of heart, and weak of mind |
 | [pocoloco](https://pocoloco.io/) | Generate dynamic backgrounds for your website |
-| [Sequence.js](https://www.sequencejs.com/) | Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
+| [Sequence.js](http://ianlunn.github.io/Sequence/) | Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
 | [SVG Artista](https://svgartista.net/) | A useful tool to animate stroke and fill properties in SVG images with plain CSS code |
 | [Tachyons-animate](https://github.com/anater/tachyons-animate) | Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need |
 | [thoughtbot](https://thoughtbot.com/blog/transitions-and-transforms) | CSS Transitions and Transformations for Beginners |
@@ -166,7 +161,7 @@
 | [KUTE.js](https://thednp.github.io/kute.js/) | KUTE.js is a JavaScript animation engine for modern browsers. |
 | [lax.js](https://github.com/alexfoxy/laxxx) | Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/) | A small JS library to overlay images on top of the current page. |
-| [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) | A simple scroll library that provides detection of elements in viewport & smooth scrolling with parallax. |
+| [Locomotive Scroll](https://scroll.locomotive.ca/docs) | A simple scroll library that provides detection of elements in viewport & smooth scrolling with parallax. |
 | [Midnight.js](https://aerolab.github.io/midnight.js/) | Midnight.js lets you switch fixed headers on the fly |
 | [mo.js](https://mojs.github.io/) | The motion graphics toolbelt for the web |
 | [nice-waves](https://gvguy.github.io/nice-waves/) | Beautiful animated waves |
@@ -184,7 +179,7 @@
 | [Theatre.js](https://www.theatrejs.com/) | Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable. |
 | [three.js](https://github.com/mrdoob/three.js/) | An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [Tilt.js](http://gijsroge.github.io/tilt.js/) | A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
-| [Tingle.js](https://tingle.robinparisi.com/) | Tingle is a simple modal plugin written in pure JavaScript |
+| [Tingle.js](https://github.com/robinparisi/tingle) | Tingle is a simple modal plugin written in pure JavaScript |
 | [tsParticles](https://particles.js.org/) | A lightweight library for creating particles, an improved version of the abandoned and obsolete particles.js |
 | [Typed.js](https://mattboldt.com/demos/typed-js/) | A JavaScript Typing Animation Library. |
 | [Vanta.js](https://www.vantajs.com/) | Animated website backgrounds in a few lines of code. |
@@ -202,12 +197,12 @@
 | [ChartJS](https://www.chartjs.org/) | Simple yet flexible JavaScript charting for designers & developers |
 | [Data Driven Documents (D3)](https://d3js.org/) | Bind complicated and massive data to interactive graphs. |
 | [Echarts](https://echarts.apache.org/en/index.html) | An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization |
-| [FrappeJS](https://frappe.io/charts) | Includes Green squares grid like in GitHub, and other charts to use. |
+| [FrappeJS](https://github.com/frappe/charts) | Includes Green squares grid like in GitHub, and other charts to use. |
 | [G2Plot](https://g2plot.antv.vision/en) | G2Plot is an interactive and responsive charting library based on the grammar of graphics. |
 | [Google Charts](https://developers.google.com/chart/) | Get the experience from Google to create similar charts that Google uses. |
 | [Nivo](https://nivo.rocks/) | Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts. |
 | [VChart](https://visactor.io/vchart) | VChart is not only a multi-terminal chart library that can be used out of the box, but also a vivid and flexible data storyteller. |
-| [Vizzu](https://lib.vizzuhq.com/0.3.0/) | Vizzu - a free, open-source Javascript library for building animated charts, data stories, and interactive explorers. |
+| [Vizzu](https://lib.vizzuhq.com/latest/) | Vizzu - a free, open-source Javascript library for building animated charts, data stories, and interactive explorers. |
 | [VStory](https://visactor.io/vstory) | VStory is a feature-rich narrative system that can use VisActor's VChart and VTable, combined with built-in components, to create visual works. |
 | [VTable](https://visactor.io/vtable) | VTable is a high-performance multidimensional analysis component developed based on Canvas. When compared with traditional DOM table components, VTable primarily addresses rendering and interaction performance issues in the context of large amounts of data. |
 
@@ -219,8 +214,7 @@
 | [AdminLTE](https://adminlte.io/) | Best open source admin dashboard & control panel theme |
 | [AgnosticUI](https://www.agnosticui.com/) | Accessible React component primitives that also work with Vue 3, Svelte, and Angular |
 | [Ark UI](https://ark-ui.com) | Headless UI component library that works with React, Vue, and Solid with built-in accessibility. |
-| [Bit](https://bit.dev/components) | Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members |
-| [Brumm Shadow Maker](https://brumm.af/shadows) | An online tool to make css shadows |
+| [Bit](https://bit.dev) | Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members |
 | [Bundui](https://bundui.io/) | Discover a curated collection of over 200 handcrafted UI components made with Tailwind CSS, React, and Shadcn UI. |
 | [Codrops](https://tympanus.net/codrops/category/ui-kits/) | A collection of UI kits and design resources shared by the Codrops community. |
 | [Codyhouse](https://codyhouse.co/) | Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components |
@@ -230,22 +224,22 @@
 | [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | An open-source project that allow users to quickly create dynamic layout based on CSS Grid. |
 | [CSS Layout](https://csslayout.io/) | A collection of popular web layouts and patterns in pure CSS |
 | [CSSnippets](https://cssnippets.shefali.dev) | Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more. |
-| [Daemonites Material Design For Bootstrap](https://http://daemonite.github.io/material/) | Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4 |
+| [Daemonites Material Design For Bootstrap](https://daemonite.github.io/material/) | Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4 |
 | [daisyUI](https://daisyui.com/) | Tailwind CSS Components |
 | [Designmodo](https://designmodo.com) | Free and premium UI kits, templates, and design tools. |
 | [DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
-| [Epic Spinners](https://epic-spinners.epicmax.co/) | CSS spinners collection with Vue.js integration. |
-| [Fast](https://www.fast.design/) | An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
+| [Epic Spinners](https://epic-spinners.vuestic.dev/) | CSS spinners collection with Vue.js integration. |
+| [Fast](https://fast.design/) | An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
 | [Figma Bootstrap 5 UI Kit](https://drive.google.com/file/d/1SZOTxXYfCMujqP2P684Vd5QIrlk5bwe6/view?usp=sharing) | UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. |
 | [Flat UI](https://designmodo.github.io/Flat-UI/) | Minimal free user interface kit |
 | [Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
 | [Flowbite](https://flowbite.com) | Open-source library of Tailwind CSS components |
 | [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) | Free and open-source admin dashboard template built with Tailwind CSS and Flowbite featuring 15 examples pages, charts, widgets, and dark mode. |
 | [Froala Design Blocks](https://froala.com/design-blocks) | Over 170 responsive design blocks ready to be used in your web or mobile apps |
-| [Headless UI](https://headlessui.dev/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [Headless UI](https://headlessui.com/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [Headless UI](https://headlessui.com) | Completely unstyled, accessible UI components from Tailwind Labs for React and Vue. |
 | [HyperUI](https://www.hyperui.dev/) | Free open source Tailwind CSS components for marketing and ecommerce websites, as well as application UI. |
-| [InVision Freehand](https://www.invisionapp.com/freehand) | Collaborative UI design tool with a collection of free UI kits and templates. |
+| [InVision Freehand](https://miro.com/) | Collaborative UI design tool with a collection of free UI kits and templates. |
 | [Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
 | [Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
 | [Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
@@ -258,10 +252,9 @@
 | [Meraki UI Components](https://merakiui.com/) | Beautiful Tailwindcss components that support RTL languages & fully responsive based on Flexbox & CSS Grid. |
 | [Moving Letters](https://tobiasahlin.com/moving-letters/) | Animated Text with JavaScript and anime.js |
 | [Mui Treasury](https://mui-treasury.com) | An open-source project that provides a collection of ready-to-use components based on Material-UI. |
-| [Next UI](https://nextui.org) | Beautiful, fast, and modern React UI library with first-class support for dark mode and themes. |
+| [Next UI](https://www.heroui.com/) | Beautiful, fast, and modern React UI library with first-class support for dark mode and themes. |
 | [Notiflix](https://notiflix.github.io) | JavaScript library for client-side non-blocking notifications, popup boxes, loading indicators, and more that makes your web projects much better |
 | [Park UI](https://park-ui.com) | Beautifully designed components built on Ark UI, with support for multiple CSS frameworks. |
-| [Photonkit](http://photonkit.com/) | Desktop UI library for Electron |
 | [Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 | [Pixel Buddha](https://pixelbuddha.net) | Free and premium design resources, including UI kits, templates, and mockups. |
 | [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat#readme) | A chat UI component that offers a ready-to-use chat interface with features like message bubbles, input toolbar, and more. |
@@ -272,7 +265,6 @@
 | [SketchRepo](https://sketchrepo.com) | A collection of free Sketch UI kits and resources. |
 | [Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 | [SpinKit](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners |
-| [Stitches](https://stitches.hyperyolo.com/) | An HTML template generator using functional css. |
 | [Stitches](https://stitches.dev/) | CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. |
 | [Styled components](https://styled-components.com/) | Build beautifully UI Components, for your applications & websites. |
 | [SVGR](https://react-svgr.com/) | SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
@@ -280,10 +272,10 @@
 | [sweetalert2](https://sweetalert2.github.io/) | A beautiful, responsive, customizable, accessible replacement for javascript's popup boxes |
 | [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
 | [tailblocks](https://mertjf.github.io/tailblocks/) | Open source ready-to-use Tailwind CSS components. |
-| [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit) | Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source |
+| [Tailwind Starter Kit](https://github.com/creativetimofficial/david-ai) | Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source |
 | [Tailwind Templates](https://tailwindtemplates.io/) | A free collection of Tailwindcss Templates - tailwind components for rapid UI development. |
-| [tailwindcomponents](https://tailwindcomponents.com/) | A free repository for community components using TailwindCSS |
-| [Tailwindtoolbox](https://www.tailwindtoolbox.com/) | Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
+| [tailwindcomponents](https://www.creative-tim.com/twcomponents/) | A free repository for community components using TailwindCSS |
+| [Tailwindtoolbox](https://www.windytoolbox.com/) | Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
 | [Themesberg](https://themesberg.com/templates/free) | Free and open-source website themes, templates, and UI kits based on Bootstrap and React |
 | [Tilda](https://tilda.cc) | A web design platform with a collection of UI kits and templates. |
 | [UI Store](https://www.uistore.design) | Free and premium UI kits, templates, and design resources for various design projects. |
@@ -303,38 +295,32 @@
 | [Aceternity UI](https://ui.aceternity.com/) | Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
 | [Ant Design](https://ant.design/) | Open source design React UI library. |
 | [Arco Design](https://arco.design/en-US) | A comprehensive React UI components library based on the Arco Design system. |
-| [Backpack UI](http://lonelyplanet.github.io/backpack-ui/?path=/story/styles--design-tokens) | Backpack is the Lonely Planet toolset that we use to build front end apps. |
 | [Base UI](https://github.com/mui/base-ui) | Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
 | [Base Web](https://baseweb.design/) | Base Web provides a robust suite of components out of the box |
 | [BlueprintJS](https://blueprintjs.com/) | React-based UI toolkit for the web |
-| [Bumbag](https://bumbag.style/) | Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications. |
 | [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/) | Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
-| [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage) | Free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
-| [Chakra Templates](https://chakra-templates.dev/) | A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
 | [Chakra UI](https://chakra-ui.com/) | Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
 | [Choc UI](https://choc-ui.com/) | Choc UI is a set of accessible and reusable components that are commonly used in web applications. |
 | [Code UI](https://www.codeui.co.in/) | Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
-| [Edil Ozi](https://www.edil-ozi.pro/) | Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [Elastic UI](https://elastic.github.io/eui/#/) | Distributes UI React components and static assets for use in building web layouts |
 | [Eldora UI](https://eldoraui.site/) | Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. |
 | [Elemental UI](http://elemental-ui.com/) | A UI Toolkit for React.js Websites and Apps |
-| [Elementz](https://elementz.style/) | A React Component library for buliding modern applications easily & quickly. |
 | [Evergreen](https://evergreen.segment.com/) | Design system for React |
-| [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
+| [Framer Motion](https://motion.dev/) | A React library to power production-ready animations. |
 | [Gestalt](https://github.com/pinterest/gestalt) | A set of React UI components that supports Pinterest’s design language. |
 | [Grommet](https://v2.grommet.io/) | mobile first UI component library |
 | [HeroUI - Previously NextUI](https://www.heroui.com/) | Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
 | [Landing Page Template](https://github.com/cruip/open-react-template/) | Open source landing page template for react |
 | [Magic UI](https://magicui.design/) | free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. |
 | [Mantine](https://mantine.dev/) | React components and hooks library with native dark theme support focused on usability, accessibility and developer experience. |
-| [Material UI](https://material-ui.com/) | React components for faster and easier web development, based on Material Design |
+| [Material UI](https://mui.com/material-ui/) | React components for faster and easier web development, based on Material Design |
 | [Materio MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) | Most Powerful & Comprehensive Open-source MUI React NextJS Admin Dashboard Template built for developers. |
-| [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/) | a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
+| [OAH-Admin](https://github.com/paljs/gatsby-admin) | a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
 | [Onsen React](https://onsen.io/react/) | Distributes Components for hybrid mobile apps with React and Onsen UI |
 | [Orbit](https://orbit.kiwi/) | Design system and React UI components for travel projects. |
 | [particles-bg](https://github.com/lindelof/particles-bg) | A React particles animation background component |
 | [Primer Components](https://primer.style/components/) | Primer Components are React components which implement GitHub's Primer Design System |
-| [PRIMEREACT](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components |
+| [PRIMEREACT](https://primereact.org/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Radix UI](https://www.radix-ui.com/) | Unstyled, accessible components for building high‑quality design systems and web apps in React |
 | [React Admin](https://marmelab.com/react-admin/) | A frontend Framework for building admin applications. Supports API's out of the box |
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
@@ -353,9 +339,9 @@
 | [React95](https://react95.io/) | Refreshed Windows 95 style UI components for your React app. |
 | [ReactStrap](https://reactstrap.github.io/) | Another Bootstrap UI library for React |
 | [Reakit](https://reakit.io/) | Reakit is a lower level component library for building accessible high level UI libraries, design systems and applications with React. |
-| [Reaviz](https://reaviz.io) | Data visualization library for React based on D3 |
+| [Reaviz](https://reaviz.dev/) | Data visualization library for React based on D3 |
 | [Rebass](https://github.com/rebassjs/rebass) | React primitive UI components built with styled system |
-| [Recharts](http://recharts.org/en-US/) | A composable charting library built on React components. |
+| [Recharts](https://recharts.org/) | A composable charting library built on React components. |
 | [Ring UI](https://github.com/JetBrains/ring-ui) | A collection of JetBrains Web UI components. |
 | [Semi Design](https://semi.design/en-US) | A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products. |
 | [Sha-el-design](https://github.com/sha-el/sha-el-design) | React components for easier customization and smooth development flow. |
@@ -365,12 +351,12 @@
 | [StyleSeed](https://github.com/bitjaru/styleseed) | Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
 | [Supabase UI](https://ui.supabase.io/) | An open-source UI component library inspired by Tailwind and AntDesign. |
 | [Tabler](https://github.com/tabler/tabler-react) | Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
-| [Theme UI](https://theme-ui.com/home) | Build consistent, themeable React apps based on constraint-based design principles |
+| [Theme UI](https://theme-ui.com/) | Build consistent, themeable React apps based on constraint-based design principles |
 | [Treact](https://treact.owaiskhan.me) | Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [ui-playbook](https://uiplaybook.dev/) | The documented collection of UI components |
 | [Vercel UI](https://github.com/geist-org/react) | Modern and minimalist React UI library |
-| [xstyled](https://xstyled.dev/) | A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate. |
+| [xstyled](https://github.com/styled-components/xstyled) | A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate. |
 | [Zent](https://github.com/youzan/zent) | A collection of essential UI components written with React. |
 
 ## Vue UI Libraries
@@ -395,8 +381,8 @@
 | [Keen UI](https://josephuspaye.github.io/Keen-UI) | VueUI library with a simple API, inspired by Google's Material Design |
 | [Materio Vuetify Vuejs Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) | Open-source & Easy to use Vuetify Vuejs Admin Template with Elegant Design & Unique Layout |
 | [Mint UI](https://mint-ui.github.io/#!/en) | Mobile UI elements for Vue.js |
-| [Muse UI](https://muse-ui.org/#/en-US) | Based on the Vue 2.0 elegant Material Design UI component library |
-| [Naive UI](https://www.naiveui.com/en-US/os-theme) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
+| [Muse UI](https://github.com/museui/muse-ui) | Based on the Vue 2.0 elegant Material Design UI component library |
+| [Naive UI](https://www.naiveui.com/) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
 | [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started) | Fully styled and customizable components for Nuxt. |
 | [Onsen Vue](https://onsen.io/vue/) | Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [Oruga](https://oruga.io/) | Oruga is a lightweight library of UI components for Vue.js without CSS framework dependency. |
@@ -405,7 +391,6 @@
 | [Semantic UI Vue](https://semantic-ui-vue.github.io) | Semantic UI Vue is the Vue integration for Semantic UI |
 | [shadcn-vue](https://www.shadcn-vue.com/) | Vue port of shadcn-ui. |
 | [Shards Vue](https://designrevision.com/downloads/shards-vue/) | A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components |
-| [TC Components](https://components.timos.design) | A library of high-quality ready to use components that will help you speed up your development workflow. |
 | [Vant](https://youzan.github.io/vant) | Lightweight Mobile UI Components built on Vue. |
 | [Varlet](https://github.com/haoziqaq/varlet) | Varlet is a Material design mobile component library developed based on Vue3, developed and maintained by partners in the community. |
 | [VEUI](https://veui.dev/en-US) | VEUI is an enterprise UI component library, based on Vue.js. |
@@ -425,7 +410,6 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Alyle UI](https://alyle.io/) | Minimal components set for Angular |
 | [Clarity](https://clarity.design/) | CSS based Angular UI framework developed by VMware group |
 | [Covalent UI](https://teradata.github.io/covalent/v3/#/) | Angular UI Platform focused on solving common enterprise needs |
 | [Material Angular](https://material.angular.io/) | UI library for Angular based on Material design |
@@ -433,14 +417,14 @@
 | [Nebular](https://akveo.github.io/nebular/) | Customizable UI Kit, Auth & Security for Angular |
 | [NG Bootstrap](https://ng-bootstrap.github.io/#/home) | UI library for Angular based on the Bootstrap framework |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/) | Native Angular components & directives for Lightning Design System |
-| [NG Particles](https://particles.matteobruni.it/) | A lightweight Angular component for creating particles |
+| [NG Particles](https://particles.js.org/) | A lightweight Angular component for creating particles |
 | [NG Semantic](https://github.com/vladotesanovic/ngSemantic) | UI library for Angular based on Semantic UI |
 | [NG Zorro](https://ng.ant.design/) | UI library for Angular based on Ant Design |
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/) | Another UI library for Angular based on the Bootstrap framework |
 | [ngx-admin](https://akveo.github.io/ngx-admin/) | Admin template based on Angular 10+ and Nebular |
 | [Onsen Angular](https://onsen.io/angular2/) | Hybrid mobile and PWA UI library for Angular and Onsen UI |
 | [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
-| [PrimeNG](https://www.primefaces.org/primeng/#/) | Powerful UI component library for Angular |
+| [PrimeNG](https://primeng.org/) | Powerful UI component library for Angular |
 | [spartan](https://www.spartan.ng/) | Cutting-edge tools powering Angular full-stack development. |
 | [Taiga UI](https://taiga-ui.dev/) | Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 
@@ -468,7 +452,6 @@
 | Resource | Description |
 | :--- | :--- |
 | [Ant Design Mobile RN](https://rn.mobile.ant.design/) | An Ant design based configurable Mobile UI component library based on React Native. |
-| [Magnus UI](https://magnus-ui.com/) | Magnus UI is the ultimate UI framework that helps you in building consistent user interfaces effortlessly in react native |
 | [Moti](https://moti.fyi/) | Moti is the universal animation package for React Native |
 | [NativeBase](https://nativebase.io/) | Essential cross-platform UI components for React Native & Vue Native. |
 | [React Native Elements](https://reactnativeelements.com/) | Cross Platform React Native UI Toolkit that provides an all-in-one UI kit for creating apps in react native. |
@@ -484,23 +467,18 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html) | Oracle's design system and toolkit |
 | [Apple Design Resources](https://developer.apple.com/design/resources/) | Guides and templates for using Apple design and UI |
 | [Asphalt](https://asphalt.gojek.io/) | Gojek’s design language system. A collection of guidelines and components to create amazing user experiences. |
 | [AtlasKit](https://atlaskit.atlassian.com/) | Atlassian's official UI library, built according to the Atlassian Design Guidelines |
 | [Atlassian Design System](https://atlassian.design) | Design guidelines and resources for creating Atlassian products. |
 | [Atomize](https://atomizecode.com/) | UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
-| [Audi Design Resources](https://www.audi.com/ci/en/guides/user-interface/introduction.html) | Audi UI design system and toolkit |
 | [Bolt](https://boltdesignsystem.com/) | Robust Twig and web component powered UI components |
 | [Carbon Design Systems](https://www.carbondesignsystem.com/) | Carbon is IBM’s open-source design system for products and experiences |
 | [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
-| [Comet](https://comet.discoveryeducation.com/) | Scalable design system of visual language, components, and design assets |
 | [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers. |
-| [DesignSystem.codes](https://www.designsystem.codes) | A collection of resources and tools for creating design systems. |
 | [Done Design System](https://uilibrary.github.io/done-design-system/) | Open source design system, guides & components |
 | [Elastic UI](https://elastic.github.io/eui) | Elastic's design system for creating engaging user experiences. |
 | [ETrade Design System](https://etrade.design/) | Guides and toolkits that blend finance with simplicity and ease of use |
-| [Evergarden](https://evergarden.design) | A set of guidelines and resources for creating intuitive and consistent interfaces. |
 | [Fluent Design System](https://www.microsoft.com/design/fluent/) | Microsoft's design system for building cross-platform experiences. |
 | [Fundamental Library](https://sap.github.io/fundamental-styles/) | Open source and community driven project for consistent user interfaces |
 | [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | Apple's design principles and guidelines for creating intuitive user experiences. |
@@ -510,19 +488,16 @@
 | [Lexicon](https://liferay.design/lexicon/) | An experience language for crafting beautiful UI |
 | [Marvel Style Guide](https://marvelapp.com/styleguide/overview/introduction) | Set of design principles and components |
 | [Material Design](https://material.io/) | Google's Material Design |
-| [Material Design](https://material.io/design) | Google's design system for building high-quality digital experiences. |
-| [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) | Collection of UX frameworks from Microsoft |
+| [Material Design](https://m3.material.io/) | Google's design system for building high-quality digital experiences. |
+| [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui) | Collection of UX frameworks from Microsoft |
 | [Mozilla Protocol](https://protocol.mozilla.org/) | Protocol is a design system for Mozilla and Firefox websites |
 | [Once UI](https://once-ui.com/) | Open-source design system for Next.js with 100+ components, deployment-ready app templates, and Figma integration |
 | [Patterfly](https://www.patternfly.org/) | PatternFly is an open source design system from Red Hat, Inc. |
-| [Patterns](https://www.patterns.dev) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React. |
-| [Pivotal UI](https://styleguide.pivotal.io) | A design system for creating cohesive user experiences in Pivotal's products. |
-| [Pluralsight Design System](https://design-system.pluralsight.com/) | Design guide with components for designing with Pluralsight |
-| [Polaris](https://polaris.shopify.com/) | Design system that creates great experiences for all of Shopify’s merchants |
-| [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
+| [Patterns](https://www.patterns.dev/) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React. |
+| [Pluralsight Design System](https://pando.zeroheight.com/92687036d/p/498dc1-pando-design-system) | Design guide with components for designing with Pluralsight |
+| [Polaris](https://polaris-react.shopify.com/) | Design system that creates great experiences for all of Shopify’s merchants |
+| [Pr1mer Guidelines](https://guidelines.pr1mer.tech/) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 | [Primer](https://primer.style/) | Design, build, and create with GitHub’s design system |
-| [Pulse](https://pulse.heartbeat.ua/) | Design system, guides and React component library |
-| [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements) | Style guide with UI components, JS components, widgets, etc |
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/) | UI library for developing consistent UI/UX at SendGrid |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |

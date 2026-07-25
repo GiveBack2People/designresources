@@ -24,8 +24,7 @@
 | [0010x0010](https://www.instagram.com/0010x0010/) | Animation of static Photos Animus Pax , , Talia Blank |
 | [1 Day 1 Architect](https://www.instagram.com/1day1architect/) | / Design Anthology - IG |
 | [10+ Background Shadow Textures \| GOBO Shadows](https://shapeshyftbartek.gumroad.com/l/Shadow) | Shadow and gobo texture pack |
-| [1000+ Textures](https://www.figma.com/community/file/1370508545199042511) | Figma texture resource library |
-| [101 Copenhagen](https://imagebank.101cph.com/folder/1513805#token=bHshD089BP&type=direct) | Danish furniture image bank |
+| [101 Copenhagen](https://imagebank.101cph.com/login) | Danish furniture image bank |
 | [16 ph. groups](https://t.me/addlist/xbVRGE_1LUw4ODYy) | All 4 Designer / Photoshop Materials / / Solution |
 | [2.4gb texture pack](https://www.patreon.com/posts/free-40k-pack-92583321) | 20 paper texture Photoshop files |
 | [20 Paper Textures](https://drive.google.com/drive/folders/1IRIY1AtP4h_rFT9L_IjWdtVzAL1Yi8ZT?usp=sharing) | Photoshop files |
@@ -58,9 +57,8 @@
 | [6 Animated Gobos Textures](https://hkapro.gumroad.com/l/nyeme) | Animated gobo textures pack |
 | [60 Caustics Textures Pack for Bottles](https://medbenstudio.gumroad.com/l/60bottlecaustics) | Bottle caustics texture pack |
 | [60FPS Design](https://60fps.design/) | UI/UX animation inspiration gallery |
-| [7 Best Retopology](https://themotiontree.com/retopology-software/) | / Best Blender Addons for Retopology |
 | [70 Vector Shapes Y2K](https://t.me/designrar/3466) | Y2K vector shapes collection |
-| [79 Short Essays on Design](https://books.google.ca/books?id=RhP60u5mcMkC&pg=PA14&lpg=PA14&dq=Michael+Bierut+why+designers+can%27t+think&source=bl&ots=SCP9cB6an1&sig=WhEMfrQzoWSNcDB9PKuwNLJpKZ8&hl=en&sa=X&ei=K7UmT-fKDpOKsALI3YiNAg&redir_esc=y#v=onepage&q=Michael%20Bierut%20why%20designers%20can't%20think&f=false) | Design essays book on Google Books |
+| [79 Short Essays on Design](https://books.google.ca/books?id=RhP60u5mcMkC&pg=PA14&lpg=PA14&dq=Michael+Bierut+why+designers+can%27t+think&source=bl&ots=SCP9cB6an1&sig=WhEMfrQzoWSNcDB9PKuwNLJpKZ8&hl=en&sa=X&ei=K7UmT-fKDpOKsALI3YiNAg&redir_esc=y't%20think&f=false) | Design essays book on Google Books |
 | [82net](https://www.82.net/inspiration/designProjects) | Chinese / 3d66 / ff / |
 | [8GB of 3d Vegetation](https://drive.google.com/drive/mobile/folders/1NW0RmImCX3cxyDuLdS-wCS_FWPdB1PSA?usp=sharing&mcp_token=eyJwaWQiOjEwMTU1NzYsInNpZCI6NDIxMzU4NzM3LCJheCI6IjQ5MWFkNDdhOGZhMTI5ODFlMGNkZmM2YmIyMDE5NmRmIiwidHMiOjE3MTUyNzQzMDgsImV4cCI6MTcxNzY5MzUwOH0.tpUTfkiN_yI8j6NEPGA6dO3-XHZ5_JSk2sVSbm_xFGg) | 3D vegetation model pack (Drive) |
 | [90s Editorial Design](https://ar.pinterest.com/search/pins/?q=90s%20editorial%20design&rs=typed) | 90s editorial design Pinterest inspiration |
@@ -72,18 +70,16 @@
 | [Acerbis](https://www.acerbisdesign.com/it/prodotti/) | Italian furniture collection |
 | [Actiu](https://www.actiu.com/en/) | Office furniture manufacturer |
 | [Actiu](https://www.actiu.com/en/booths/qyos/) | Acoustic office booth product |
-| [Adam](http://www.makewithadam.com/) | - In beta, not free. 3d models from text, get modifying sliders on design |
 | [Ade Hanft](https://www.instagram.com/ade3/reels/?hl=en) | Animation using printed media - IG |
 | [Adnan Designs](https://www.behance.net/Adnan_Desings) | Graphic designer Behance portfolio |
-| [Adobe Creative Cloud](https://creativecloud.adobe.com/cc/discover/free-assets?filter=illustration) | Free Adobe illustration assets |
+| [Adobe Creative Cloud](https://www.adobe.com/learn?filter=illustration&learnIn=1) | Free Adobe illustration assets |
 | [Adobe Exchange](https://exchange.adobe.com/apps/browse/cc?listingType=plugins&page=1&pp=PSLR&product=LRCC&sort=RELEVANCE) | , Creative Market , Envato , 2 , 3 , Gumroad - Not Free |
 | [Adobe Exchange](https://exchange.adobe.com/apps/browse/cc?listingType=plugins&page=1&product=PHSP&sort=RELEVANCE) | Photoshop plugin marketplace |
 | [Adobe Exchange](https://exchange.adobe.com/apps/browse/cc?listingType=plugins&page=2&product=ILST&sort=RELEVANCE) | Illustrator plugin marketplace |
 | [Adobe Express](https://www.adobe.com/express/create/print/flyer) | Online flyer design and print tool |
 | [Adobe Podcast](https://podcast.adobe.com/) | - Clean up enhance voice recording |
 | [Adobe Sound Effects](https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html) | Royalty-free sound effects library |
-| [Adrenalina](https://adrenalina.it/en/families/) | Italian furniture brand |
-| [AE River](https://aeriver.com/add-ons/after-effects-scripts/) | AEBlender , 2 , / Intro HD / PSDLY |
+| [Adrenalina](https://adrenalina.it/it/) | Italian furniture brand |
 | [AesthDesign](https://aesthesign.gumroad.com/) | Flostanger , , Antonin / Manuel / Kmo - Not Free |
 | [Aeux](https://google.github.io/AEUX/) | Figma to After Effects |
 | [Affinity](https://www.affinity.studio/) | from Canva |
@@ -100,7 +96,6 @@
 | [alpen-werk.de](https://www.alpen-werk.de/it?srsltid=AfmBOoqEBNjQlKguM6iP65kcvZGG2l37PyzmDZeCsah4uUtudBmbPn4Q) | Create 3D Maps |
 | [Anagram Design](https://anagramdesign.graphics/free-text-effects/) | Free text effects collection |
 | [Analog Hour](https://analoghour.gumroad.com/) | Creative studio Gumroad store |
-| [Analogical Lab](https://www.analogicalab.store/shop) | Paramount Motion , Motion Array / OIJ / |
 | [Anastasias Molyak](https://www.behance.net/anastasiasmolyak) | Graphic designer portfolio |
 | [Andreu World](https://andreuworld.com/en/) | Designer furniture manufacturer |
 | [Andrian Luchian](https://andrian-luchian.gumroad.com/) | Kangaroo , Sir Charles , , A23D - Not Free |
@@ -117,7 +112,7 @@
 | [annud-my.sharepoint.com](https://annud-my.sharepoint.com/:f:/g/personal/joan_andres_zorio_annud_es/EuToPH-BDbhGmDGObvuhdj4BnfHf-qO35mvSQTPM0UiPDQ?e=1WlSD6) | Design resource SharePoint files |
 | [Anti Design Graphics](https://ar.pinterest.com/search/pins/?q=Anti%20Design%20Graphics&rs=typed) | Anti-design graphic inspiration |
 | [Antonio Lupi](https://www.antoniolupi.it/it/) | Italian bathroom and lighting design |
-| [Anything World](https://anything.world/) | 3D animation and rigging platform |
+| [Anything World](https://everythinguniver.se/) | 3D animation and rigging platform |
 | [aoshow huang](https://www.instagram.com/hqgled16888/) | - Light design with mesh of LEDS |
 | [Apples Sharp Monocular](https://apple.github.io/ml-sharp/) | / Tutorial - 3D Gaussian Splatter from image |
 | [Appshots design](https://appshots.design/) | App design screenshot gallery |
@@ -134,10 +129,9 @@
 | [Archscholar](https://web.archive.org/web/20260108194405/https://www.archscholar.com/) | Architecture student resource hub |
 | [are.na](https://www.are.na/zachery-eng/motion-misc-vhffgxeuioy) | Are.na Motion design collection , , 3 |
 | [Are.na Collection](https://www.are.na/ivan-kostriukov/paper-wju5457e2j4) | Paper Textures 🔥 |
-| [Are.na Design resource collections](https://yandex.com/search?text=Graphic+Design+Resources+site%3Ahttps%3A%2F%2Fwww.are.na%2F&lr=21368&p=0) | Are.na design resource search |
 | [Are.na Motion design collection](https://www.are.na/justin-platnar/mo-xggjr36jh1q) | Motion design collection channel |
 | [Aresline](https://www.aresline.com/it/prodotti) | 3D w/ user |
-| [Arflex](https://www.arflex.it/au/it/prodotti) | Italian furniture product catalog |
+| [Arflex](https://www.arflex.it/intl/en/products) | Italian furniture product catalog |
 | [Ariake Collection](https://www.ariakecollection.com/products/) | Japanese-inspired furniture collection |
 | [Arkiste](https://arkiste.com/) | - Platform where Designers share work |
 | [Arkos Light](https://www.arkoslight.com/en/products/) | Architectural lighting product catalog |
@@ -159,7 +153,6 @@
 | [Art Station](https://www.artstation.com/search?sort_by=relevance&query=breakdown) | - Breakdown of how models where made |
 | [Art with Antonio](https://www.youtube.com/@ArtWithAntonio) | Youtube Proko / David Finch / Paint Coach / Sketching Scottie / |
 | [Art \| The Design Files](https://thedesignfiles.net/section/art) | Australian art news and features |
-| [Artemide](https://www.artemide.com/it/) | Italian lighting design brand |
 | [Artera](https://artera.pl/en/products) | Modern lighting products store |
 | [Artifort](https://www.artifort.com/Collection) | Netherlands |
 | [Artistic surfaces](https://artisticsurfaces.alexturco.com/abstract/) | - Cool abstract textures |
@@ -221,7 +214,6 @@
 | [Blender Drive](https://drive.google.com/drive/folders/1w80oigzPV62RpppGHMlGah-7nPkxs8t-) | Blender 3D asset collection |
 | [Blender Interplanetary System](https://bis.interplanety.org/) | Blender material library addon |
 | [Blender<->3DSMax Connector](https://titus.gumroad.com/l/B2MAX) | / 3Ds Max RizomUV Connector |
-| [BLK Market](https://blkmarket.com/product-category/gradients/-) | Design Syndrome / Studio AAA / Saint Ricchi / Not Free |
 | [Blocks](https://t.me/blocks_01) | 3D Block W.A. / 3Dsky / Block 3Ds Max / / 3D Block Platinum |
 | [Blueprint Procedural Shader](https://kennyphases.gumroad.com/l/jqepk) | Addons for Blender |
 | [BOA Ref](https://www.boxofapps.com/boaref) | - Paste image directly to 3d canvas |
@@ -253,7 +245,6 @@
 | [CG Download](https://cgdownload.ru/?s=arroway) | Arroway Textures / Telegram / Drive / - Best for Woods! |
 | [CG Download](https://cgdownload.ru/?s=Surface+Imperfection) | / AE Blender / Poliigon |
 | [CG Kit Pro](https://cgkit.pro/) | Search 3d models by pic Assets Scout / / Telegram Bot / 2 |
-| [CG Mood](https://cgmood.com/materials?category=materials) | Cube Brush / - Not Free |
 | [CG Program](https://t.me/cg_program) | Ajva Models / / Uzbekcha 3D / Arch Modell / Stoll Stull |
 | [CGHeven](https://cgheven.com/assets/vdbs) | Fab / Orbital Market / CG Trader / 3DExport -/ Not Free |
 | [CG自習部屋](http://cgjishu.net/) | / プラグイン / 3dnchu / 2 / |
@@ -290,7 +281,7 @@
 | [Creative Resource](https://t.me/creative_resource) | Content Crate / / Design Stocks / Designer Crazy |
 | [Creneau Int](https://www.creneau.com/work) | Modern, Colorful |
 | [Cristina Celentino](https://cristinacelestino.com/interiors/all) | Modern, colorful, textures |
-| [Curated.design](https://www.curated.design/?category=agency) | dark mode websites |
+| [Curated.design](https://craftwork.design/curated/websites) | dark mode websites |
 | [Curiosa](https://curiousa.co.uk/products/) | Colored Glass |
 | [Cut Out Mix](https://www.cutoutmix.com/calendar.html) | People w/illustration pattern over face |
 | [Cybercore Design](https://ar.pinterest.com/search/pins/?q=cybercore%20design&rs=typed) | Cybercore design Pinterest board |
@@ -314,7 +305,6 @@
 | [Dema](https://www.dema.it/it/divani-divani-componibili.html) | Italian modular sofa manufacturer |
 | [Derlot](https://www.derlot.com/collections) | Australia, Europe N. America |
 | [Design & Paper](https://www.designandpaper.com/topics/paper/) | Paper and printing inspiration blog |
-| [Design Addict](https://designaddict.com/) | Design industry news and directory |
 | [Design and Paper](https://www.designandpaper.com/topics/paper-branding-packaging/) | Branding and packaging stories |
 | [Design Anthology](https://design-anthology.com/) | Creative culture design magazine |
 | [Design Anthology](https://www.youtube.com/@Design-Anthology) | Youtube Channels / Open Plan / Wallpaper |
@@ -328,7 +318,7 @@
 | [Design Everywhere](https://designeverywhere.co/) | Curated design work showcase |
 | [Design Everywhere](https://designeverywhere.co/typeofwork/packaging) | Packaging design work collection |
 | [Design Family Market](https://designfamilymarket.gumroad.com/) | Design assets marketplace on Gumroad |
-| [Design Fuell](https://designfuell.com/discover/featured-websites) | Featured websites showcase (404) |
+| [Design Fuell](https://designfuel.com/) | Featured websites showcase (404) |
 | [Design Garage](https://t.me/Design_Garage) | Outside PSD / / All 4 Designer / Hyper Squad |
 | [Design Greybear](https://www.instagram.com/design.greybear/) | Design portfolio on Instagram |
 | [Design Hotels](https://www.designhotels.com/hotels/) | Boutique design hotel bookings |
@@ -337,7 +327,7 @@
 | [Design Ironico](https://www.instagram.com/designironico) | Design portfolio on Instagram |
 | [Design L](https://design-library.jp/ec/) | Japanese Websites |
 | [Design made in Germany](https://www.designmadeingermany.de/#siteswelike) | German design portal and jobs |
-| [Design Market](https://www.design-market.eu/it/) | Designer interior marketplace |
+| [Design Market](https://www.whoppah.com/) | Designer interior marketplace |
 | [Design Milk](https://design-milk.com/) | Modern design magazine and shop |
 | [Design Milk](https://design-milk.com/category/home-furnishings/) | Home furnishings design articles |
 | [Design of small appartments](https://t.me/design_smallflat) | Small apartment design Telegram |
@@ -379,13 +369,11 @@
 | [designfamilymarket.gumroad.com](https://designfamilymarket.gumroad.com/l/FreeGraphicPack-3) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , 7 , , 9 , 10 / Softarchive / Designers Uni / Y2K Badges / 11 / Tumblr |
 | [designfamilymarket.gumroad.com](https://designfamilymarket.gumroad.com/l/qkbhd) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , 7 , 8 , , 10 / Softarchive / Designers Uni / Y2K Badges / 11 / Tumblr |
 | [designfamilymarket.gumroad.com](https://designfamilymarket.gumroad.com/l/wcfvds) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , 7 , 8 , 9 , / Softarchive / Designers Uni / Y2K Badges / 11 / Tumblr |
-| [Designhacks](https://designhacks.online/) | Design tutorials and resource collection |
 | [Designic](https://designic.com/en/vse-proekty/offices-and-coworking/) | Office interior design portfolio |
 | [Designs CAD](https://designscad.com/) | CAD design resource library |
 | [Designspiration](https://www.designspiration.com/explore/) | Visual inspiration by topic exploration |
 | [Designstripe](https://designstripe.com/search/illustrations) | Free customizable vector illustrations library |
 | [Designtex](https://shop.designtex.com/picnic/?sku=3002-802) | Upholstery fabric product shop |
-| [Designus](https://ko.designus.design/?s=09) | UI design reference community platform |
 | [Desiree](https://www.desiree.com/it/prodotti/divani) | Designer Italian sofa collections |
 | [Desiree](https://www.desiree.com/it/prodotti/letti) | Designer Italian bed collections |
 | [Deviant Art](https://www.deviantart.com/tag/fbx) | / Tatto Smart / CG Trader / 3D People |
@@ -394,7 +382,6 @@
 | [Devorm](https://www.devorm.nl/products/category/acoustics) | Netherlands |
 | [Dezi](https://dezi.gallery/figma-plugin) | / Fountn / Design Base / Toolfolio / Figmapedia / |
 | [Dezi](https://dezi.gallery/motion-studio) | - Collection of Motion Design Studios |
-| [Dezi (Motion Design, Graphic, Product) 🔥](https://dezi.gallery/motion-inspiration) | Motion design inspiration gallery |
 | [DGruwier Flashlight Textures](https://dgruwier.gumroad.com/l/dgruwier-flashlights) | Motion design inspiration gallery |
 | [Dia 1.6B](https://huggingface.co/spaces/nari-labs/Dia-1.6B?source=post_page-----5d7b476386b4---------------------------------------) | - Conversation with several voices, actions - |
 | [Dia Buga Design](https://www.diabugadesign.ro/collections/all?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnyFjafKAlE7RopMj4xtaYWB2PlEWgI5rTb1gqeSd1J-YOfa_sTWtnF8Y1op8_aem_Ks-RJ0uANFDSKgbluWdOnQ) | AI-powered design image generation model |
@@ -415,13 +402,11 @@
 | [DOIY Design](https://doiydesign.com/) | Comprehensive design resources document |
 | [Doodle Design](https://ar.pinterest.com/search/pins/?q=Doodle%20Design&rs=typed) | Creative unique gifts and home decor |
 | [Doodles, Brush strokes, Arrows](https://drive.google.com/drive/u/0/folders/1OJ9L9KNrpxpVkDbVvV8asWskFzHpp4V4) | Doodle design inspiration on Pinterest |
-| [Dora Studio](https://trydorastudio.com/) | AI Animation creator |
 | [Doris](https://www.doris.dev/case-studies) | AI Animation creator |
 | [Drawer Design](https://drawer.design/) | Product design case studies portfolio |
 | [Dreadlabs](https://www.dreadlabs.net/) | , Design Syndrome / Indie Ground |
 | [Dream Spaces](https://www.instagram.com/__dreamspaces/) | - Out of the ordinary designs |
 | [Dreamphography](https://www.instagram.com/hernandez_dreamphography) | Photography portfolio on Instagram |
-| [Driade](https://www.driade.com/it_it/) | Designer furniture brand showcase |
 | [Dribbble](https://dribbble.com/search/portfolio) | Portfolio design inspiration search |
 | [Dribbble](https://dribbble.com/shots/popular/illustration) | Popular illustration design shots |
 | [Dribble](https://t.me/dribbble_behance) | Telegram / BehancePro / Behance / Figmachua |
@@ -437,7 +422,7 @@
 | [eagle.cool](https://eagle.cool/blog/post/figma-plugins-designer-must-have) | Top Figma Plugins lists 1 / 2 / 3 / 4 / / 6 / 7 / 8 |
 | [Earthscape Studio](https://earthscapestudio.com/) | - Natural material and shapes |
 | [EasyEdit - Motion Design Studio](https://www.instagram.com/easyeditpro/?hl=en) | Sustainable architecture studio |
-| [Eat Drink Design Awards](https://eat-drink-design.com/gallery) | Motion design Instagram |
+| [Eat Drink Design Awards](https://eat-drink-design.com/gallery/2025) | Motion design Instagram |
 | [Eco Medy](https://www.instagram.com/eco.medy/) | IG Channels on sustainability Green Designs / |
 | [Ecocero](https://ecocero.com/it/productos/) | Acoustic panel products |
 | [Editable Avatars](https://www.figma.com/community/file/1363068598093339895) | Acoustic panel products |
@@ -447,7 +432,6 @@
 | [elements.envato.com](https://elements.envato.com/add-ons/layer-styles) | Hyper Pix , Raw Pixel , Creative Fabrica , Envato , , E3 , Hyperpix - Not Free |
 | [elements.envato.com](https://elements.envato.com/add-ons/preset/compatible-with-adobe-lightroom) | Adobe Exchange , Creative Market , Envato , , 3 , Gumroad - Not Free |
 | [elements.envato.com](https://elements.envato.com/add-ons/actions-and-presets/compatible-with-adobe-lightroom) | Adobe Exchange , Creative Market , Envato , 2 , , Gumroad - Not Free |
-| [elias.studio](https://www.elias.studio/en/blog/figma-les-meilleurs-plugins-pour-booster-votre-creativite) | Top Figma Plugins lists 1 / / 3 / 4 / 5 / 6 / 7 / 8 |
 | [Elisha Zepeda](https://www.instagram.com/ez.bookdesign/reels/) | Videos designing hundreds of book covers |
 | [Ellen Lupton -](https://www.instagram.com/ellenlupton) | Design Basics teacher 🔥 |
 | [En Europa no se consigue](https://www.instagram.com/eneuropanoseconsigue) | Instagram account page |
@@ -461,77 +445,58 @@
 | [Eternal Family](https://www.instagram.com/eternalfamilytv) | - Archive of Surrealist animations / stopmotion - IG |
 | [Ethan Becker](https://www.youtube.com/@EthanBecker70) | Youtube Marc Brunet / Marco Bucci / Sinix Design / / Marc Brunet |
 | [Ethimo](https://www.ethimo.com/en) | Outdoor garden furniture |
-| [Evermotion](https://evermotion.org/shop/show_product/archmaterials-vol-4/19008#) | 3D archmaterials shop |
 | [Evermotion](https://t.me/EvermotionArchmodels) | Pro Model 3ddd / Free 3DSky / / Dizayn / 2 |
-| [Evermotion](https://evermotion.org/) | 3D models marketplace |
-| [Evermotion](https://evermotion.org/shop/show_product/archmodels-vol-152/11779) | 3D models marketplace |
 | [Evernote.Design 🔥](https://www.evernote.design/) | Archmodels 3D product |
 | [Expormim](https://www.expormim.com/en/outdoor-furniture/families/) | Designer bookmark collection |
 | [Expression Editor](https://huggingface.co/spaces/fffiloni/expression-editor) | Handcrafted garden furniture |
 | [Exterior Scenes](https://t.me/Exteriorscenes) | Telegram 🏴‍☠️ |
-| [Fab](https://www.fab.com/search?q=vdm) | / Cube Brush / Skin Alphas |
 | [Fab](https://www.fab.com/sellers/KOREA%20HERITAGE%20SERVICE) | 3D Models of Korean artifacts / Sketchfab / - Korea |
-| [Fab](https://www.fab.com/channels/unity) | Gumroad / 2 / Render Hub / CG Trader / - Not Free |
 | [Fabra](https://www.fabra.com/) | - Online 3D Fashion designer- In beta, limited credits |
 | [Fabrizio Casiraghi](https://www.fabriziocasiraghi.com/) | Luxury, 60s palette |
-| [FacePoke](https://huggingface.co/spaces/jbilcke-hf/FacePoke) | - Change direction of head in image - |
+| [FacePoke](https://huggingface.co/spaces/jbilcke-hf/FacePoke_CLONE-THIS-REPO-TO-USE-IT) | - Change direction of head in image - |
 | [Fake Clients](https://fakeclients.com/graphicdesign) | - Graphic Design Briefs |
 | [Family Revit](https://t.me/familyrevit) | Telegram 🏴‍☠️ |
-| [Fantin](https://www.fantin.com/prodotti-tipologia/?selector=typology-tavoli) | Table product category |
-| [Faro](https://faro.es/en/collection/indoor/all/) | Indoor lighting collection |
 | [Fast](https://www.fastspa.com/it/prodotti) | Italian furniture products |
 | [FCPX](https://fcpxfullaccess.com/) | Color Finale / Alex 4D / / Industrial Revolution - Not Free |
-| [Feltouch](https://www.feltouch.tr/products/) | Felt acoustic products |
-| [Ferdinandi Bauer Illustrationes florae Novae Hollandiae](https://www.biodiversitylibrary.org/page/62545859#page/4/mode/1up) | Historical botanical illustrations |
 | [Fermat](https://toolmaker.fermat.app/login) | - Fashion AI, turn clothe image to illustration |
 | [Ferroluce](https://www.ferroluce.it/en/collections/) | Italian lighting collections |
 | [Fest](https://www.festamsterdam.com/en-en/pages/sofas) | Netherlands |
 | [Fest Amsterdam](https://www.festamsterdam.com/en-en) | Netherlands |
-| [ff.cn](https://www.ff.cn/inspiration) | Chinese 82net / 3d66 / / |
 | [Figma Guide For Beginners](https://tilda.education/en/figma-for-beginners) | Figma beginner tutorial |
 | [Figma Plugins](https://figmaplugins.design/) | / Best Webdesigntools / Lapa / |
 | [Figma UI Motion Design](https://www.instagram.com/bachynskyi_ui) | UI motion design Instagram |
 | [Figmachua](https://t.me/figmachua) | Telegram Dribble / BehancePro / BehanceDribble / |
-| [Figmapedia](https://www.figmapedia.com/ddc8b180-7f6c-439a-ac53-3f51868d34db) | Dezi / Fountn / Design Base / Toolfolio / / |
-| [Filter Grade](https://filtergrade.com/product-category/after-effects-templates/) | Motion Elements / Enchanted Media / - Not Free |
+| [Figmapedia](https://huddling.ai/figma-info) | Dezi / Fountn / Design Base / Toolfolio / / |
 | [Fima](https://fimacf.com/tipologia/lavabo/lavabo_da_appoggio/?fbclid=PAY2xjawJILrhleHRuA2FlbQIxMAABpurkqertjRn3vIte58skjUzY7T73VOdIHs_-pSmko2BdQU4EVL5XKiq3tg_aem_uhcctqGry_J5PoB4Pl-_zg) | Italian bathroom fittings |
 | [Final Cut Pro / Apple Motion](https://t.me/Final_Cut_Pro_Templates) | FCP templates Telegram channel |
-| [Finnish Design Shop](https://www.finnishdesignshop.it/it-it/decorazioni) | FCP templates Telegram channel |
-| [Finnish Design Shop - Design Stories](https://www.finnishdesignshop.com/design-stories/architecture) | Scandinavian home decorations |
 | [Fiona Lynch](https://fionalynch.com.au/projects/) | Bold, textures |
 | [Flickr Archive Spreadsheet](https://docs.google.com/spreadsheets/d/1psWduzRxBHzi-aKD_McSM4P7eNO8wHhANCrus_uo6e8/edit?gid=770506321#gid=770506321) | Archive Design collections 🔥 |
-| [Flipped Normal](https://flippednormals.com/explore?tagIds=1&firstCategory=231&secondCategory=237&thirdCategories=236) | Textures / Gumroad 2 / / CG Trader / - Not Free |
-| [Flipped Normals](https://www.artstation.com/marketplace/game-dev/assets?q=decals&section=free) | Free game decal assets |
-| [Flipped Normals](https://flippednormals.com/explore?term=vdm) | Free game decal assets |
-| [Flipped Normals](https://flippednormals.com/explore?tagIds=1&firstCategory=231&secondCategory=237&thirdCategories=238) | Fab / Art Station / / Cube Brush - Not Free |
 | [Flos](https://professional.flos.com/en/global/all-products/) | Professional lighting catalog |
 | [Flostanger](https://flostanger.gumroad.com/l/oyfJft) | , AesthDesign , Antonin / Manuel / Kmo - Not Free |
 | [Fluid Gradient](https://ar.pinterest.com/search/pins/?q=fluid%20gradient&rs=typed) | Fluid gradient pin inspiration |
 | [Flux Krea](https://huggingface.co/spaces/black-forest-labs/FLUX.1-Krea-dev) | Open Source, uncensored |
 | [FLUX Llora](https://huggingface.co/spaces/prithivMLmods/FLUX-LoRA-DLC) | - Image in different predef. styles |
-| [Flyerwrk](https://www.flyerwrk.com/en-us/collections/add-ons) | Vexus / / Texture labs - Not Free |
-| [Fogia](https://www.fogia.com/global/products/sofas-seating-systems) | Sofas and modular seating |
+| [Fogia](https://www.fogia.com/sofas) | Sofas and modular seating |
 | [Folio illustration agency](https://folioart.co.uk/) | Sofas and modular seating |
 | [Folkloristan's Design Archive](https://www.folkloristan.com/archive) | - Urdu and Pakistani graphic Design |
 | [Footer Design](https://www.footer.design/) | Food photography collection |
 | [Fora Space](https://www.foraspace.com/london-workspaces) | Interesting editorials on office space design |
-| [Forestier Paris](https://forestier.fr/suspension-parrot-xl-sable-21642.html) | Bambu, rattan, fabric |
 | [Fotobg](https://fotobg.ru/) | Free Textures for 3D / |
 | [Fountn](https://fountn.design/resources/figma/?query-15-resource-tags=plugins) | Dezi / / Design Base / Toolfolio / Figmapedia / |
 | [Frandsen](https://frandsen.presscloud.com/digitalshowroom/#/gallery) | Lighting brand showroom |
 | [Free 3D Models](https://c4ddownload.com/) | Lighting brand showroom |
 | [Free CAD](https://freecadplan.com/category/blocks/car/) | Car Blueprints |
 | [Free Design Resources](https://freedesignresources.net/tag/gradient/) | Free gradient design resources |
-| [Freepik](https://it.freepik.com/) | Free stock images and vectors |
-| [Freepik](https://www.freepik.com/search?author=1914344&authorSlug=macrovector&format=author&query=people&type=vector) | People vector illustrations |
-| [Freepik](https://www.freepik.com/vectors#from_element=home_verticals) | Free vector image downloads |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=psd&query=Flyer&type=psd) | Flyer PSD templates |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=BROCHURES&selection=1&type=psd) | Brochure PSD templates |
-| [Freepik](https://www.freepik.com/patterns#from_element=vectors_trends) | Pattern design resources |
-| [Freepik](https://www.freepik.com/psd/text-effects) | Text effects PSD templates |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Effects&selection=1&type=psd) | Effects PSD templates |
-| [Freepik 2](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Effect&selection=1&type=psd) | Effects PSD templates |
-| [Freepik Spaces](https://www.freepik.com/spaces) | Effect PSD templates |
+| [Freepik](https://www.magnific.com/it) | Free stock images and vectors |
+| [Freepik](https://www.magnific.com/search?author=1914344&authorSlug=macrovector&format=author&query=people&type=vector) | People vector illustrations |
+| [Freepik](https://www.magnific.com/vectors) | Free vector image downloads |
+| [Freepik](https://www.magnific.com/search?format=search&last_filter=type&last_value=psd&query=Flyer&type=psd) | Flyer PSD templates |
+| [Freepik](https://www.magnific.com/search?format=search&last_filter=selection&last_value=1&query=BROCHURES&selection=1&type=psd) | Brochure PSD templates |
+| [Freepik](https://www.magnific.com/patterns) | Pattern design resources |
+| [Freepik](https://www.magnific.com/psd/text-effects) | Text effects PSD templates |
+| [Freepik](https://www.magnific.com/search?format=search&last_filter=selection&last_value=1&query=Effects&selection=1&type=psd) | Effects PSD templates |
+| [Freepik 2](https://www.magnific.com/search?format=search&last_filter=selection&last_value=1&query=Effect&selection=1&type=psd) | Effects PSD templates |
+| [Freepik Spaces](https://www.magnific.com/spaces) | Effect PSD templates |
 | [Frezza](https://www.frezza.com/) | AI collaborative workspace |
 | [Friday Supply](https://fridaysupply.gumroad.com/l/free-papers) | / Texture Fabrik / Rawpixel / Soft Archive / FreePSDVN |
 | [Friendly Shade](https://www.friendlyshade.com/) | High-end scanned 3D textures |
@@ -544,7 +509,6 @@
 | [Future Materials](https://futurematerials.co/) | Materials and surfaces inspiration |
 | [G-Code Explorer’s Notes](https://screenvibecrafts.gumroad.com/l/coiexq?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnY0BVEyhg27oPVCHjOBxg21a45U67Pa8tMoK-HD54RD8xNYuJPV1Kd_W9jcQ_aem_EEuMwN5-sLrS3vpEBaGr5g) | - Script for creating 3D Ptint Vases - Not Free |
 | [Gabrielle Rose](https://www.instagram.com/gabrielleroseinteriors/reels/) | Newberry Projects / Selina Designz / / Safiya |
-| [Galerie 123](https://www.galerie123.com/en/original-vintage-poster/?genres=A) | search designers, cities, topics |
 | [Game Dev](https://t.me/GameDevUE) | Telegram / Motion Store / Pro Models |
 | [Game Rig Tools (Blender Addon)](https://toshicg.gumroad.com/l/game_rig_tools) | Blender addon for game rigs |
 | [Garden Design](https://www.gardendesign.com/landscape-design/) | Blender addon for game rigs |
@@ -556,7 +520,7 @@
 | [GitHub - donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Curated list of design systems |
 | [github.com](https://github.com/gztchan/awesome-design) | Github Collections 1 , 2 , , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 |
 | [github.com](https://github.com/MohamedYoussouf/Design-Resources) | Github Collections 1 , 2 , 3 , , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 |
-| [github.com](https://github.com/selfishprimate/curated-design-resources) | Github Collections 1 , 2 , 3 , 4 , 5 , , 7 , 8 , 9 , 10 , 11 , 12 |
+| [github.com](https://github.com/selfishprimate/mossaique) | Github Collections 1 , 2 , 3 , 4 , 5 , , 7 , 8 , 9 , 10 , 11 , 12 |
 | [github.com](https://github.com/ttt30ga/awesome-product-design) | Github Collections 1 , 2 , 3 , 4 , 5 , 6 , , 8 , 9 , 10 , 11 , 12 |
 | [github.com](https://github.com/IqbalMind/IqbalMind-Design-Resource) | Github Collections 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , , 10 , 11 , 12 |
 | [github.com](https://github.com/sidikry/Design-Resource-for-Developer-bradtraversy) | Github Collections 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , , 11 , 12 |
@@ -597,22 +561,20 @@
 | [Hand/Feet Prints -brush](https://t.me/c/1177627044/5486) | Telegram hand and feet brushes |
 | [Handwritter](https://handwrittner.com/) | Create a font from your handwriting |
 | [Happy Editing](https://www.happyediting.co/store/crt) | CRT video editing assets store |
-| [Happy Webb Design](https://happywebdesign.tumblr.com/) | Tumblr design inspiration blog |
 | [Harvard Graduate School of Design](https://www.gsd.harvard.edu/) | Tumblr design inspiration blog |
-| [Hatria](https://www.hatria.com/elenco-prodotti/) | Nice Colored toilets |
-| [Hay](http://www.hay.com/) | Contemporary furniture and home accessories |
+| [Hatria](https://hatria.com/prodotti/) | Nice Colored toilets |
+| [Hay](https://www.hay.com/) | Contemporary furniture and home accessories |
 | [HEAT \| Animation made epic.](https://heat.tech/) | Animation platform (now shut down) |
 | [Heatherwick Studio](https://heatherwick.com/projects/buildings/) | Biophilic Design |
 | [Hello Lux](https://helloluxx.com/essential-materials-for-cinema-4d/) | Motion Squared / / C4D Center |
-| [helpx.adobe.com](https://helpx.adobe.com/illustrator/using/automation-scripts.html) | 1. Tutorial to install AI Scripts Tutorial / 2 / |
+| [helpx.adobe.com](https://helpx.adobe.com/illustrator/desktop/automate-visualize-data/automate-actions/install-and-run-scripts.html) | 1. Tutorial to install AI Scripts Tutorial / 2 / |
 | [Hem](https://hem.com/en-eu/best-sellers-by-category) | Modern furniture and decor store |
-| [Henry Gao](https://www.henrygao.com/ipad-for-architects-) | Pick a Palette / For Procreate! |
 | [Herman Miller](https://www.hermanmiller.com/en_gb/resources/) | Ergonomic office design resources |
 | [Hightower](https://hightower.design/) | Award-winning commercial furniture brand |
 | [Hiro Design](https://hiro.design/) | Italian home design and decor |
 | [Holloway Li](https://hollowayli.com/projects) | Luxury, warm, original textures |
 | [Home by me](https://home.by.me/en/) | - Create 3D models - Not free |
-| [Honoka Lab](https://honoka-lab.jp/#works) | - Tatami 3D Printed furniture |
+| [Honoka Lab](https://honoka-lab.jp/) | - Tatami 3D Printed furniture |
 | [Hotel Designs.net](https://hoteldesigns.net/reviews/) | Hotel design reviews and news |
 | [How to use Figma: A step-by-step tutorial [2024] - Markup.io](https://www.markup.io/blog/how-to-use-figma/) | Hotel design reviews and news |
 | [Hugging Face](https://huggingface.co/spaces) | - Collection of free AIs |
@@ -627,21 +589,19 @@
 | [Humanscale](https://it.humanscale.com/?srsltid=AfmBOooZlhdiS10puAwMHS1CWqioW5t66-jxx1evNU9h3Zrm-7r5g2zL) | Curated illustration asset library |
 | [Hunyuan World Generator](https://huggingface.co/tencent/HunyuanWorld-Voyager) | Ergonomic office furniture Italy |
 | [Hyper Squad](https://t.me/hypedsquadfree) | Outside PSD / Design Garage / All 4 Designer / |
-| [Ibebi](https://en.ibebi.com/?_gl=1*qw8x9u*_up*MQ..*_ga*NTA0NzUyMDIxLjE3MzgzMjE3MjQ.*_ga_KDWYGPP07H*MTczODMyMTcyMy4xLjAuMTczODMyMTcyMy4wLjAuODQ2NjIxNzY2) | Foldable (Italy) |
-| [IBM Design Language](https://www.ibm.com/design/language/illustration/overview/#illustration-styles) | IBM illustration style guidelines |
+| [Ibebi](https://en.ibebi.com/) | Foldable (Italy) |
+| [IBM Design Language](https://www.ibm.com/design/language/illustration/overview/) | IBM illustration style guidelines |
 | [IcoMoon](https://icomoon.io/) | IBM illustration style guidelines |
 | [Identity Designed](https://identitydesigned.com/) | SVG icon editor and font tool |
 | [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://lifuguan.github.io/IGGT_official/) | Visual brand identity inspiration worldwide |
 | [Igloo](https://www.igloo.inc/) | Cool onsite web animations Because / |
-| [Il Loft](https://illoft.com/prodotti.php) | Italian furniture and sofa collections |
 | [Illustration Lessons](https://t.me/Illustrationlessons) | Italian furniture and sofa collections |
-| [Illustration X](https://www.illustrationx.com/artists) | Telegram Adobe Illustrator lessons channel |
+| [Illustration X](https://www.illustrationx.com/illustrators) | Telegram Adobe Illustrator lessons channel |
 | [Illustration.Lol](https://www.illustration.lol/) | Global directory of illustrators agency |
 | [Ilmio Design](https://www.ilmio.design/hoteles) | Art Deco, Colorful |
 | [Ilti Luce](https://iltiluce.com/products/) | Architectural and design lighting |
 | [Imagine That](https://www.instagram.com/_____imaginethat/) | - IG Folk Surreal illustration |
 | [Impact Acoustic](https://impactacoustic.com/en/archisonic-felt) | Switzerland |
-| [Import to Blender](https://mixanimo.gumroad.com/l/addon) | Mixamo / Tutorial to import to 3Ds Max / / 2 |
 | [In Class](https://inclass.es/collections/) | Contract furniture collections catalog |
 | [Indieground Design](https://indieground.net/shop-category/freebies/) | Free design resources and assets |
 | [Indowood](https://indowud.com/) | - Wood like material made by rice husks |
@@ -649,7 +609,7 @@
 | [Ink and Texture](https://ikedabarry.com/InkTex/inks/) | Graphic design competitions directory |
 | [Insight](https://www.insight-agency.fr/) | Cool onsite web animations , Off Screen Canvas , Cntrl / nvg8 |
 | [Inspiration Design Resource](https://www.inspirationdesignresource.com/) | Curated design inspiration resources hub |
-| [Insposite](https://insposite.vercel.app/) | Design Directory / UI/UX |
+| [Insposite](https://www.insposite.com/) | Design Directory / UI/UX |
 | [instagram.com](https://www.instagram.com/restaurantandbardesignawards) | Restaurant Bar Design Awards |
 | [instagram.com](https://www.instagram.com/megosu) | Independent Designers Database 🔥 |
 | [instagram.com](https://www.instagram.com/motionplusdesign/reels/) | Motion design Instagram reels |
@@ -661,7 +621,7 @@
 | [Interior Mapping](https://drive.google.com/file/d/1__oKWKutj21VbUt_hPEBP8LaH4H9OThq/view) | - Drive with Parallax for Blender |
 | [Internet Archive Artbeats collection](https://archive.org/search?query=creator%3A%22Artbeats+Software%2C+Inc%22) | Internet Archive Artbeats collection |
 | [Interspectacula](https://www.instagram.com/interspectacula) | Designs in VR, for public spaces |
-| [Intro HD](https://intro-hd.net/after-effects-templates/plugins/) | AEBlender , 2 , AE River / / PSDLY |
+| [Intro HD](https://intro-hd.net/after-effects-project-files/) | AEBlender , 2 , AE River / / PSDLY |
 | [Invoice Template](https://www.figma.com/community/file/1361353540050891501) | Free Figma invoice template |
 | [IOR Material List](https://balyberdin.com/tools/ior-list/) | Index of refraction reference table |
 | [ipad Illustration - model :: Behance](https://www.behance.net/gallery/86667119/ipad-Illustration-model) | iPad illustration Behance gallery |
@@ -674,12 +634,9 @@
 | [jackwatsondesigns](https://www.instagram.com/jackwatsondesigns/?hl=en) | look for Day 1-21 videos in reels |
 | [Jader Almeide](https://www.jaderalmeida.com/linhas/living/) | Brazilian furniture design collection |
 | [Jake in Motion AI](https://www.youtube.com/c/jakeinmotion) | Brazilian furniture design collection |
-| [Janberry Design](https://makerworld.com/en/@janberrrydesign) | YouTube motion design tutorials |
 | [Japan Design](https://japan-design.jp/design/0125/) | Japanese Brush Calligrapry Achi / Note / / Photoshop Vip / Coliss |
 | [Japan Package Design Awards](https://www.jpda.or.jp/en/award) | 3D printing maker designs |
-| [Japanese Flash Web Design Archives](https://tters.jp/jfwda) | 3D printing maker designs |
 | [Jared Owen](https://www.instagram.com/jaredowenanimations/reels/) | Keith Schacht / Mechanism Pluss / , Mech Design 98 |
-| [Jessie and Katie](https://www.jessieandkatey.com/) | - Abstract, Geometric, Colorful |
 | [jollyhohnsonart.gumroad.com](https://jollyhohnsonart.gumroad.com/l/ncvuv) | Window Brush pack, Sunflecks , 2 , 3 |
 | [jollyhohnsonart.gumroad.com](https://jollyhohnsonart.gumroad.com/l/fxtij?layout=profile) | Window Brush pack, Sunflecks 1 , , 3 |
 | [Jongkim Design Studio](https://www.jongkimdesign.com/project) | Interior architecture project portfolio |
@@ -704,7 +661,6 @@
 | [Keith Schacht](https://www.instagram.com/keith__schacht) | / Mechanism Pluss / Jared Owen , Mech Design 98 |
 | [Kele Zero](https://www.instagram.com/kele.zero/) | Animation using printed media - IG |
 | [Kennedy Nolan](https://www.kennedynolan.com.au/work) | Modern, minimal, tactile, warm colorful |
-| [Kerimov](https://kerimov-arbi.gumroad.com/l/xwmqi) | Animated Caustics - Not Free |
 | [Kettal](https://www.kettal.com/workplace/it/collections) | 3D with User |
 | [Kettal](https://workplace.kettal.com/it/all/phone-booths/) | 3D w/ User |
 | [KFF](https://www.kff.de/de/produkte) | German design furniture seating |
@@ -727,7 +683,6 @@
 | [Lautaro ID](https://www.instagram.com/lautaro.id) | / Ohrd Design - Lamps |
 | [Layers Design](https://layers.design/) | Visual agency and mockup assets |
 | [Le Journal du Design](https://www.journal-du-design.fr/inspiration-interieurs/) | French interior design inspiration magazine |
-| [LedsC4](https://ledsc4.com/it) | Italian architectural lighting design |
 | [LeHa Design](https://www.instagram.com/lehadesignat/) | IG - Cute toys |
 | [Leibal](https://leibal.com/) | Minimal design publication and store |
 | [Letterform Archive](https://letterformarchive.org/) | Typography and lettering archive |
@@ -743,7 +698,6 @@
 | [Lithoz](https://www.lithoz.com/en/applications/dental/) | -3D Medical Ceramic for bone, dental prothesis |
 | [Llama Mesh](https://huggingface.co/spaces/Zhengyi/LLaMA-Mesh) | AI 3D mesh generation tool |
 | [Loomism](https://lr.fqdn.pl/) | - Loomis Reilly face construction line proportions overlay |
-| [Loopism](https://looopism.tumblr.com/) | Cute gritty animation blobs |
 | [Lopaka](https://lopaka.app/) | - GUI design toolkit for small displays |
 | [LottieFiles Animations for Adobe After Effects](https://lottiefiles.com/plugins/after-effects) | After Effects Lottie animation plugin |
 | [Louis Poulsen](https://www.louispoulsen.com/en-us/catalog/professional/architectural-lighting) | Architectural professional lighting solutions |
@@ -753,17 +707,14 @@
 | [Lumion Vietnam](https://lumionvietnam.com/danh-muc/sketchup/) | 3D333 , , Sketch Shaper / 3D Scenes |
 | [Lumsden Design](https://lumsdendesign.com/lumsden-projects/) | Modern, retail, conceptual |
 | [Lux Edit](https://lux-edit.co/product/analog/) | Cine Grain , Overlay FX / / The Creative Herd |
-| [Luxury Leaks](https://www.luxuryleaks.com/) | / Media Monopoly / K Selected / Video Motion / Beyond the Game |
 | [Luxy](https://luxy.com/en/products/) | Office seating and contract furniture |
 | [LZF](https://lzf-lamps.com/products) | Decorative wood lamps and lighting |
 | [Madbax Editors](https://t.me/+w0qdhuTJWiQ5Zjc8) | Telegram 🏴‍☠️ |
 | [Made by hand](https://madebyhand.dk/collections/all) | Paper Lamps (Denmark) |
-| [Made in Design](http://www.madeindesign.it/) | Designer furniture and decor marketplace |
 | [Magic Animator](https://magicanimator.com/) | - AI design animator for Figma |
 | [Magic Animator \| Figma](https://www.figma.com/community/plugin/1520062874404933233/magic-animator) | AI-powered design animation |
 | [Magic Map Material & Maker (M⁴)](https://www.fab.com/listings/12c3745b-f70b-473c-b8c4-1a3f93674494) | Figma animation plugin |
 | [magier.com](https://www.magier.com/blog/30-best-figma-plugins-for-designers) | Top Figma Plugins lists 1 / 2 / 3 / 4 / 5 / / 7 / 8 |
-| [Make Boards](https://makeboards.app/) | Simple MoodBoards |
 | [Make With Myles](https://www.instagram.com/makewithmiles) | - Carpenter with cool innovative organic designs |
 | [Mambo Unlimited](https://www.mambounlimitedideas.com/collections/) | Furniture and decor Instagram |
 | [Mamkih](https://t.me/sketchup_design) | Scenes - Telegram 🏴‍☠️ |
@@ -798,7 +749,6 @@
 | [Mdd](https://mdd.eu/it/) | Designer lighting solutions |
 | [mdd](https://mdd.eu/en/) | Modern office furniture |
 | [MDD](https://mdd.eu/en/acoustics/) | Modern office furniture |
-| [Me Rror](https://me-rror.com/ko/) | 3D Scan Store / / Human Alloy / Suerhive |
 | [MecAgent](https://mecagent.com/) | - AI CAD Copilot for Mechanical Design |
 | [Mech Design 98](https://www.instagram.com/mechdesign98/) | Keith Schacht / Mechanism Pluss / Jared Owen , |
 | [Mechanism Pluss](https://www.instagram.com/mechanism_pluss/) | Keith Schacht / / Jared Owen , Mech Design 98 |
@@ -807,7 +757,7 @@
 | [Mesh Gradient](https://meshgradient.com/) | Create mesh gradients |
 | [Mesh2Motion](https://mesh2motion.org/) | Create mesh gradients |
 | [Met Design Studio](https://www.instagram.com/metdesignstudio) | 3D auto-rigging animation tool |
-| [Meta Design Blog](https://design.facebook.com/blog/) | Design studio Instagram |
+| [Meta Design Blog](https://www.meta.com/design-at-meta/blog/) | Design studio Instagram |
 | [Meta Horizon Hyperspace](https://www.meta.com/experiences/meta-horizon-hyperscape-capture-beta/8798130056953686/?srsltid=AfmBOooYgyqh_AQvtWuc7tPgsUqSMo1LwDI28ppv-34I71t01xIc3jJx) | - Create 3D Enviroment with your Metaquest VR |
 | [Metademo Lab](https://sketch.metademolab.com/canvas) | Animate sketches |
 | [Mews Design System](https://www.mews.design/latest/welcome-eumfLxWD) | Mews product design system |
@@ -815,29 +765,27 @@
 | [Miabi Hatakana (Dis. Japones)](https://www.instagram.com/miabi.design/reels/) | Spanish Turn Design / Pilar Simon / / Turn Living |
 | [Microsoft Design](https://microsoft.design/resources/) | Microsoft design toolkits |
 | [Microsoft Design Blog](https://microsoft.design/) | Microsoft design toolkits |
-| [Microsoft PHI 4](https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4) | Microsoft UX design blog |
+| [Microsoft PHI 4](https://huggingface.co/collections/microsoft/phi-4) | Microsoft UX design blog |
 | [Mid Century Graphic Design](https://ar.pinterest.com/search/pins/?q=mid%20century%20Graphic%20Design&rs=typed) | Microsoft lightweight AI models |
-| [Midj](http://www.midj.com/) | Mid-century design inspiration |
+| [Midj](https://www.midj.com/) | Mid-century design inspiration |
 | [Mind Craft Project](https://www.instagram.com/mindcraftproject) | Dannish Designs |
 | [MingCute Icon](https://www.mingcute.com/) | Open-source icon library |
 | [Miniforms](https://www.miniforms.com/en/products/9_lights/) | Open-source icon library |
 | [Minotti](https://www.minotti.com/it/indoor) | 3D with user |
 | [Minted Weddings](https://www.minted.com/wedding) | - Wedding Stationary Designs |
-| [Missana](https://www.missana.es/products/?product-page=1) | Spanish furniture brand |
 | [Mitch Lally](https://www.youtube.com/@MitchLally) | Youtube channels |
-| [Mixamo](https://www.mixamo.com/#/) | / Tutorial to import to 3Ds Max / Import to Blender / 2 |
-| [mixanimo.gumroad.com](https://mixanimo.gumroad.com/l/mixamorig) | Mixamo / Tutorial to import to 3Ds Max / Import to Blender / |
-| [Mixboard](https://labs.google.com/mixboard) | Google Gemini / AI Studio / Whisk /  - NANO BANANA, Now the best, consistent characters and enviroments, seamless textures, best quality. It can get stu |
+| [Mixamo](https://www.mixamo.com/) | / Tutorial to import to 3Ds Max / Import to Blender / 2 |
+| [Mixboard](https://mixboard.google.com/) | Google Gemini / AI Studio / Whisk /  - NANO BANANA, Now the best, consistent characters and enviroments, seamless textures, best quality. It can get stu |
 | [Mixed Media Design](https://ar.pinterest.com/search/pins/?q=Mixed%20Media%20Posters&rs=typed) | Mixed media poster inspiration |
 | [Mobel Design Museum](https://www.mobeldesignmuseum.se/furniture-archive) | - Archive of design furniture |
 | [Moboli](https://mobboli.com/en/collections/) | Contract hospitality furniture |
 | [Modern Age Designs](https://www.modernagedesigns.com/free-mood-board-creator/) | Simple MoodBoards |
 | [Modern Metier](https://www.instagram.com/modern.metier) | - IG Collection of contemporary european furniture designers |
-| [Mogg](http://www.mogg.it/) | Italian design furniture |
+| [Mogg](https://www.mogg.it/) | Italian design furniture |
 | [Mogu](https://mogu.bio/project/arup-frankfurt/) | 3D Italy Micellium panels |
 | [Molo](https://molodesign.com/?fbclid=PAZXh0bgNhZW0CMTEAAadc8bTL1Ef_XtxWB0jXv2ZnMGeC_IAe5DtA06DuNphQn1aLfrWOyTJTYtMffA_aem_8NYulsl4HMyN_9mccz50tQ) | Cardboard Dividers 3D w/mail Canada |
-| [Molteni](https://molteni.it/it/) | Italian design furniture |
-| [Momentum](https://momentum.uninspired.studio/?fbclid=PAZXh0bgNhZW0CMTEAAaclaaEMpk4hPW711avKPnp6qn6KutFEVcGW2PHqij-R4E_eUGBHmogN2NuoMQ_aem_WZqKEayL2NV3oSbLgx9irQ) | Italian design furniture |
+| [Molteni](https://www.molteni.it/it/it) | Italian design furniture |
+| [Momentum](https://momentum.uninspired.app/?fbclid=PAZXh0bgNhZW0CMTEAAaclaaEMpk4hPW711avKPnp6qn6KutFEVcGW2PHqij-R4E_eUGBHmogN2NuoMQ_aem_WZqKEayL2NV3oSbLgx9irQ) | Italian design furniture |
 | [Montana](https://www.montanafurniture.com/en-it/products/bookcases-and-shelves?p=4) | Browser motion graphics tool |
 | [Montbel](https://www.montbel.it/it/collezioni/) | Modular shelving systems |
 | [Mood Site](https://mood.site/0aYLYsLC?edit=s6f0D0ty) | Simple MoodBoards |
@@ -845,7 +793,7 @@
 | [Moooi](https://www.moooi.com/eu) | Netherlands |
 | [Morphosource](https://www.morphosource.org/) | - Anthropological bone 3d models |
 | [Mosa](https://www.mosa.com/en/products/search-product) | Neatherlands |
-| [Motion](https://www.apple.com/nz/final-cut-pro/motion/) | - 3D Titles - Not free |
+| [Motion](https://www.apple.com/nz/final-cut-pro/) | - 3D Titles - Not free |
 | [Motion Array](https://motionarray.com/browse/after-effects-templates/) | After Effects template marketplace |
 | [Motion Array](https://motionarray.com/browse/after-effects-presets/free/) | After Effects template marketplace |
 | [Motion Array](https://motionarray.com/browse/final-cut-pro-templates/) | After Effects free presets |
@@ -864,61 +812,52 @@
 | [Motion Plus Design](https://motion-plus-design.com/watch/talks) | 3D VDB VFX asset library |
 | [Motion Store](https://t.me/kino4dsp) | Telegram Game Dev / / Pro Models |
 | [Motion Tools](https://motiondesign.school/products/motion-tools-classic/) | AE animation workflow tools |
-| [Motionimo](https://www.motionimo.xyz/#Resources) | AE animation workflow tools |
-| [Motionimo](https://www.motionimo.xyz/inspirations) | Motion design resources |
-| [Motionimo](https://www.motionimo.xyz/) | Motion design inspiration |
 | [Motionlab](https://motionlab.net/assets/) | Motion design resource hub |
 | [MotionLand](https://www.motion.land/) | VDB and VFX asset library |
 | [MotionPunk](https://motion-punk.com/Projects) | Motion graphics templates plugins |
-| [Mr Horse,](https://misterhorse.com/products/backgrounds-2/3289) | L. Ruiz , Grunge , MH2 / Paper Texture - Not Free |
+| [Mr Horse,](https://misterhorse.com/products/backgrounds/3289) | L. Ruiz , Grunge , MH2 / Paper Texture - Not Free |
 | [Mult Dev](https://mult.dev/) | - Map animation - Not free |
-| [Muuto](http://www.muuto.com/) | Scandinavian design furniture |
+| [Muuto](https://www.muuto.com/) | Scandinavian design furniture |
 | [Muuto](https://www.muuto.com/products/lighting/) | Scandinavian design furniture |
-| [My Drive of Multitextures](https://drive.google.com/drive/u/0/folders/1AXW1ulJU5FOgpp6-FEakdndrRP9Vhm-8) | - See tips on the right |
+| [My Drive of Multitextures](https://drive.google.com/drive/folders/1AXW1ulJU5FOgpp6-FEakdndrRP9Vhm-8) | - See tips on the right |
 | [My Face](https://myface.eu/products/) | 3D w/email |
 | [My life catalog](https://emfreer.com/) | - Atypical, experimental design |
 | [MYT + GLVDK](https://www.mytglvdk.com/work-architecture) | Raw, industrial. iconic structures |
-| [Nardi Outdoor](http://www.nardioutdoor.com/) | Outdoor furniture brand |
 | [Nash](https://www.nash.jp/nml/) | / Motion Array / Mr Horse - Not Free |
-| [Nature Design](https://naturedesign.com/en/home?cat=26) | Japanese production music library |
+| [Nature Design](https://naturedesign.com/) | Japanese production music library |
 | [Nemo Lighting](https://www.nemolighting.com/) | Nature-inspired design |
-| [Nerd Code (design & programming)](https://www.nerdcode.mx/) | Nature-inspired design |
 | [New Works (3D) (Denmark)](https://newworks.dk/en/shop/furniture/all) | Design and programming studio |
 | [Newberry Projects](https://www.instagram.com/newberryprojects/) | / Selina Designz / Gabrielle Rose / Safiya |
 | [news.hada.io](https://news.hada.io/search?q=Claude) | Danish design furniture |
 | [Nexia](https://nexia.es/products/architectural) | Danish design furniture |
-| [Nicoline](https://www.nicoline.it/divani) | Architectural lighting |
 | [Nik Vili](https://nik-vili.gumroad.com/) | 40 Sci Fi Decals , DCNSTRD , Creatiflux , / Cube Brush - Not Free |
 | [Nina Nayko](https://www.instagram.com/nina.nayko/reels/) | Animation of static Photos , Swarnavod , Eric Melikyan , Waref Quba |
 | [Nntuantus](https://nn1uantus.gumroad.com/) | Darstellungsart / / 3D Garden Plants - Not Free |
 | [Noken](https://www.noken.com/en/products) | Bathroom product design |
 | [noom](https://www.noom-home.com/seating) | Modern seating furniture |
 | [Nord Design System](https://nordhealth.design/) | Nordhealth design system |
-| [Normann C](http://www.normann-copenhagen.com/) | Danish design furniture |
-| [Normann Copenhagen](https://www.normann-copenhagen.com/en/Products/Lighting) | Danish design furniture |
+| [Normann C](http://www.normann-copenhagen.com/en/) | Danish design furniture |
+| [Normann Copenhagen](http://www.normann-copenhagen.com/en/products/lighting) | Danish design furniture |
 | [Norr11](https://norr11.com/collections/all-furniture) | Danish design furniture |
 | [Norrsken PBR -](https://pontus-canback.artstation.com/pages/norrsken-pbr) | PBR texture resource pack |
 | [Not Designed to sell](https://notdesignedtosell.tumblr.com/) | Not designed to sell Tumblr |
 | [Noz Design](https://nozdesign.com/c3f4xrkwrzgsm2yxzcbksyegsow5e0) | Dopamine Decor |
 | [Nspirezone - Furniture design history](https://www.instagram.com/nspirezone/) | SF interior design studio |
 | [Nuvotion Visuals](https://nuvotion.live/) | - Audio reaction animations |
-| [nvg8](https://nvg8.io/) | Cool onsite web animations Insight , Off Screen Canvas , Cntrl / |
 | [Oblure Sweden](https://oblure.com/) | Scandinavian sculptural lighting |
 | [Ocee & Four Design](https://oceefour.com/) | Office furniture design |
 | [Oculis Project](https://www.oculisproject.com/) | Bold, Contrasting, texture focused, Aesop |
 | [Ohrd Design](https://www.instagram.com/ohrdesignofficial) | Office furniture design |
 | [OIJ](https://www.oneinfinitejourney.net/shop) | Paramount Motion , Motion Array / / Analogical Lab |
 | [Ollie \| graphic design](https://www.instagram.com/ollies_doodles/?hl=en) | Industrial design Instagram |
-| [Ondarreta](https://www.ondarreta.com/en/products) | Graphic design doodles |
+| [Ondarreta](https://ondarreta.com/en/products/category) | Graphic design doodles |
 | [Online 3D Model Converter](https://www.greentoken.de/onlineconv/) | Spanish designer furniture |
 | [Online Archive](https://oa.letterformarchive.org/?dims=Discipline&vals0=Packaging%20Design&friendly0=Packaging%20Design) | Convert 3D file formats |
 | [Online Archive](https://oa.letterformarchive.org/) | Packaging typography archive |
 | [Onno Quist](https://www.instagram.com/onno_quist/reels/) | Vintage analog abstract animations |
-| [Open Desk](https://www.opendesk.cc/furniture/) | Open-source furniture designs |
 | [Open Drone Map](https://github.com/OpenDroneMap/ODM) | - processing aerial drone imagery - 3D textured models |
 | [Open Plan](https://www.youtube.com/@Open_Plan) | Youtube Channels Design Anthology / / Wallpaper |
-| [Orac Decor](https://www.oracdecor.com/it_it/) | Decorative architectural moldings |
-| [Orbital Market](https://orbital-market.com/search?categories&searchText=VDB) | Fab / / CG Trader / 3DExport -/ CGHeven Not Free |
+| [Orac Decor](https://www.oracdecor.com/it_it) | Decorative architectural moldings |
 | [Oritoor](https://oritoor.com/a-selection-of-loops) | Cute gritty animation blobs |
 | [Otazen](https://www.otazen.com/family/sofas) | Teak outdoor furniture |
 | [Out Design](https://www.instagram.com/out.designstudio/) | outil.li / / Pongotodo |
@@ -937,8 +876,7 @@
 | [Parts and Labor Design](https://partsandlabordesign.com/) | Modern, Art Deco, warm |
 | [Paste Bin](https://pastebin.com/rQmxvAJF) | Find free 3D assets tool |
 | [Pattern configurations](https://u.pcloud.link/publink/show?code=kZhixsXZDt2RTPPLy15coGvIgA0WOkoYgTaV#folder=17239233024&tpl=publicfolderlist) | Find free 3D assets tool |
-| [PBR Materials](https://pbrmaterials.com/) | pCloud pattern library collection |
-| [Pedestal](https://www.it.pedestal.com/) | 3D on Zeel |
+| [Pedestal](https://it.pedestal.com/) | 3D on Zeel |
 | [Peeps](https://peeps.ui8.net/) | 3D customizable characters |
 | [Peoples Graphic Design Archive](https://peoplesgdarchive.org/) | 3D customizable characters |
 | [Petite Friture](https://petitefriture.presscloud.com/digitalshowroom/#/gallery/Outdoor) | Peoples Graphic Design Archive |
@@ -947,7 +885,7 @@
 | [Pettersen & Hein](https://www.pettersenhein.com/) | - Funky industrial, colored cement |
 | [Philip Hofmänner](https://www.behance.net/philiphofmanner) | CGI archviz artist portfolio |
 | [Pholc](https://pholc.com/collections/all) | CGI archviz artist portfolio |
-| [Phototiler](https://halfmaps.io/) | - 3d Map creator - Not free |
+| [Phototiler](https://www.halfmaps.io/) | - 3d Map creator - Not free |
 | [Physically Based](https://physicallybased.info/) | - Color, IOR, Density |
 | [Pikimov](https://pikimov.com/) | - in-browser animation tool and video editor for 2d and 3d |
 | [Pilar Simon](https://www.instagram.com/thepiltzihome/reels/) | Dis. Japones |
@@ -960,16 +898,15 @@
 | [pixabay.com](https://pixabay.com/images/search/transparent%20png/) | Free cut out images |
 | [pixabay.com](https://pixabay.com/images/search/png%20clipart/) | Free transparent PNG images |
 | [PixaFlux](https://pixaflux.com/index.html) | - Non-destructive node-based CG material creator |
-| [Pixel to Vector](https://www.the-orange-box.com/portfolio_page/free-pixel2vector/) | Free pixel to vector Photoshop plugin |
+| [Pixel to Vector](https://the-orange-box.com/product/free-pixel-to-vector-photoshop-plugin/) | Free pixel to vector Photoshop plugin |
 | [Pixels](https://www.figma.com/community/plugin/775716538746765221/pixels) | / Figma comunity / Shape and Color |
-| [Pixplus](https://pxplus.io/en/search?categoryId=74&programs=clipstudio) | True Grit Texture Supply , Cube Brush , Etsy , Booth , Acon , - Not Free |
 | [Plastic Textures](https://t.me/desshopru/2038) | Telegram plastic textures |
 | [Plus Halle](https://plushalle.com/products/) | Telegram plastic textures |
 | [Plus Kouple](https://pluskouple.com/on-linestore) | Contract furniture products |
 | [Plushify](https://plushify.net/) | - Convert 3d to Sewing Pattern |
 | [Pocko](https://www.pocko.com/work) | Creative studio portfolio |
 | [Polina Artamonova](https://polinaartamonova.com/dizaynerskiy-svetilniki-polinyartamonovoy) | Creative studio portfolio |
-| [Poly.cam](https://poly.cam/material-generator) | Free visualiz., pay to downl. |
+| [Poly.cam](https://poly.cam/tools/ai-texture-generator) | Free visualiz., pay to downl. |
 | [Pongotodo](https://www.instagram.com/pongotodo.lab/) | outil.li / Out Design / |
 | [Porada](https://www.porada.it/en/products/) | Italian design furniture |
 | [Pose Maniacs](https://www.posemaniacs.com/en) | - 3D references of hands and poses |
@@ -989,7 +926,7 @@
 | [Prostoria](https://www.prostoria.eu/products/sofa-beds/) | 3D Croatia Nice sofabeds |
 | [Prostoria](https://www.prostoria.eu/) | Croatian furniture design brand |
 | [protopie.io](https://www.protopie.io/blog/best-figma-plugins) | Top Figma Plugins lists 1 / 2 / 3 / / 5 / 6 / 7 / 8 |
-| [PSDLY](https://www.psdly.to/ae-plugin) | AEBlender , 2 , AE River / Intro HD / |
+| [PSDLY](https://www.psdly.co.uk/ae-plugin) | AEBlender , 2 , AE River / Intro HD / |
 | [Psychology of Design](https://growth.design/psychology) | UX cognitive biases list |
 | [Pthalo Ruth](https://phthaloruth.com/collections/all-art-prints?page=2) | Naive, loose brushwork, Trattoria |
 | [Public Domain Image Archive](https://pdimagearchive.org/) | Public domain image collection |
@@ -1002,14 +939,14 @@
 | [Quinti](https://www.quinti.com/managerial/) | Managerial office seating |
 | [Qwen Image Edit Camera Control](https://huggingface.co/spaces/linoyts/Qwen-Image-Edit-Angles) | - Change shot Angle of an image |
 | [Rakumba](https://www.rakumba.com.au/lights-index) | Contemporary lighting design |
-| [Raum Probe](https://www.raumprobe.com/de) | German, use chrome translator |
+| [Raum Probe](https://www.materialbank.eu/de/) | German, use chrome translator |
 | [Rave Design](https://ar.pinterest.com/search/pins/?q=rave%20design&rs=typed) | Pinterest rave design inspiration |
 | [Raw](https://rawcatalog.com/library/blueprints/) | Car Blueprints |
 | [rawpixel.com](https://www.rawpixel.com/search/y2k?page=1&path=_topics&sort=curated) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , , 8 , 9 , 10 / Softarchive / Designers Uni / Y2K Badges / 11 / Tumblr |
 | [RBW](https://rbw.com/type) | Nice sconces (US) |
 | [Real Motion](https://pymarket.gumroad.com/l/tvxre) | Blender Rig Addon |
 | [Realism Addon](https://realismaddon.gumroad.com/l/eplrn) | - Srf. Imp Gobos for Blender |
-| [Reality Scan](https://www.unrealengine.com/en-US/realityscan) | Phone APP to Scan RW textures. |
+| [Reality Scan](https://www.realityscan.com/) | Phone APP to Scan RW textures. |
 | [Reblium Studio](https://www.reblium.com/) | / Fab / 3D Export / Turbosquid |
 | [Rebrandy (Animated)](https://rebrandy.gumroad.com/l/shadow) | Shadow Overlay Sariksat , Resource Boy , |
 | [Recent Design](https://recent.design/) | Web and UI design inspiration |
@@ -1018,9 +955,9 @@
 | [reddit.com](https://www.reddit.com/r/FigmaDesign/comments/1avgugw/what_plugins_for_figma_are_you_using/) | Top Figma Plugins lists 1 / 2 / 3 / 4 / 5 / 6 / / 8 |
 | [reddit.com](https://www.reddit.com/r/FigmaDesign/search/?q=What+plugins+for+Figma+are+you+using&cId=a79bd1c1-d31d-4dc9-ad10-2cd375e1e133&iId=5410f2ba-5a68-4e07-bee7-6f9008f67631) | Top Figma Plugins lists 1 / 2 / 3 / 4 / 5 / 6 / 7 / |
 | [Redpah](https://www.redpah.com/) | / Gumroad / Blenderkit - Not Free |
-| [Redshift Material Superpack](https://cgdownload.ru/catalog/5281-redshift-material-super-pack/) | Redshift materials for C4D |
-| [Refelt](https://www.refelt.com/products/) | Netherlands |
-| [Reggiani](https://www.reggiani.net/products/indoor?_gl=1*ajuz7b*_up*MQ..*_ga*OTEyODc4MzM4LjE3NTE2MTY1Njk.*_ga_ST7H11LNSG*czE3NTE2MTY1NjgkbzEkZzAkdDE3NTE2MTY1NjgkajYwJGwwJGgw) | Also Exteroir |
+| [Redshift Material Superpack](https://cgdownload.net/catalog/5281-redshift-material-super-pack/) | Redshift materials for C4D |
+| [Refelt](https://www.refelt.com/products) | Netherlands |
+| [Reggiani](https://www.reggiani.net/products/?sr=indoor&lang=en) | Also Exteroir |
 | [Remember](https://www.remember.de/Produkte/Wohnen/Leuchten/) | German lighting products |
 | [Restaurant & Bar Design Awards](https://restaurantandbardesignawards.com/awards-archive/2024) | German lighting products |
 | [Retopoflow - A suite of retopology tools for Blender](https://github.com/CGCookie/retopoflow) | Restaurant bar design awards archive |
@@ -1028,12 +965,10 @@
 | [Retro Scifi Art](https://www.instagram.com/retroscifiart) | IG - Retro Scifi Animations |
 | [Retro Skyboxes](https://vladislavzh.net/notes/retro-skyboxes-released?it=retro-skyboxes-released.html) | AE Blender / Junior 3D / |
 | [Revit Uzbekistan](https://t.me/revit_uzbekistan_N1/98037) | Telegram 🏴‍☠️ |
-| [Ricardo Blanco](https://issuu.com/fnaargentina/docs/ricardo_blanco_issuu__1_) | - Argentinean furniture designer |
 | [Riccardo Gasperoni](https://www.riccardogasperoni.com/interiors/) | Modern, colorful |
 | [Rig-GNS (Pro) 4.0](https://22722studios.gumroad.com/l/yFocf) | Blender Rig Addon |
 | [Risograph Illustration](https://ar.pinterest.com/search/pins/?q=Risograph%20Illustration&rs=typed) | Pinterest risograph illustration |
 | [Risoprint](https://ar.pinterest.com/search/pins/?q=risoprint&rs=typed) | Risograph Illustration / |
-| [Rizoma](https://www.rizoma.me/progetti/) | Bold, Colorful, Playful |
 | [Robin Lamps](https://robinlamps.com/en-int) | Decorative lighting brand |
 | [Rockwell Group](https://www.rockwellgroup.com/architecture-and-interiors) | Iconic, bold |
 | [Roda](https://www.rodaonline.com/en/products/) | Italian outdoor furniture |
@@ -1047,7 +982,6 @@
 | [ruben.substack.com](https://ruben.substack.com/p/claude) | CLAUDE - Aw nice, I started using it this week! Ill definitely add them as I get a chance to see them. Already created an automatic FF&E creator that ext |
 | [ruben.substack.com](https://ruben.substack.com/p/claude-code) | CLAUDE - Aw nice, I started using it this week! Ill definitely add them as I get a chance to see them. Already created an automatic FF&E creator that ext |
 | [ruben.substack.com](https://ruben.substack.com/) | CLAUDE - Aw nice, I started using it this week! Ill definitely add them as I get a chance to see them. Already created an automatic FF&E creator that ext |
-| [Rule by Art](https://rulebyart.com/collections/vector-graphics) | / Zulia Assets / Mockup Cloud 2 - Not Free |
 | [S M Pro](https://t.me/sketchupmodelspro) | Telegram 🏴‍☠️ |
 | [s5-style.com](https://www.s5-style.com/) | Japanese Websites |
 | [Safe Haven](https://www.instagram.com/safehaven_hq/) | - Simple black and white Y2K animations |
@@ -1055,7 +989,6 @@
 | [Salgar](https://www.salgar.net/muebles-bano-es) | Bathroom furniture |
 | [salmakenanydesignn](https://instagram.com/salmakenanydesignn?igshid=NzZlODBkYWE4Ng==) | Instagram design portfolio |
 | [Salvador Padilla](https://www.instagram.com/cheivito/reels/?hl=en) | Cute Animations |
-| [Sancal](https://sancal.com/en/) | Spanish furniture design brand |
 | [Sanctus Library](https://sanctuslibrary.xyz/) | - HQ Procedural Materials |
 | [Sankou](https://sankoudesign.com/) | Japanese Websites |
 | [Santa & Cole](https://www.santacole.com/en/lighting/) | Designer lighting collection |
@@ -1064,7 +997,6 @@
 | [Scab](http://www.scabdesign.com/) | Italian indoor outdoor furniture |
 | [Schneid Studio](https://schneidstudio.com/shop/lighting) | Italian indoor outdoor furniture |
 | [School of Motion](https://www.schoolofmotion.com/) | Lighting and home decor shop |
-| [Schönbuch](https://www.schoenbuch.com/de/) | Online motion design training |
 | [Scrigno](https://www.scrigno.com/it/categoria/porte-da-interni-filo-muro/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnXUqcHuAv67P3lQELqVK1L5HZI61GJ2sNdb2orU4zcbngBBHZ3hiFGcc0gLs_aem_4Io4_ePw1JNZgCnP6Q7gZw) | German furniture design |
 | [Secto](https://www.sectodesign.fi/) | Finland 3D Wooden Slits |
 | [Segis](http://www.segis.it/) | Italian seating design brand |
@@ -1072,7 +1004,6 @@
 | [Segregation by Design](https://www.segregationbydesign.com/) | - Urban analysis on segregated neighborhoods |
 | [Selina Designz](https://www.instagram.com/selinadesignz/) | Newberry Projects / / Gabrielle Rose / Safiya |
 | [Shader Gradient](https://www.shadergradient.co/customize) | Animated gradient |
-| [Shadowcore](https://shadowcore.ru/) | Creepy 2 , TopGFX , Daz 3D , 3D Cu , Daz 3D Poser |
 | [Shaw Contract](https://www.shawcontract.com/en-gb/collection/search?) | Multitexture |
 | [Shishka Project](https://shishkaproject.com/en/collection/) | Avant-garde furniture collection |
 | [Shishka Project](https://shishkaproject.com/en/rugs/) | Avant-garde furniture collection |
@@ -1090,7 +1021,6 @@
 | [SketchUp Extension Warehouse](https://extensions.sketchup.com/) | SketchUp extension marketplace |
 | [Sketchup Free](https://www.facebook.com/groups/sketchupfree/) | SketchUp extension marketplace |
 | [Sketchup Models](https://t.me/sketchupmodels) | Telegram 🏴‍☠️ |
-| [SketchUp PlaceMaker](https://www.suplacemaker.com/sketchup-placemaker/) | - 3D Map maker - Not free |
 | [Sketchup Plants](https://www.onecommunityglobal.org/sketchup-plants/) | Free SketchUp plant models |
 | [Sketchup Scene](https://sketchupscene.com/?filter_model-type=free) | Archmag X / / 3D Cosmos - Scenes |
 | [Sketchup Scenes](https://t.me/Sketchup_Russia) | Telegram 🏴‍☠️ |
@@ -1098,14 +1028,11 @@
 | [SketchupBox](https://www.sketchupbox.com/) | , All Sketchup , 3Asky |
 | [Skimp](https://extensions.sketchup.com/extension/d8505963-7ac6-4b60-9341-1395b15a4876/skimp) | Convert various 3D formats to SketchUp files |
 | [skimp4sketchup.com](https://skimp4sketchup.com/) | Convert various 3D formats to SketchUp files |
-| [Skin Alphas](https://flippednormals.com/marketplace?tagIds=1&firstCategory=158&secondCategory=226) | 3D skin alpha textures |
 | [Sketchup 4 work](https://t.me/sketchup4work) | Telegram 🏴‍☠️ |
-| [Slalom](https://slalom-it.com/en/) | Sustainable acoustic solutions |
 | [Slamp](https://www.slamp.com/en/italy/functions/suspension/products?category=1) | Sustainable acoustic solutions |
 | [Slow Down Studio](https://slowdownstudio.com/collections/all?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Woven+Blankets&sort_by=manual) | - Blanket Designs. naive, boho, organic geometry |
 | [Smart Design Expo](https://smartdesign-expo.com/en/portfolio-2/) | Trade show design portfolio |
 | [Sneak Peek](https://sneakpeek.design/) | - Inside Figma designs |
-| [Softarchive](https://softarchive.is/search?q=y2k&scope=title) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , 7 , 8 , 9 , 10 / / Designers Uni / Y2K Badges / 11 / Tumblr |
 | [Something Savage](https://www.instagram.com/somethingsavage) | Animation using printed media - IG |
 | [Source](https://xcancel.com/Em_Bers/status/1503175483810357253) | Designer Pricing Sheet / |
 | [Space Age Design](https://ar.pinterest.com/search/pins/?q=space%20age%20design&rs=typed) | Space age design inspiration |
@@ -1123,14 +1050,11 @@
 | [Stilnovo](https://www.stilnovo.com/collection/) | Premium building materials store |
 | [Stoll Stull](https://t.me/stollstull) | Ajva Models / CG Program / Uzbekcha 3D / Arch Modell / |
 | [Stories](https://www.foraspace.com/community/stories) | Interesting editorials on office space design |
-| [Stral](https://www.stral.it/en/categories/bollards) | Stainless steel bollards |
 | [Studio 2am](https://studio2am.co/collections/vectors) | Yellow Images / / Vector Lab - Not Free |
 | [Studio 2AM](https://studio2am.co/collections/effects) | Supply Family , / Zulia Assets / Mockup Cloud |
 | [Studio Bosko](https://bosko.studio/projects) | Boho, colorful |
 | [Studio Gram](https://studio-gram.com.au/projects/) | Fkn australians are the best designers |
 | [Studio Modijevsky](https://www.studiomodijefsky.nl/) | Eclectic, iconic details |
-| [Studio Noju](https://studionoju.com/projects/sobre-torres-blancas/) | Retro, clean play of geometries and textures |
-| [Studio OPA](https://opastd.com/gallery/?cat=restaurants) | Playful, colorful,industrial |
 | [Studio Pim](https://www.studio-pim.com/) | Soft, colorful, warm |
 | [Studio RAP](https://studiorap.nl/) | IG - 3D Printed Ceramics |
 | [Studio Rens](https://www.studiorens.com/shop-selected) | Netherlands |
@@ -1139,12 +1063,9 @@
 | [Stylecraft](https://stylecraft.com.au/product/category/furniture?page=7&sort=date&order=DESC) | Australian furniture collection |
 | [Su 84 Sketchup](https://su84sketchup.com/map-vat-lieu/map-san-go/) | Australian furniture collection |
 | [Substance 3D](https://t.me/submarmtexturing) | SketchUp wood materials |
-| [Suerhive](https://superhivemarket.com/search?utf8=%E2%9C%93&button=&search%5Bq%5D=human) | 3D Scan Store / Me Rror / Human Alloy / |
-| [SUNLU Filament Connector -](https://www.sunlu.com/en-it/products/filament-connector-fusion-splicer-weldable-to-pla-abs-petg-pcl-pa-and-pc) | Connect left over filament to new spool, or create multicolor spools |
 | [Super Assembly](https://super-assembly.com/) | Modern, texture play |
 | [Super Design](https://app.superdesign.dev/library?category=ui-components) | UI component library |
 | [Super Designers](https://superdesigners.co/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnTh6gCWbzskXhuTWWrbX4j61dnqaH2PbNLdDIv-lZGapLP7F886_DygBQso0_aem_FMWtbA90GKpfQd1WcaHY_Q) | UI component library |
-| [Superhive Market](https://superhivemarket.com/tags/vdm) | Design resource platform |
 | [Surrealism Graphic Design](https://ar.pinterest.com/search/pins/?q=Surrealism%20Graphic%20Design&rs=typed) | Vector displacement maps |
 | [Swaj Designs](https://www.instagram.com/swaj_designs) | Surrealism graphic design pins |
 | [Swarnavod](https://www.instagram.com/swarnavod/reels/) | Animation of static Photos Nina Nayko , , Eric Melikyan , Waref Quba |
@@ -1153,7 +1074,7 @@
 | [Tacchini](https://www.tacchini.it/it/collezioni/) | Italian timeless furniture collections |
 | [Talia Blank](https://www.instagram.com/fichnramous/reels/) | Animation of static Photos Animus Pax , 0010x0010 , |
 | [tamga](https://tamga.galata.ink/) | 3D sculpting web application |
-| [Tamo](https://tamo.design/en-en/collections/wszystkie) | 3D sculpting web application |
+| [Tamo](https://www.tamo.design/) | 3D sculpting web application |
 | [Techno Print Design](https://ar.pinterest.com/search/pins/?q=techno%20print%20design&rs=typed) | Furniture and wallpaper collections |
 | [Technogym](https://www.technogym.com/it-IT/shop/) | Techno print design pins |
 | [Tekla Evelina Severin](https://www.teklaevelinaseverin.com/) | Strong Color contrasts |
@@ -1181,11 +1102,10 @@
 | [Theo](https://theofurniture.com/seating/) | Commercial seating furniture |
 | [Think Make Push - How I Make overlays](https://www.youtube.com/@thinkmakepush) | Commercial seating furniture |
 | [Tillotson Design Associates](https://www.tillotsondesign.com/) | YouTube overlay tutorials |
-| [Time Plast](https://www.timeplast.com/store) | - Lots of new printing materials like soap, fish food, fertilizer, microwave reactive |
+| [Time Plast](https://www.timeplast.com/) | - Lots of new printing materials like soap, fish food, fertilizer, microwave reactive |
 | [TOG](https://www.theofficegroup.com/) | Interesting editorials on office space design |
-| [Tolix](https://www.tolix.com/eu/collections/assise) | French seating collection |
+| [Tolix](https://www.tolix.com/eu/) | French seating collection |
 | [Toolfolio](https://toolfolio.io/categories/libraries/figma/view-all) | Dezi / Fountn / Design Base / / Figmapedia / |
-| [Tools Dia](https://tools.dia.tv/) | Text animation Space Type Generator , |
 | [toools.design](https://www.toools.design/blog-posts/best-figma-plugins-for-designers) | Top Figma Plugins lists 1 / 2 / / 4 / 5 / 6 / 7 / 8 |
 | [Toools.design 🔥](https://www.toools.design/) | Curated design tools directory |
 | [Tooy](https://www.tooy.it/products) | Curated design tools directory |
@@ -1197,7 +1117,6 @@
 | [Treeshade Vol. 1](https://henrikbc.gumroad.com/l/figment_treeshade_vol_1?layout=profile) | / Light Stencils / Mockupise - Not Free |
 | [Trellis](https://huggingface.co/spaces/JeffreyXiang/TRELLIS) | - Can use several pictures |
 | [Trending Design](https://trending.design/) | Curated design product store |
-| [Trends](https://www.figma.com/board/gsBr8U6VMg03AZlTWS2kev/SCAN-CLUB---What--Digital--Audiences-Want-in-2026?node-id=27-1920) | Trend Reports - What Digital audiences want in 2026 |
 | [Trone](https://trone.paris/it#) | Modern bathroom design brand |
 | [True Depth](https://superhivemarket.com/products/truedepth?ref=88) | Turn Photo to 3D Depthmap |
 | [True Design](https://www.truedesign.it/it/famiglie/) | Italian furniture family collections |
@@ -1229,20 +1148,19 @@
 | [User Inyerface](https://userinyerface.com/) | Purposefully bad designed UI |
 | [Utilitarian Graphic Design](https://ar.pinterest.com/search/pins/?q=utilitarian%20design%20graphic&rs=ac&len=11&source_id=ynRF0WFQ&eq=utilitarian&etslf=13095) | Utilitarian graphic design pins |
 | [Utu Lamps](https://www.utulamps.com/) | Utilitarian graphic design pins |
-| [Vaarnii](https://vaarnii.com/collections/all?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnRSPMa4-XObZaYbopqb1xRwgYq0zcLTg_HtQhPLy816rwqIDw61b3YzYCEJg_aem_sMMBcCUhN2FgAzkxuFuARQ) | 3D Finland Wood, scandi |
+| [Vaarnii](https://vaarnii.com/collections/all) | 3D Finland Wood, scandi |
 | [Vank](https://vank.design/en/start) | Sustainable office furniture |
 | [Vaporwave Design](https://ar.pinterest.com/search/pins/?q=vaporwave%20design&rs=typed) | Sustainable office furniture |
 | [Varier](https://www.varierfurniture.com/en/products) | Ergonomic chairs |
 | [VC Gallery](https://vcgallery.it/collections/lighting-ceiling-chandeliers) | Italian lighting and chandeliers |
 | [vecteezy.com](https://www.vecteezy.com/free-png/y2k?license-free=true) | Y2K Stickers 1 , 2 , 4 , 5 , , 7 , 8 , 9 , 10 / Softarchive / Designers Uni / Y2K Badges / 11 / Tumblr |
-| [Vectogravic Design](https://vectogravic.com/free-template/) | Free mockup templates |
+| [Vectogravic Design](https://vectogravic.com/) | Free mockup templates |
 | [Vector Characters](https://vectorcharacters.net/) | Free mockup templates |
 | [Vector Craftr](https://vectorcraftr.com/) | Free vector cartoon characters |
 | [Vector Dither Tool](https://dither.neato.fun/) | Vector graphics marketplace |
 | [Vector Halftone Maker](https://halftone.xoihazard.com/) | Image dithering tool |
 | [Vector Maps](https://vectormap.net/) | Halftone pattern generator |
 | [Vector Pattern Generator](https://www.visiwig.com/patterns/) | Editable vector city maps |
-| [Vector Vault](https://www.vector-vault.org/) | Vector pattern generator tool |
 | [vector-templates](https://www.vector-templates.com/) | Vector graphics resource library |
 | [Vectorise](https://vectorise.net/adobe-illustrator-scripts-collections/) | / DTP Sripting / SHS Page / AI Scripts |
 | [vectormaker](https://vectormaker.co/) | PNG to SVG converter tool |
@@ -1257,7 +1175,6 @@
 | [Vintage T-Shirt Designs](https://www.defunkd.com/vintage-t-shirt-archive/) | Vintage t-shirt archive database |
 | [Vintage Voyage](https://www.vintagevoyagedesign.com/graphics) | Zulia Assets / / Mockup Cloud / DKNG |
 | [Vistosi](https://vistosi.it/collezioni/) | Italian glass lighting collections |
-| [Visual Electric](https://visualelectric.com/) | Italian glass lighting collections |
 | [Vitra](https://www.vitra.com/en-it/home) | Switzerland |
 | [Vola](https://en.vola.com/catalog) | Designer faucet catalog |
 | [VRIN 3D](https://vrin.co.kr/) | - Photogrammetry, alows you to edit model - free trial |
@@ -1275,7 +1192,7 @@
 | [Wever & Ducre](https://www.weverducre.com/it/prodotti/p/tapis-soft-3.1~92965) | Weekly design prompts on Instagram |
 | [Wewood](https://www.wewood.eu/products) | 3D pw:club.wewood |
 | [whatamesh](https://whatamesh.vercel.app/) | Animated gradient |
-| [Whisk](http://labs.google/fx/tools/whisk) | Google Gemini / AI Studio /  / Mixboard - NANO BANANA, Now the best, consistent characters and enviroments, seamless textures, best quality. It can get |
+| [Whisk](https://labs.google/fx/tools/flow?from=whisk) | Google Gemini / AI Studio /  / Mixboard - NANO BANANA, Now the best, consistent characters and enviroments, seamless textures, best quality. It can get |
 | [Winrar/7Zip installer](https://ninite.com/) | If you need to share a 3Dsmax project to be used in another computer, you can archive it, so it creates a zipped file with the model and all the textures used in the Scene. If you used plugins like fl |
 | [Woo](https://woo.furniture/) | Ukrainian playful furniture |
 | [Wooj Design](https://wooj.design/) | Ukrainian playful furniture |
@@ -1285,7 +1202,7 @@
 | [XMD Toolbox](https://xmdsource.com/toolbox/) | Innovative LED lighting solutions |
 | [Y2K 3D Shapes](https://t.me/designrar/3700) | ZBrush plugin toolbox |
 | [Y2K Badges](https://t.me/ooutsidepsd/3129) | Y2K Stickers 1 , 2 , 4 , 5 , 6 , 7 , 8 , 9 , 10 / Softarchive / Designers Uni / / 11 / Tumblr |
-| [Yabu Pushelberg](https://yabupushelberg.com/) | Iconic, Cinematic |
+| [Yabu Pushelberg](https://www.yabupushelberg.com/) | Iconic, Cinematic |
 | [Yanobox](https://www.yanobox.com/) | Motion graphics plugins |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/illustrations) | / Studio 2am / Vector Lab - Not Free |
 | [Yellow Images](https://yellowimages.com/graphic-design) | Design Family Market / |
@@ -1304,34 +1221,31 @@
 | [Zulia Assets](https://www.zuliassets.com/shop/effects) | Supply Family , Studio 2AM / / Mockup Cloud |
 | [しんらしんげshinrashinge](https://www.youtube.com/@shinrashinge4480) | - Pop up book that creates a 3d character |
 | [プラグイン](https://modelinghappy.com/archives/category/maya/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3) | CG自習部屋 / / 3dnchu / 2 / |
-| [ホメパゲ！](http://wtmhp.com/?page=1) | Retro 00s websites |
-| [🏴‍☠️](https://www.psdly.to/?s=true+grit) | True Grit Texture Supply / Telegram |
+| [🏴‍☠️](https://www.psdly.co.uk/?s=true+grit) | True Grit Texture Supply / Telegram |
 | [🏴‍☠️](https://filecr.com/windows/transmutr-artist/) | Convert various 3D formats to SketchUp files |
-| [🏴‍☠️](https://cgdownload.ru/catalog/7670-magic-map-material-maker-m4/) | Magic Map Material Maker M⁴ / |
+| [🏴‍☠️](https://cgdownload.net/catalog/7670-magic-map-material-maker-m4/) | Magic Map Material Maker M⁴ / |
 | [🏴‍☠️ Telegram](https://t.me/cgplugin/10400) | RGB Pixel Screen texture |
 | [🏴‍☠️ Version](https://t.me/cgplugdump/718) | Evermotion - Not Free |
-| [a-fresh.website](https://a-fresh.website) | Hand—picked website and component inspiration library. |
+| [a-fresh.website](https://www.a-fresh.website/) | Hand—picked website and component inspiration library. |
 | [A1 Gallery](https://www.a1.gallery) | Hand-curated gallery of 1,000+ websites filterable by technology stack, font, style, colour, creator, type, and category |
 | [Abduzeedo](https://abduzeedo.com/) | A blog about design, branding, and inspiration. |
-| [Admire The Web](https://www.admiretheweb.com) | A gallery of beautifully designed websites for inspiration. |
-| [App Motion](https://appmotion.design/) | Explore the best, hand-picked app motion design |
+| [Admire The Web](https://admiretheweb.com/) | A gallery of beautifully designed websites for inspiration. |
 | [Awwwards](https://www.awwwards.com/) | Recognizes the talent and effort of the best web designers, developers, and agencies in the world. |
 | [Behance](https://www.behance.net/) | Platform for showcasing and discovering creative work. |
 | [Bento Grids](https://bentogrids.com/) | Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides. |
-| [bestwebdesigntools](https://www.bestwebdesigntools.com/) | Discover latest design tools, agencies and landing pages templates across web |
+| [bestwebdesigntools](https://bestwebdesigntools.com/) | Discover latest design tools, agencies and landing pages templates across web |
 | [Brutalist Websites](https://brutalistwebsites.com/) | A showcase of websites inspired by the Brutalism movement. |
 | [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
-| [Codrops](https://tympanus.net/codrops/) | A website that collects the best UI ideas and patterns and make tutorials of it |
 | [Collect UI](http://collectui.com/) | Daily inspiration collected from daily ui archive and beyond. Handpicked, and updating daily. |
 | [CSS box-shadow](https://getcssscan.com/css-box-shadow-examples) | 91 Beautiful CSS box-shadow examples. |
 | [CSS buttons](https://getcssscan.com/css-buttons-examples) | 84 Beautiful CSS buttons examples. |
 | [CSS Design Awards](https://www.cssdesignawards.com) | A platform recognizing and awarding the best web design and development. |
-| [CSS Zen Garden](http://csszengarden.com/) | Demonstrating the power of CSS, over 200 CSS-only interpretations of the same HTML file. |
-| [Curated](https://www.curated.design/) | Unleash your creativity with out-of-this-world web design inspiration from across the web. |
+| [CSS Zen Garden](https://csszengarden.com/) | Demonstrating the power of CSS, over 200 CSS-only interpretations of the same HTML file. |
+| [Curated](https://craftwork.design/curated/websites) | Unleash your creativity with out-of-this-world web design inspiration from across the web. |
 | [Design Nominees](https://www.designnominees.com/) | A showcase of awarding and showcasing the best websites, apps and Games. |
 | [Design Shack](https://designshack.net) | A platform for showcasing and discovering creative web design and development. |
-| [Design Vault](https://designvault.io/) | A library of screenshots and patterns from real world digital products |
-| [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
+| [Design Vault](https://screensdesign.com/) | A library of screenshots and patterns from real world digital products |
+| [Design your way](https://www.designyourway.net/blog/category/web-design/) | Collection of different Web and Mobile Designs |
 | [Designspiration](https://www.designspiration.com/) | Provides a huge collection of design inspiration and ideas. |
 | [Dribbble](https://dribbble.com/) | Showcases creative work from designers around the world. |
 | [ecomm.design](https://ecomm.design/) | eCommerce Website Design Gallery & Tech Inspiration. |
@@ -1339,42 +1253,34 @@
 | [Foxyapps](https://foxyapps.co/) | Design inspiration from the best mobile app designs |
 | [Freefrontend](https://freefrontend.com/) | Free frontend design from css html and javascript. latest work some design part |
 | [Frontend Mentor](https://www.frontendmentor.io/) | Real-world UI Challenges using HTML, CSS and Javascript |
-| [Gobly](https://gobly.co/) | A platform offering animated illustrations for creative projects. |
-| [Godly](https://godly.website) | Curated collection of the best web design inspiration — the new Awwwards for modern designers. |
-| [Httpster](https://httpster.net/2020/apr/) | Showcases websites made by people from all over the world |
+| [Godly](http://recent.design/?ref=godly) | Curated collection of the best web design inspiration — the new Awwwards for modern designers. |
+| [Httpster](https://httpster.net/) | Showcases websites made by people from all over the world |
 | [Httpster](https://httpster.net) | A showcase of the best web design, featuring modern and innovative websites. |
 | [Land Book](https://land-book.com/) | Displays a large collection of websites to help find inspiration |
 | [Landing Gallery](https://www.landing.gallery/) | Home of the best landing page design inspiration. |
-| [Landingfolio](https://landingfolio.com/) | Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
-| [Landings](https://landings.dev) | Find the best landing pages for your design inspiration based on your preference. |
+| [Landingfolio](https://www.landingfolio.com/) | Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
 | [Lapa Ninja](https://www.lapa.ninja/) | A collection of the best landing page designs. |
 | [Lookup Design](https://lookup.design) | Browse UI elements from live websites, organized by categories like pricing pages and hero sections. |
 | [Maxibestofone](https://maxibestof.one/) | Daily feed of websites & fonts inspiration. |
 | [Minimal Gallery](https://minimal.gallery) | A showcase of minimalist web design and inspiration. |
-| [Mobbin](https://mobbin.design) | A library of hand-picked mobile design patterns and inspiration. |
+| [Mobbin](https://mobbin.com/) | A library of hand-picked mobile design patterns and inspiration. |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [NavNav](https://navnav.co/) | Responsive navigation examples |
 | [Niice](https://niice.co) | A platform for collecting and organizing design inspiration and ideas. |
-| [Page Collective](https://pagecollective.com/) | Page Collective is part of a network of design inspiration websites. |
-| [Page Flows](https://pageflows.com) | User flow recordings and screenshots from top products for UX research and design inspiration. |
 | [Pinterest](https://www.pinterest.com/) | Visual discovery and bookmarking tool for finding ideas. |
 | [Really Good Emails](https://reallygoodemails.com/) | A site offering users a ton of company e-mails from customer service to marketing. |
 | [Refero](https://refero.design) | Real product screenshots and UI patterns from top companies organized by component and feature type. |
 | [SaaS Landing Page](https://saaslandingpage.com/) | Discover the best landing page examples created by top-class SaaS companies |
 | [Saaspages.xyz](https://saaspages.xyz) | A collection of the best landing pages with a focus on copywriting and design. |
-| [Savee](https://savee.it) | Visual bookmarking for design inspiration with powerful search and organization features. |
-| [Screenlane](https://screenlane.com) | Screenlane is a website and newsletter that features the latest web and mobile design inspiration. |
 | [Site Inspire](https://www.siteinspire.com/) | siteInspire is a showcase of the finest web and interactive design. |
 | [SiteSee](https://sitesee.co/) | A curated gallery of beautiful and modern websites. |
 | [Super Designer](https://superdesigner.co) | Design tools that give you super powers. |
-| [UI Garage](https://uigarage.net/) | Daily handpicked UI inspiration & patterns. |
-| [UI Movement](https://uimovement.com) | A community-driven platform for sharing and discovering UI design inspiration. |
+| [UI Garage](https://www.uigarage.net/) | Daily handpicked UI inspiration & patterns. |
 | [Uiland Design](https://uiland.design/) | Home of the best mobile ui inspirations from top companies in the world |
 | [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily. |
 | [Webflow](https://webflow.com/) | Professional website builder for designing, building, and launching responsive websites. |
 | [Webflow Templates](https://webflow.com/templates) | A collection of free and premium Webflow templates. |
 | [Webframe](https://webframe.xyz) | Discover and be inspired by beautiful webapp designs |
-| [Websitevice](https://websitevice.com/) | A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices. |
 
 ## Design Blogs
 
@@ -1384,10 +1290,9 @@
 | [Creative Bloq](https://www.creativebloq.com) | Daily creative inspiration covering graphic design, 3D, illustration, and the latest design tool news. |
 | [Designmodo Blog](https://designmodo.com/blog) | Practical web design tutorials with a focus on UI frameworks, email design, and startup tools. |
 | [Dribbble Blog](https://dribbble.com/stories) | Designer interviews, career advice, and behind-the-scenes looks at iconic design work. |
-| [Envato Blog](https://envato.com/blog) | Behind-the-scenes of the creative marketplace with tips for authors and freelancers. |
+| [Envato Blog](https://elements.envato.com/learn/) | Behind-the-scenes of the creative marketplace with tips for authors and freelancers. |
 | [Muzli](https://medium.muz.li) | Design inspiration aggregator as a Chrome extension and blog, powered by InVision. |
-| [Noupe](https://noupe.com) | Trend roundups, tool discoveries, and business advice for design agencies and freelancers. |
-| [Sidebar](https://sidebar.io) | Five curated design links daily — a focused newsletter cutting through the noise. |
+| [Noupe](https://www.noupe.com/) | Trend roundups, tool discoveries, and business advice for design agencies and freelancers. |
 | [SitePoint](https://www.sitepoint.com) | Developer-focused tutorials and books on web technologies, JavaScript frameworks, and design. |
 | [Smashing Magazine](https://www.smashingmagazine.com) | In-depth articles on front-end development, UX, and accessibility. Known for their annual conferences and book series. |
 | [Speckyboy Design Magazine](https://speckyboy.com) | Curated design resources, WordPress themes, and freebies alongside educational articles. |
@@ -1403,7 +1308,7 @@
 | Resource | Description |
 | :--- | :--- |
 | [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more. |
-| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
+| [A Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 | [A11ygator](https://a11ygator.chialab.io/) | A web tool to scan websites against WCAG rules |
 | [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 | [Angry Tools](https://angrytools.com/) | Free web tools for speed up your development. |
@@ -1421,11 +1326,10 @@
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/) | This generator will assist in creating a pure CSS corner ribbon. |
 | [css-tricks](https://css-tricks.com/) | Free CSS tricks and some unique ideas for beginners and advanced |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
-| [Designbetter Books](https://www.designbetter.co/books) | Essential reading on the practices that propel the best design teams forward. |
+| [Designbetter Books](https://designbetterpodcast.com/) | Essential reading on the practices that propel the best design teams forward. |
 | [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
 | [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 | [devices.css](http://marvelapp.github.io/devices.css/) | Pure CSS phones and tablets by Marvel App. |
-| [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [Figpeek](https://figpeek.vercel.app/) | Figpeek is a new Figma and GitHub thumbnail generator. |
 | [flexboxfroggy](http://flexboxfroggy.com/) | Help Froggy and friends by writing CSS code! |
@@ -1436,7 +1340,7 @@
 | [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you need is just to drop the URL |
 | [kangax-js-compat-table](https://compat-table.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile). |
-| [Material Design Resources](https://material.io/resources) | Use Material tools, downloads, and interactive projects to simplify your workflow. |
+| [Material Design Resources](https://m3.material.io/) | Use Material tools, downloads, and interactive projects to simplify your workflow. |
 | [Mockup World](https://www.mockupworld.co/) | Free mockups for your next design project. |
 | [mydevice.io](https://www.mydevice.io/) | Most commonly used device resolutions including phones and tablets |
 | [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent |
@@ -1456,7 +1360,6 @@
 | [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more. |
 | [Showcode](https://showcode.app) | Beautiful code screenshot generator. |
 | [Sketchize](https://www.sketchize.com/) | Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices. |
-| [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
 | [The Web Toolbox](https://thewebtoolbox.cc/) | A collection of handy, free-to-use tools for web developers, programmers and designers. |
 | [Tiny helpers](https://tiny-helpers.dev/) | A collection of free single-purpose online tools for web developers |
@@ -1467,6 +1370,5 @@
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
 | [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
 | [WebDevTrick](https://webdevtrick.com/) | A famous blog for many amazing HTML, CSS, JQuery designs. |
-| [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
 | [{CSS}Portal](https://www.cssportal.com/) | CSSPortal is home to a large range of CSS generators, tools and resources. |
 

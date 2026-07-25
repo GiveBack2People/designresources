@@ -16,7 +16,7 @@
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | Game Dev Academy / Jesus FC14 / - Youtube |
 | [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato / 2 / Iphone / 4 |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
-| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_493534&utm_medium=affiliate&utm_source=impact_radius) | Collage Constructor |
+| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397) | Collage Constructor |
 | [elements.envato.com](https://elements.envato.com/video-templates/luts) | Envato , , 3 / Yci Maging |
 | [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Lux Edit / Video Hive / 2 / 3 / 4 / / 6 / Toros Kose / - Not Free |
 | [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Lux Edit / Video Hive / 2 / 3 / 4 / 5 / / Toros Kose / - Not Free |
@@ -45,7 +45,7 @@
 | [Motion Pack](https://videohive.net/item/mopack/29918969?s_rank=6) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Moyo Studio](https://www.moyo-studio.com/products/?category=video) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Nitrozome](https://videohive.net/user/nitrozme) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Render Ram](https://m.youtube.com/@RenderRam/videos) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Render Ram](https://www.youtube.com/@RenderRam/videos) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [SAM 3D Meta AI](https://aidemos.meta.com/segment-anything/editor/segment-video) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Step Fun](https://huggingface.co/stepfun-ai/stepvideo-ti2v) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Video Editors Studio](https://videoeditorstudio.com/) | Envato / 2 / Mixkit / Motion Array / AE Juice / |
@@ -53,31 +53,28 @@
 | [Video Hive](https://videohive.net/category/after-effects-project-files) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Video Hive](https://videohive.net/category/premiere-pro-templates) | Aniom , Creators Studio , Sick Boat , , Eleven Percent , Videos Change Reality |
 | [Video Hive](https://videohive.net/category/apple-motion-templates) | / Motion Elements - Not Free |
-| [Video Motion](https://videomotion.store/store/) | Luxury Leaks / Media Monopoly / K Selected / / Beyond the Game |
 | [Videohive](https://videohive.net/category/add-ons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
 | [videohive.net](https://videohive.net/search/animated%20texture) | Lux Edit / Video Hive / / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
 | [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Creator FX , Eleven Percent / Envato / / |
 | [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Envato / / Mixkit / Motion Array / AE Juice / Video Editors Studio |
 | [YWFT](https://www.youworkforthem.com/videos) | Motion Array / Creative Market / Videohive / - Not Free |
-| [Beachfront B-Roll](http://www.beachfrontbroll.com) | Free stock video footage for any project. |
+| [Beachfront B-Roll](https://www.beachfrontbroll.com/) | Free stock video footage for any project. |
 | [CapCut](https://www.capcut.com) | Free video editing tool from ByteDance with AI-powered effects, auto-captions, and templates. |
-| [Clipstill](https://clipstill.com) | A collection of cinemagraphs (still photos with minor repeated movement). |
+| [Clipstill](https://www.clipstill.com/) | A collection of cinemagraphs (still photos with minor repeated movement). |
 | [Coverr](https://coverr.co/) | Beautiful, free stock videos for commercial and non-commercial use. |
 | [Descript](https://www.descript.com) | All-in-one video and podcast editor with AI-powered transcription, overdub, and eye contact correction. |
 | [Free-Stock-Video](https://free-stock.video) | Free Footage Stock Videos |
 | [HeyGen](https://www.heygen.com) | AI video creation platform with realistic AI avatars for presentations, marketing, and training content. |
-| [Kling AI](https://klingai.com) | Advanced AI video generation with realistic motion and physics, from Kuaishou Technology. |
-| [Life Of Vids](https://www.lifeofvids.com/) | Free video clips and loops |
-| [Loopvidz](http://stock.loopvidz.com/) | Free To Use Cinema graphs Created With VIMAGE App |
-| [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Fast AI video generation from text and images with impressive quality and motion coherence. |
+| [Kling AI](https://kling.ai/) | Advanced AI video generation with realistic motion and physics, from Kuaishou Technology. |
+| [Luma Dream Machine](https://lumalabs.ai/app) | Fast AI video generation from text and images with impressive quality and motion coherence. |
 | [Mazwai](https://mazwai.com) | Curated high-quality stock video footage for free use. |
 | [Motion Places](https://www.motionplaces.com) | Beautiful free stock video footage shot in various locations around the world. |
 | [Opus Clip](https://www.opus.pro) | AI-powered tool that repurposes long videos into viral short clips for social media. |
 | [Pexels](https://www.pexels.com/videos) | Largest library of free to use videos, donated by the community |
 | [Pika](https://pika.art) | AI video generation and editing platform — create videos from text, images, or modify existing footage. |
-| [Pixabay](https://www.pixabay.com/videos) | Large library of free to use videos, donated by the community similar to Pexels |
+| [Pixabay](https://pixabay.com/videos) | Large library of free to use videos, donated by the community similar to Pexels |
 | [Pond5](https://www.pond5.com) | Royalty-free stock footage, motion graphics, and music tracks for creative projects. |
-| [Runway ML](https://runwayml.com) | AI-powered video editing and generative media tools — includes free limited projects. |
+| [Runway ML](https://runway.com/) | AI-powered video editing and generative media tools — includes free limited projects. |
 | [SplitShire](https://www.splitshire.com/) | Beautiful & exclusive free stock videos & photos |
 | [Videezy](https://www.videezy.com/) | Free HD stock footage & 4K videos |
 | [Videvo](https://www.videvo.net/) | 1 million+ Stock Footage Clips, Motion graphics, Premiere Pro templates, After Effects templates, Royalty free music & Sound effects, all at your fingertips. |
@@ -95,9 +92,8 @@
 | [MotionArray](https://motionarray.com/browse/royalty-free-music/) | 셀바이뮤직 / Audio Jungle / |
 | [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Nash / Motion Array / - Not Free |
 | [Pixa Bay](https://pixabay.com/sound-effects/search/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [r10's Audio Tools](https://www.r10.audio/#wave-designer) | - Wave Designer for oscillator |
 | [Tuto](https://beginnersapproach.com/davinci-resolve-free-sound-library/) | Fairlight \| Blackmagic Design / |
-| [셀바이뮤직](https://www.sellbuymusic.com/) | / Audio Jungle / MotionArray |
+| [셀바이뮤직](https://sellbuymusic.com/) | / Audio Jungle / MotionArray |
 | [Artlist](https://artlist.io) | A music licensing platform offering high-quality, royalty-free music for creative projects. |
 | [Audionautix](https://audionautix.com) | Free production music for creative projects by Jason Shaw. |
 | [Bensound](https://www.bensound.com/) | Download Royalty Free Music for free and use it in your project |
@@ -123,7 +119,6 @@
 | [Udio](https://www.udio.com) | Advanced AI music generator producing high-quality, genre-diverse tracks from text descriptions. |
 | [Unminus](https://www.unminus.com/) | Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
 | [Upbeat](https://www.upbeat.io/) | Free music for creators, with an option to upgrade for no credit requirement. |
-| [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) | Free music and sound effects for YouTube videos. |
-| [YouTube Creator Music](https://www.youtube.com/creators/music) | A vast library of free and paid music tracks and sound effects for YouTube videos. |
+| [YouTube Audio Library](https://www.youtube.com/audiolibrary) | Free music and sound effects for YouTube videos. |
 | [YouTube Studio Audio Library](https://www.youtube.com/audiolibrary) | Royalty-free audio library for downloadable music and sound effects. Cleared for YouTube monetization. |
 

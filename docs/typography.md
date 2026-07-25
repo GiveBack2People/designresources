@@ -12,7 +12,6 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [1000 Fonts](https://1000fonts.com/) | Search and download thousands of free and premium fonts for design projects. |
 | [743種類の](https://coliss.com/articles/freebies/japanese-free-fonts.html) | Curated collection of free Japanese fonts and typeface resources. |
 | [A Non-Designer's Guide to Pairing Fonts](https://visme.co/blog/pairing-fonts/) | Learn font pairing basics with practical tips on contrast, mood, and classification. |
 | [Adobe](https://fonts.adobe.com/fonts?browse_mode=ko&cc=true&languages=ko) | Browse Adobe Fonts with a Korean language filter. |
@@ -20,7 +19,7 @@
 | [Adobe Fonts](https://fonts.adobe.com/?mv=other&promoid=8WLD51V2&ref=tk.com) | Access thousands of high-quality fonts included with a Creative Cloud subscription. |
 | [All Best Fonts](https://allbestfonts.com/) | Curated collection of high-quality free fonts for creative professionals. |
 | [All Free Fonts](https://www.allfreefonts.co/) | Browse over 15,000 free downloadable fonts sorted by style and category. |
-| [Alph](https://www.alphabet-type.com/tools/charset-checker/) | Check font character coverage, language support, and Unicode block compatibility. |
+| [Alph](https://www.alphabet-type.com/) | Check font character coverage, language support, and Unicode block compatibility. |
 | [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/) | Handpicked free fonts curated by the Awwwards web design community. |
 | [Az Fonts](https://ru.azfonts.net/) | Russian font archive for Cyrillic typefaces and Russian-language fonts. |
 | [Befonts](https://befonts.com/?filter=commercial) | Discover high-quality free fonts for personal and commercial design projects. |
@@ -34,7 +33,6 @@
 | [Byulmoa](https://byulmoa.com/article/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%9B%B9-%ED%8C%81/3/8826/?page=1) | Korean web font article with popular font resources and tips. |
 | [Callifont](https://callifont.com/) | Korean font marketplace with previews and downloads. |
 | [Ch. Font Design](https://chinesefontdesign.com/) | Chinese font design resources and free font downloads. |
-| [Chinese Calligrapher](https://www.chinesecalligrapher.com/) | Chinese calligraphy font showcase with downloadable typefaces. |
 | [Coliss](https://coliss.com/articles/freebies/handwriting-japanese-free-fonts.html) | Japanese brush and handwriting font roundup with download links. |
 | [Cufon Fonts](https://www.cufonfonts.com/category/sans-serif) | Large collection of font styles with category filters and preview tools. |
 | [Cute,](https://cute-freefont.flop.jp/) | Japanese font portal for cute and decorative free fonts. |
@@ -43,11 +41,10 @@
 | [Dafont](https://www.dafont.com/es/) | One of the largest archives of freely downloadable fonts on the web. |
 | [DafontFile](https://dafontfile.org/) | Zip Password: dafontfile.org |
 | [Deefont](https://www.deefont.com/) | Curated library of free and commercial fonts with category browsing and previews. |
-| [Design College](https://design-college.jp/freefont-mouhitsu/) | Japanese brush font roundup and calligraphy font resources. |
+| [Design College](https://note.com/adobe_design/n/na99c2becf8a7) | Japanese brush font roundup and calligraphy font resources. |
 | [Devanagari Font Testing Page](https://www.motaitalic.com/tools/devanagari-font-tester/) | Test and preview Devanagari fonts with full character set and language samples. |
 | [Diyiziti](https://www.diyiziti.com/?t=1) | Chinese font portal with free artistic and display fonts. |
-| [Dr Fonts](https://drfonts.com/) | Font portal offering a mix of free and premium downloads. |
-| [Enfont Terrible](https://enfont.javierarce.com/) | A fun web-based tool to deform and distort font files interactively in your browser. |
+| [Enfont Terrible](https://enfont-terrible.com/) | A fun web-based tool to deform and distort font files interactively in your browser. |
 | [Filipe Meunier](https://payhip.com/b/BUbh) | Typography resource and font design project page. |
 | [Fonts in use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Real-world usage examples of the LL Akkurat typeface. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625434351701/) | Vintage typography image collection on Flickr. |
@@ -62,18 +59,16 @@
 | [Font Bros](https://www.fontbros.com/) | Fast font downloads and easy licensing for designers. |
 | [Font Bundles](https://fontbundles.net/free-fonts) | Free and premium font bundles with commercial licenses for designers. |
 | [Font Catalogue](https://fontcatalog.ru/) | Russian font catalog with Cyrillic and display fonts. |
-| [Font Chinaz](https://font.chi/) | Chinese font directory with free download links and previews. |
+| [Font Chinaz](https://font.chinaz.com/) | Chinese font directory with free download links and previews. |
 | [Font Collector](https://www.font-collector.com/) | Collect, organize, and preview your favorite fonts in one place. |
 | [Font Finder](https://chromewebstore.google.com/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | Chrome Extensions |
 | [Font Finder](https://fontfinder.online/) | Identify fonts used on any website by hovering over text. |
 | [Font Freak](https://www.fontfreak.com/) | Archive of free fonts covering various styles and categories for download. |
 | [Font Gauntlet](https://fontgauntlet.com/) | Preview and test Google Font combinations in real-time on your own text. |
 | [Font interceptor](https://fontinterceptor.mschfmag.com/) | You can use to download any used font in a website. It will download it in WOFF, and then you use Cloud Converter to convert to OTF |
-| [Font Island](https://fontsisland.com/) | Font download portal with Cyrillic and international typefaces. |
 | [Font Labo](https://font-labo.com/hitsumou-font-matome/) | Japanese font roundup featuring brush and calligraphy fonts. |
 | [Font Library](https://fontlibrary.org/en) | A community-driven archive of open-source fonts for designers. |
 | [Font Meme](https://fontmeme.com/) | Identify fonts used in popular memes and find similar free alternatives. |
-| [Font Of Web](https://fontofweb.com/) | A web-based tool to preview and test fonts directly in your browser. |
 | [Font Path](https://www.fontpath.com/foundries) | Directory of type foundries and font libraries. |
 | [Font River](https://ru.fontriver.com/) | Russian font archive with downloadable Cyrillic typefaces. |
 | [Font Spring](https://www.fontspring.com/free) | Free fonts from Font Spring, a marketplace for high-quality commercial typefaces. |
@@ -84,7 +79,7 @@
 | [FontDrop](https://fontdrop.info/?darkmode=true) | Upload a font and Get info, language support |
 | [Fontesk](https://fontesk.com/) | Curated directory of high-quality free fonts for professional designers. |
 | [Fontfont](https://fontfont.app/) | Font search and discovery platform for designers and brands. |
-| [Fontke](https://eng.fontke.com/) | Chinese font directory with free downloads and typeface previews. |
+| [Fontke](https://english.fontke.com/) | Chinese font directory with free downloads and typeface previews. |
 | [Fontpair](https://www.fontpair.co/) | Find perfect Google Font pairings for your next design project. |
 | [Fonts Arena](https://fontsarena.com/serif/) | Curated selection of free fonts for personal and commercial use across various styles. |
 | [Fonts Hub](https://fontshub.pro/) | Browse and download free fonts for all your design project needs. |
@@ -109,8 +104,8 @@
 | [Free Design Resources](https://freedesignresources.net/category/free-fonts/) | Collection of free fonts and design resources for creative projects. |
 | [Free Font](https://wangchujiang.com/free-font/) | Chinese font download resource with free typefaces. |
 | [Free Japanese Fonts](https://www.freejapanesefont.com/) | Directory of free Japanese fonts with easy downloads and previews. |
-| [Freepik](https://www.freepik.com/fonts?license=free) | Free fonts from Freepik's design asset library. |
-| [Freepik](https://www.freepik.com/fonts) | Browse thousands of free and premium fonts on Freepik design resource platform. |
+| [Freepik](https://www.magnific.com/fonts?license=free) | Free fonts from Freepik's design asset library. |
+| [Freepik](https://www.magnific.com/fonts) | Browse thousands of free and premium fonts on Freepik design resource platform. |
 | [Future Fonts](https://www.futurefonts.xyz/) | Buy in-progress fonts directly from independent designers. |
 | [Good Free F](https://goodfreefonts.com/1492/) | Japanese brush and calligraphy font collection. |
 | [Google](https://fonts.google.com/noto/specimen/Noto+Sans+TC?subset=chinese-traditional) | Noto Sans Traditional Chinese specimen page on Google Fonts. |
@@ -125,8 +120,6 @@
 | [Luxury Typography Design](https://ar.pinterest.com/search/pins/?q=luxury%20typography%20design&rs=ac&len=14&source_id=D8tnAwAF&eq=luxury%20typogra&etslf=5481) | Pinterest board of luxury typography design inspiration and ideas. |
 | [Maniackers](https://mksd.jp/designfont.html) | Japanese font and lettering showcase from Maniackers. |
 | [Maoken](https://www.maoken.com/freefonts) | Chinese free font directory and typeface resources. |
-| [Mix Font](https://www.mixfont.com/Junge+Secular-One) | Experimentally mix and combine Google Fonts to discover unique pairings. |
-| [Mockup Font Preview Editor - TyFont](https://tyfont.com/mockup-font) | Preview and test fonts on realistic mockups before downloading. |
 | [Mrmad](https://mrmad.com.tw/free-chinese-font) | Chinese font resource site offering free type downloads. |
 | [My Font Lib](https://myfontlib.com/) | Community-driven platform for discovering and downloading free fonts. |
 | [My Fonts](https://www.myfonts.com/pages/whatthefont) | WhatTheFont font identification tool - upload an image to identify fonts instantly. |
@@ -140,10 +133,8 @@
 | [Paratype](https://www.paratype.com/) | Professional font foundry page with typeface portfolios. |
 | [Pousse ta fonte](https://www.poussetafonte.com/) | - List of famous Font Design Studios |
 | [Premium Beat](https://www.premiumbeat.com/blog/free-animated-fonts/) | - Collection of Handpainted animated font for videos |
-| [ProCatalogue](https://pro-catalog.ru/) | Russian type catalog with Cyrillic and web fonts. |
 | [Programming Fonts](https://www.programmingfonts.org/#lekton) | Programming font showcase and testing tool. |
 | [Ru Fonts](https://www.rufonts.ru/) | Russian font archive for free Cyrillic type downloads. |
-| [Rufonts](https://rufonts.pro/) | Russian font directory with Cyrillic and web font options. |
 | [Sandol](https://www.sandollcloud.com/webfont/font) | Korean Sandoll font marketplace with webfont previews. |
 | [Sankou](https://sankoufont.com/category/calligraphy/) | Japanese brush and calligraphy font collection. |
 | [Sankou!](https://sankoufont.com/) | Japanese font search site focusing on commercial and free fonts. |
@@ -151,7 +142,6 @@
 | [Sexy Font](https://t.me/sexyfont) | Telegram channel for Cyrillic font sharing and identification. |
 | [Shriftovik](https://shriftovik.com/catalog) | Russian font catalog specializing in Cyrillic typefaces. |
 | [Tetris Font](https://erikdemaine.org/fonts/tetris/) | A playful font based on Tetris block shapes and geometric forms. |
-| [Text Fonts](https://textfonts.net/text-effects) | Create stylish text effects and fancy typography for social media and designs. |
 | [The Font Squirrel Matcherator](https://www.fontsquirrel.com/matcherator) | Upload an image to identify fonts using Font Squirrel font recognition tool. |
 | [The Latex Font Catalogue](https://tug.org/FontCatalogue/mathfonts.html) | Fonts with Math support |
 | [Transfonter](https://transfonter.org/) | Transform Woff2 to Ttf |
@@ -167,7 +157,6 @@
 | [What Font](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?pli=1) | Chrome Extensions |
 | [What Font is](https://www.whatfontis.com/) | Upload an image to identify fonts with a large database of typefaces. |
 | [What The Google Font?](https://www.serbyte.net/what-the-google-font) | Find Google Fonts similar to your favorite typeface. |
-| [Wonder Font](https://wonderfont.ru/) | Russian Cyrillic font archive and typeface downloads. |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |
 | [WTFont](https://t.me/wtfont) | Telegram channel for Cyrillic font identification and discussion. |
 | [Wumanzoo](https://wumanzoo.com/chinese-calligraphy-font-2/) | Chinese calligraphy font collection with free downloads. |
@@ -177,7 +166,6 @@
 | [x.com](https://x.com/FONT_FREE/status/1014371692842385408) | Twitter post linking free Japanese font resources. |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/fonts) | Font resource category for graphic design and typography. |
 | [ZCool](https://www.zcool.com.cn/search/content?word=%E5%85%8D%E8%B4%B9%E5%AD%97%E4%BD%93) | Chinese design community search for free fonts and typography work. |
-| [Zitijia](https://www.zitijia.com/) | Chinese font portal with free and commercial typeface offerings. |
 | [Какой Шрифт?](https://t.me/font_abc) | Telegram channel for Cyrillic font questions and font identification. |
 | [الخطوط العربية](https://www.arfonts.net/) | Arabic font archive with free downloads. |
 | [ฟอนต์.คอม](https://www.f0nt.com/) | Free Thai fonts download for personal and commercial use. |
@@ -229,9 +217,8 @@
 | [Malayalam Fonts](https://smc.org.in/fonts/) | Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC) |
 | [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/) | Fluid typography is a modern way of approaching responsive typography. |
 | [Open Foundry](https://open-foundry.com) | FREE platform for curated open-source typefaces |
-| [Pinspiry Fonts](https://pinspiry.com/fonts/) | Curates free and premium fonts for designers and creatives. |
 | [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/) | When RoughJS meets Font Awesome |
-| [SFWin](https://github.com/blaisck/sfwin/) | San Francisco Fonts for Windows 10 and non-Apple Platform |
+| [SFWin](https://github.com/aishalih/sfwin) | San Francisco Fonts for Windows 10 and non-Apple Platform |
 | [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | An open-source font foundry focused on high-quality, free fonts for designers. |
 | [Tiff](https://winniethemu.github.io/tiff/) | A type diff tool that visually contrasts the differences between two fonts |
 | [TypeKit Practice](https://practice.typekit.com/) | Learn about typography practices |

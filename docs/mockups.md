@@ -15,12 +15,11 @@
 | [Behance](https://www.behance.net/search/projects/free%20mockup?tracking_source=typeahead_search_direct) | Behance search for free mockup projects and PSD files |
 | [Bendito Mockup](https://benditomockup.com/category/freebies) | Iconic free mockups for bold brand presentations |
 | [Best mockups curation](https://mockups.digital/creators) | Curated directory of top mockup creators and designers |
-| [Blender Mockup Scenes](https://www.blenderkit.com/?query=category_subtree:mockup%20%20mockup) | 3D mockup scenes and assets for Blender |
+| [Blender Mockup Scenes](https://www.blendkit.com/) | 3D mockup scenes and assets for Blender |
 | [Camp Keyframe](https://campkeyframe.gumroad.com/l/animatedtexturepack) | Animated Paper Textures - Not Free |
 | [Canva](https://www.canva.com/mockups) | Browser-based mockup generator with drag-and-drop editing |
 | [Content Core](https://contentcore.xyz/) | AI-powered content creation platform with mockup export |
 | [Creative Market](https://creativemarket.com/mockups) | Marketplace for professional mockup templates, PSDs, and design assets |
-| [Crispy Doodles](https://www.figma.com/community/file/1241125633606791793/crispy-doodles-120-free-and-fresh-doodles-for-your-mockups) | 120 free Figma doodles for enhancing mockup presentations |
 | [Design Bolts](https://www.designbolts.com/category/mockup-psd/) | Free PSD mockup downloads organized by category |
 | [Design Deck](https://www.designdeck.io/free-mockups) | Free high-quality mockups with subscription pass option |
 | [Design Syndrome](https://designsyndrome.com/collections/design-assets?filter.p.m.custom.asset_type=Mockups) | Mockup and creative asset collection for modern designers |
@@ -32,15 +31,14 @@
 | [Dezi](https://dezi.gallery/mockup-resource) | Design inspiration hub with curated mockup resources |
 | [Duet Mockup](https://duetmockup.gumroad.com/) | Gumroad product page for premium mockup templates |
 | [Elite Mockups](https://saarteaga.gumroad.com/) | Premium mockup template collection on Gumroad |
-| [Format Mockups](https://www.formatmockups.com/mockups-new) | Mockup template library with graphic design resources |
 | [FrameDesign](http://framedesign.letsconstruct.nl/) | Design frame and mockup showcase website |
 | [Framenet](https://www.framenet.ai/) | AI motion graphics mockup generator for animated design previews |
-| [Framer Marketplace](https://www.framer.com/templates/categories/portfolio/) | Framer portfolio website templates marketplace |
+| [Framer Marketplace](https://www.framer.com/community/marketplace/templates/categories/portfolio/) | Framer portfolio website templates marketplace |
 | [Free Design Resources](https://freedesignresources.net/category/free-mockups/) | 300+ free PSD mockups for designers |
 | [Free Mockup](https://freemockup.net/) | 5,000+ free Photoshop mockup downloads |
 | [Free Mockup Generator](https://www.pixeltrue.com/mockup-generator) | Free and simple device mockup generator |
-| [Freepik](https://www.freepik.com/mockup-generator) | Online mockup generator with 5K resolution (now Magnific) |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=selection&last_value=1&query=Mockup&selection=1&type=psd) | Freepik search for PSD mockup file downloads |
+| [Freepik](https://www.magnific.com/mockup-generator) | Online mockup generator with 5K resolution (now Magnific) |
+| [Freepik](https://www.magnific.com/search?format=search&last_filter=selection&last_value=1&query=Mockup&selection=1&type=psd) | Freepik search for PSD mockup file downloads |
 | [Good Mockups](https://goodmockups.com/) | 7,300+ free high-quality PSD mockup files |
 | [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter / |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
@@ -54,12 +52,10 @@
 | [Iphone Mockups](https://iphone-mockups.com/) | Free online iPhone mockup generator tool |
 | [Liquid Mockups](https://liquidmockups.com/) | Authentic high-quality mockups for design work |
 | [Liquid Mockups](https://liquidmockups.com/shop/video) | Video mockups and motion design asset packs |
-| [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCDHlwLSMEm0bGuo-9uZtOM9l40U0D_i8l25rsF6Qulb7TBCdpM7gQaAuiFEALw_wcB&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_source=1&gad_campaignid=22553582104&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV) | AI design agent for creating professional visuals |
+| [Loveart](https://www.lovart.ai) | AI design agent for creating professional visuals |
 | [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Vintage paper |
-| [Minimal Mockups](https://www.minimalmockups.com/mockups/) | Minimalist device and product mockup templates |
 | [Mockup app](https://mockupapp.ls.graphics/banner/latest-free-mockups) | Online mockup creator by ls.graphics with free templates |
 | [Mockup Batch](https://exchange.adobe.com/apps/cc/e8f80854/mockupbatch---create-mockups-in-bulk) | Adobe Photoshop extension for creating mockups in bulk |
-| [Mockup Bee](https://mockupbee.com/) | Mockup resource collection for designers |
 | [Mockup Ceacle](https://mockup.ceacle.com/) | Powerful Photoshop mockup system with 45k+ assets |
 | [Mockup Cloud](https://www.mockupcloud.com/graphics/illustrations) | Premium illustration mockups and asset packs |
 | [Mockup Cloud](https://www.mockupcloud.com/free) | Free PSD mockups from premium mockup store |
@@ -74,7 +70,7 @@
 | [Mockup Generator](https://mockupgenerator.co/) | Free online bulk mockup generator (no Photoshop needed) |
 | [Mockup Generator](https://www.mockups.buzz/) | Online mockup generation tool |
 | [Mockup Hunt](https://mockuphunt.co/) | Curated free PSD mockups from trusted sources |
-| [Mockup Maison](https://mockup.maison/collections/free-mockups) | Free high-quality PSD mockups for designers |
+| [Mockup Maison](https://mockup.maison/pages/free-mockups) | Free high-quality PSD mockups for designers |
 | [Mockup Shelf](https://www.mockupshelf.com/) | Free PSD mockups and online design tools |
 | [Mockup World](https://t.me/mockupworld_tg/4909) | Telegram / Creative Mrkt |
 | [Mockup World](https://t.me/mockupworld_tg) | Telegram channel for graphic design resource sharing |
@@ -100,19 +96,18 @@
 | [Mr Mockup](https://mrmockup.com/graphics/) | Graphics and design resource downloads for mockups |
 | [Mr.Mockup](https://mrmockup.com/free-mockups/) | Large collection of free PSD mockup downloads |
 | [Njord Mockups](https://njordmockups.com/) | Photorealistic Nordic-style mockups for designers |
-| [Original Mockups](https://originalmockups.com/mockups/free-mockups) | Free PSD mockups for various design categories |
-| [Packlane](https://packlane.com/?_ga=2.23896370.920385931.1741503716-654284899.1741503715) | Packaging mockups for custom boxes and product packaging prototypes |
+| [Original Mockups](https://www.magnific.com/mockups) | Free PSD mockups for various design categories |
+| [Packlane](https://packlane.com) | Packaging mockups for custom boxes and product packaging prototypes |
 | [Parallel Mockup](https://parallelmockup.com/) | Designer mockup collection with unique product scenes |
 | [Peculiar](https://peculiar.si/mockups) | Peculiar mockup collection by Sam Olevsky |
 | [PSD Mockup](https://psd-mockup.com/) | Free PSD mockups in various design categories |
 | [Renderforest](https://www.renderforest.com/mockup-generator) | Online mockup generator with many customizable templates |
 | [Sam Olevsky](https://www.samolevsky.com/collections/mockups) | Mockup collections and design assets from Sam Olevsky |
 | [Scene Number Mockups](https://scenenumbermockup.com/freebies) | Free coffee shop and food scene mockup templates |
-| [Smart Mockups](https://smartmockups.com/mockups) | Create stunning product mockups online (free & premium) |
+| [Smart Mockups](https://www.canva.com/mockups/) | Create stunning product mockups online (free & premium) |
 | [Sport Mockups](https://sportstemplates.net/free-templates/) | Free sports-themed PSD mockups and templates |
 | [The Mockup Club](https://themockup.club/) | Curated directory of free premium design mockups |
 | [Titanui](https://www.titanui.com/free-mockups/) | Free mockups organized by category for product and packaging design |
-| [Trumockup](https://trumockup.com/) | Mockup resource website for design projects |
 | [UI Print](https://uiprint.co/all-printable) | Printable OS and web mockups for wireframes and presentations |
 | [Urban Poster Mockup](https://urbanpostermockup.com/) | Premium urban poster and billboard mockup store |
 | [Vibes Mockup](https://vibesmockup.com/) | Photography-based high-quality design mockups |
@@ -125,7 +120,6 @@
 | [Device Shots](https://deviceshots.com/) | Create high-resolution device mockups for social media, for free |
 | [Deviceframes](https://deviceframes.com) | 3D device mockups with customizable backgrounds and scenes for showcasing app designs. |
 | [Dimmy.Club](https://dimmy.club) | Free browser mockup generator. |
-| [Facebook Devices](https://facebook.design/devices) | Images and Sketch files of popular devices |
 | [Heroshot](https://github.com/omachala/heroshot) | Automate documentation screenshots with visual element picker and theme-aware output |
 | [Lunacy](https://icons8.com/lunacy) | Create mockups from scratch for free |
 | [Media Modifier](https://mediamodifier.com/) | beautiful design mockups service for your products (free & premium) |
@@ -144,14 +138,11 @@
 | [Podifai Mockup Generator](https://podifai.com/tools/mockup-generator) | Free online 3D mockup generator for product photos, branding, and e-commerce. No signup required |
 | [Previewed](https://previewed.app) | Free mockup generator for app designs and screenshots. |
 | [PSD Repo](https://psdrepo.com) | Curated collection of free PSD mockups and templates. |
-| [Screely](https://www.screely.com/) | Instantly turn your screenshot into a mockup |
-| [Screen Peak](https://screenpeek.io/) | Create a mockup from a URL |
 | [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser & mobile mockups in seconds |
 | [Shot Snap](https://shotsnapp.com/) | Create beautiful device mockup images for your app or website design |
 | [Shots](https://shots.so) | Create beautiful mockups with device frames, backgrounds, and annotations — browser-based and free. |
-| [Smart Mockups](https://smartmockups.com/) | Create stunning product mockups (free & premium) |
+| [Smart Mockups](https://www.canva.com/mockups/) | Create stunning product mockups (free & premium) |
 | [Template.net](https://www.template.net) | High-quality mockup templates for various design needs. |
-| [Threed.io](https://threed.io) | Generate 3D mockups right in your browser. |
 | [Uizard](https://uizard.io) | Create mockups from text or sketches — free tier includes limited projects. |
 
 ## Templates & Presentations
