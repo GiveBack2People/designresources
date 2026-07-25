@@ -72,7 +72,7 @@
 | [Mockup Hunt](https://mockuphunt.co/) | Curated free PSD mockups from trusted sources |
 | [Mockup Maison](https://mockup.maison/pages/free-mockups) | Free high-quality PSD mockups for designers |
 | [Mockup Shelf](https://www.mockupshelf.com/) | Free PSD mockups and online design tools |
-| [Mockup World](https://t.me/mockupworld_tg/4909) | Telegram / Creative Mrkt |
+| [Mockup World](https://t.me/mockupworld_tg/4909) | Telegram channel sharing mockup resources |
 | [Mockup World](https://t.me/mockupworld_tg) | Telegram channel for graphic design resource sharing |
 | [Mockup World](https://www.mockupworld.co/free/tag/animated/) | Free animated PSD-to-GIF device mockups |
 | [Mockup.new](https://mockup.new/) | Free browser-based drag-and-drop mockup generator |

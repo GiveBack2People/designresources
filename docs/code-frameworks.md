@@ -20,11 +20,11 @@
 | [Cruip](https://cruip.com/free-templates/) | Fully coded HTML templates to help you easily build your startup landing page without hassles. |
 | [FreeHTML5](https://freehtml5.co/) | Free & premium HTML5 and Bootstrap themes |
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
-| [HTML5Up](https://html5up.net/) | Very modern, unique responsive HTML5/CSS3 themes |
+| [HTML5Up](https://html5up.net/) | Modern and unique responsive HTML5 themes |
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 | [Hubspot](https://www.hubspot.com/resources) | Templates, infographics, banners and much more |
-| [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
-| [Mobirise](https://mobirise.com/html-templates/) | Great looking HTML5/CSS3 templates |
+| [KeenThemes](https://keenthemes.com/) | Free and Pro Bootstrap, Vue, React, and Laravel templates |
+| [Mobirise](https://mobirise.com/html-templates/) | Great looking HTML5 templates |
 | [Onepagelove](https://onepagelove.com/) | One-page websites, templates and resources |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) | Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout. |
@@ -86,7 +86,7 @@
 | [PSone](https://github.com/micah5/PSone.css) | PS1 style CSS Framework, inspired by NES.css. |
 | [Pure CSS](https://pure-css.github.io/) | A set of small, responsive CSS modules |
 | [Raster Simple Grid System](https://rsms.me/raster/) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS. |
-| [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
+| [Sakura](https://oxal.org/projects/sakura/) | A minimal classless CSS framework and theme |
 | [Semantic UI](https://semantic-ui.com/) | Empowers designers and developers by creating a shared vocabulary for UI |
 | [Shoelace.css](https://www.shoelace.style/) | Lightweight, forward-thinking CSS library built with future CSS syntax |
 | [Skeleton](http://getskeleton.com/) | Extremely light framework for basic UI elements |
@@ -125,7 +125,7 @@
 | [AniJS](http://anijs.github.io/) | AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure |
 | [Animate.css](https://animate.style/) | Just-add-water CSS animations |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
-| [Anime.js](https://animejs.com/) | Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects |
+| [Anime.js](https://animejs.com/) | A lightweight JavaScript animation library with a simple, yet powerful API for CSS properties, SVG, DOM attributes, and JavaScript Objects |
 | [Animista](http://animista.net/) | CSS Animations On Demand |
 | [AnimXYZ](https://animxyz.com/) | AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 | [AniX](https://adajuly.github.io/AniX/) | Super easy and lightweight css animation library. |
@@ -267,7 +267,7 @@
 | [SpinKit](https://tobiasahlin.com/spinkit/) | Simple CSS Spinners |
 | [Stitches](https://stitches.dev/) | CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. |
 | [Styled components](https://styled-components.com/) | Build beautifully UI Components, for your applications & websites. |
-| [SVGR](https://react-svgr.com/) | SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
+| [SVGR](https://react-svgr.com/) | Universal tool to transform SVG into ready-to-use React components |
 | [sweetalert](https://sweetalert.js.org/) | SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/) | A beautiful, responsive, customizable, accessible replacement for javascript's popup boxes |
 | [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
@@ -275,7 +275,7 @@
 | [Tailwind Starter Kit](https://github.com/creativetimofficial/david-ai) | Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source |
 | [Tailwind Templates](https://tailwindtemplates.io/) | A free collection of Tailwindcss Templates - tailwind components for rapid UI development. |
 | [tailwindcomponents](https://www.creative-tim.com/twcomponents/) | A free repository for community components using TailwindCSS |
-| [Tailwindtoolbox](https://www.windytoolbox.com/) | Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
+| [Tailwindtoolbox](https://www.windytoolbox.com/) | Open source starter templates, components, and plugins for Tailwind CSS projects |
 | [Themesberg](https://themesberg.com/templates/free) | Free and open-source website themes, templates, and UI kits based on Bootstrap and React |
 | [Tilda](https://tilda.cc) | A web design platform with a collection of UI kits and templates. |
 | [UI Store](https://www.uistore.design) | Free and premium UI kits, templates, and design resources for various design projects. |
@@ -291,7 +291,7 @@
 | Resource | Description |
 | :--- | :--- |
 | [@tsparticles/react](https://github.com/tsparticles/react) | A lightweight React component for creating particles |
-| [@use-gesture](https://github.com/pmndrs/use-gesture) | Bread n butter utility for component-tied mouse/touch gestures in React. |
+| [@use-gesture](https://github.com/pmndrs/use-gesture) | Utility for component-tied mouse and touch gestures in React |
 | [Aceternity UI](https://ui.aceternity.com/) | Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
 | [Ant Design](https://ant.design/) | Open source design React UI library. |
 | [Arco Design](https://arco.design/en-US) | A comprehensive React UI components library based on the Arco Design system. |
@@ -377,7 +377,7 @@
 | [Equal UI](https://quatrochan.github.io/Equal/) | Open-source Vue 3 components system for your next project based on TypeScript |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index) | Vue UI toolkit for the web |
 | [Grace](https://github.com/Trendyol/grace) | Design System For Vue Applications. |
-| [Inkline](https://inkline.io) | Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
+| [Inkline](https://inkline.io) | Modern CSS framework for Vue.js designed for creating responsive web applications |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI) | VueUI library with a simple API, inspired by Google's Material Design |
 | [Materio Vuetify Vuejs Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) | Open-source & Easy to use Vuetify Vuejs Admin Template with Elegant Design & Unique Layout |
 | [Mint UI](https://mint-ui.github.io/#!/en) | Mobile UI elements for Vue.js |
@@ -444,7 +444,7 @@
 | [Svelte Flat UI](https://svelteui.js.org/) | UI library for Svelte based on Flat Design |
 | [Svelte Material UI](https://sveltematerialui.com/) | UI library for Svelte based on Material Design |
 | [Svelte UX](https://svelte-ux.techniq.dev/) | Collection of Svelte components, actions, stores, and utilities to build highly interactive applications. |
-| [Svelteit](https://docs.svelteit.dev) | A minimalistic UI/UX component library for Svelte and Sapper projects |
+| [Svelteit](https://docs.svelteit.dev) | A minimalistic component library for Svelte and Sapper projects |
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/) | UI library for Svelte based on the Bootstrap framework |
 
 ## React Native UI Libraries
@@ -498,7 +498,7 @@
 | [Polaris](https://polaris-react.shopify.com/) | Design system that creates great experiences for all of Shopify’s merchants |
 | [Pr1mer Guidelines](https://guidelines.pr1mer.tech/) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 | [Primer](https://primer.style/) | Design, build, and create with GitHub’s design system |
-| [SendGrid Style Guide](http://styleguide.sendgrid.com/) | UI library for developing consistent UI/UX at SendGrid |
+| [SendGrid Style Guide](http://styleguide.sendgrid.com/) | UI library for developing consistent user interfaces at SendGrid |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 | [StyleGuides.io](http://styleguides.io/) | A directory of 500+ styleguides |

@@ -19,7 +19,7 @@
 | [Color and Contrast](https://colorandcontrast.com/) | Accessibility-focused tool for checking color contrast ratios against WCAG standards. |
 | [Color Designer](https://colordesigner.io/) | Comprehensive color tools platform featuring a palette builder, gradient generator, color mixer, and converter. |
 | [Color Experts](https://www.colorexpertsbd.com/blog/best-youtube-channels-for-learning-photography-photo-editing/) | Youtube channels |
-| [Color Finale](https://colorfinale.com/) | / Alex 4D / FCPX / Industrial Revolution - Not Free |
+| [Color Finale](https://colorfinale.com/) | Professional color grading plugin for video editing - Not Free |
 | [Color Game](https://color.method.ac/) | Interactive color matching game that trains your eye for hue, saturation, and color harmony perception. |
 | [Color Geo Guesser](https://color-geo-guesser.mohit.rocks/) | Color matching quiz game that tests your ability to identify and reproduce target colors. |
 | [Color Magic](https://colormagic.app/) | AI-powered color palette generator from names, images, text, or hex codes. |
@@ -66,7 +66,7 @@
 | [Tonester Paints](https://tonesterpaints.com/collections/paints) | - Paint collection with beautiful unique colors |
 | [Trad. Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan) | Japanese Color Palettes |
 | [Try Colors](https://trycolors.com/games) | Color mixing games where users learn to match and mix colors through interactive challenges. |
-| [Unblast Palettes](https://unblast.com/color-schemes/) | Mindfully curated color palettes / |
+| [Unblast Palettes](https://unblast.com/color-schemes/) | Curated color palette collection for design inspiration |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 | [2 Color Combinations](https://2colors.colorion.co/) | Provides you different color combinations to be used on your application. |
 | [Adobe Color](https://color.adobe.com/) | Create color schemes with the color wheel or browse thousands of color combinations. |

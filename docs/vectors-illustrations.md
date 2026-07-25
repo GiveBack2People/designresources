@@ -102,11 +102,11 @@
 | Resource | Description |
 | :--- | :--- |
 | [3axis](https://3axis.co/) | Free DXF, CDR, and SVG vectors for laser cutting, CNC, and engraving projects |
-| [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram Grunge Texture Stamps / Vintage Vibes / |
+| [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram post with collage design resources |
 | [Free Stock Vectors - Stockio.com](https://urbanfonts.com/) | Large collection of free vector graphics, icons, and clip art for personal and commercial use |
 | [Grunge Texture Stamps](https://t.me/Illustrationlessons/6774) | Vintage grunge texture stamps shared on a Telegram illustration resource channel |
 | [VectorStock](https://www.vectorstock.com/free-vectors) | Marketplace with millions of free and premium vector images for personal use |
-| [Vintage Vibes](https://t.me/designrar/5100) | Telegram Grunge Texture Stamps / / Collage |
+| [Vintage Vibes](https://t.me/designrar/5100) | Telegram post with vintage design resources |
 | [All Silhouettes](https://www.vexels.com/) | Specializes in providing free vector silhouettes for various design projects. |
 | [Bazaardesigns](https://www.bazaardesigns.com/) | A resource offering free vector graphics and design elements for various creative projects. |
 | [BGjar](https://bgjar.com) | Free SVG background generator for your websites, blogs, and apps. |

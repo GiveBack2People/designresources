@@ -13,20 +13,20 @@
 | Resource | Description |
 | :--- | :--- |
 | [19 Free Film Grain Overlays](https://motionarray.com/learn/video-effects/free-film-grain/) | Curated list of 19 free film grain overlays for adding vintage cinematic texture to videos. |
-| [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | Game Dev Academy / Jesus FC14 / - Youtube |
+| [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | YouTube channel with game development and animation tutorials and resources |
 | [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato Elements collection of 3D billboard mockup video templates for After Effects |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
 | [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397) | VideoHive item for creating collage kits with customizable templates and assets |
 | [elements.envato.com](https://elements.envato.com/video-templates/luts) | Envato Elements collection of LUTs for color grading video footage |
-| [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Lux Edit / Video Hive / 2 / 3 / 4 / / 6 / Toros Kose / - Not Free |
-| [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Lux Edit / Video Hive / 2 / 3 / 4 / 5 / / Toros Kose / - Not Free |
+| [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Envato Elements collection of paper texture overlay video templates for various editing software |
+| [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Envato Elements collection of texture pack video templates for motion graphics and video editing |
 | [elements.envato.com](https://elements.envato.com/video-templates/3d+mockup) | Envato Elements section for 3D mockup video templates and motion graphics |
 | [elements.envato.com](https://elements.envato.com/video-templates/mockups/compatible-with-after-effects) | Envato Elements After Effects mockup templates for video projects |
 | [Envato](https://videohive.net/search/luts) | VideoHive marketplace search for LUT color grading presets for video editing software. |
 | [Envato](https://elements.envato.com/video-templates/compatible-with-after-effects) | Premium After Effects video template library with customizable motion graphics and animations. |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-premiere-pro) | Video Milkshake , Tiny Tapes , Human Video , Pix Flow , Cinecom , Gumroad / |
+| [Envato](https://elements.envato.com/video-templates/compatible-with-premiere-pro) | Marketplace for Premiere Pro video templates including titles, transitions, and motion graphics |
 | [Envato](https://elements.envato.com/video-templates/compatible-with-final-cut-pro) | Premium Final Cut Pro video template library with titles, transitions, and effects. |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-davinci-resolve) | / 2 / Mixkit / Motion Array / AE Juice / Video Editors Studio |
+| [Envato](https://elements.envato.com/video-templates/compatible-with-davinci-resolve) | Marketplace for DaVinci Resolve templates including Fusion macros, titles, and transitions |
 | [Firefly](https://firefly.adobe.com/generate/video) | Image to Video 🆓 |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=&query=&selection=1&type=video) | Free stock video footage library with searchable categories on the Freepik platform. |
 | [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=video&query=animated+texture&type=video) | Free animated texture video clips available for download on Freepik's stock library. |
@@ -34,12 +34,12 @@
 | [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik video search for texture pack overlays and motion backgrounds |
 | [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik video search for paper texture overlays and vintage film effects |
 | [Iphone](https://elements.envato.com/video-templates/iphone+mockup) | Envato Elements collection of iPhone mockup video templates for After Effects |
-| [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | Game Dev Academy / / Animation Methods - Youtube |
+| [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | YouTube channel featuring game development tutorials and animation content |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
 | [Mix Kit](https://mixkit.co/free-sound-effects/) | Free sound effects library with categories including animals, nature, game sounds, and transitions. |
 | [Mixkit](https://mixkit.co/free-after-effects-templates/) | Free After Effects template library with titles, transitions, and motion graphics elements. |
 | [Mixkit](https://mixkit.co/free-final-cut-pro-templates/zoom-backwards-transition-667/) | Free Final Cut Pro zoom transition template for video editing on the Mixkit platform. |
-| [Mixkit](https://mixkit.co/free-davinci-resolve-templates/) | Envato / 2 / / Motion Array / AE Juice / Video Editors Studio |
+| [Mixkit](https://mixkit.co/free-davinci-resolve-templates/) | Free DaVinci Resolve templates including titles, transitions, and lower thirds |
 | [Mixkit](https://mixkit.co/free-premiere-pro-templates/transitions/) | Free Premiere Pro transition templates for video editing available on Mixkit. |
 | [Motion Elements](https://www.motionelements.com/search/video?price_range=-1) | Free stock video and motion graphics library with searchable content for video production. |
 | [Motion Pack](https://videohive.net/item/mopack/29918969?s_rank=6) | Premium motion graphics pack for After Effects with versatile animation elements and templates. |
@@ -48,16 +48,16 @@
 | [Render Ram](https://www.youtube.com/@RenderRam/videos) | YouTube channel featuring 3D rendering tutorials, CGI breakdowns, and motion design content for creators. |
 | [SAM 3D Meta AI](https://aidemos.meta.com/segment-anything/editor/segment-video) | Interactive demo of Meta's Segment Anything Model for AI-powered video object segmentation and tracking. |
 | [Step Fun](https://huggingface.co/stepfun-ai/stepvideo-ti2v) | Open-source text-driven image-to-video generation model with realistic motion and physics simulation. |
-| [Video Editors Studio](https://videoeditorstudio.com/) | Envato / 2 / Mixkit / Motion Array / AE Juice / |
-| [Video Hive](https://videohive.net/search/texture%20pack) | Lux Edit / / 2 / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
+| [Video Editors Studio](https://videoeditorstudio.com/) | Premium motion graphics template packs for DaVinci Resolve with titles, transitions, and effects |
+| [Video Hive](https://videohive.net/search/texture%20pack) | Marketplace for texture pack video effects, overlays, and motion graphics templates |
 | [Video Hive](https://videohive.net/category/after-effects-project-files) | Marketplace for premium After Effects templates, including openers, titles, logos, and broadcast packages. |
-| [Video Hive](https://videohive.net/category/premiere-pro-templates) | Aniom , Creators Studio , Sick Boat , , Eleven Percent , Videos Change Reality |
+| [Video Hive](https://videohive.net/category/premiere-pro-templates) | Marketplace for Premiere Pro templates including openers, titles, transitions, and broadcast packages |
 | [Video Hive](https://videohive.net/category/apple-motion-templates) | VideoHive category for Apple Motion templates and motion graphics projects |
 | [Videohive](https://videohive.net/category/add-ons) | Collection of After Effects scripts, presets, and plugins to extend video editing workflows. |
-| [videohive.net](https://videohive.net/search/animated%20texture) | Lux Edit / Video Hive / / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
-| [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Creator FX , Eleven Percent / Envato / / |
-| [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Envato / / Mixkit / Motion Array / AE Juice / Video Editors Studio |
-| [YWFT](https://www.youworkforthem.com/videos) | Motion Array / Creative Market / Videohive / - Not Free |
+| [videohive.net](https://videohive.net/search/animated%20texture) | Marketplace for animated texture video effects and motion graphics overlays |
+| [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Marketplace for VFX motion graphics including transitions, overlays, and particle effects |
+| [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Marketplace for DaVinci Resolve templates including Fusion compositions, titles, and effects |
+| [YWFT](https://www.youworkforthem.com/videos) | Marketplace for stock video clips and motion graphics with one-time license pricing |
 | [Beachfront B-Roll](https://www.beachfrontbroll.com/) | Free stock video footage for any project. |
 | [CapCut](https://www.capcut.com) | Free video editing tool from ByteDance with AI-powered effects, auto-captions, and templates. |
 | [Clipstill](https://www.clipstill.com/) | A collection of cinemagraphs (still photos with minor repeated movement). |

@@ -22,27 +22,27 @@
 | [Circum Icons](https://circumicons.com/icons) | 1,600+ consistent open source SVG icons with multiple formats. |
 | [CoolIcons](https://coolicons.cool/) | 1,320+ carefully designed line, duotone, and duocolor icons with customizable stroke. |
 | [Coreui](https://coreui.io/icons/) | Free SVG, JavaScript & Webfont icons with components for Angular, React, and Vue.js. |
-| [Creative Market](https://creativemarket.com/icons) | Vector Icons / / Envato / Gumroad / Motion Array |
+| [Creative Market](https://creativemarket.com/icons) | Marketplace for vector icons, illustrations, fonts, and design assets |
 | [Davooda](https://davooda.com/) | Shop offering simple, beautiful icons for design and web projects |
 | [Design Family Market](https://www.designfamilymarket.com/l/BDFM-tool-pixelated-SVG?layout=profile) | Online tool for creating pixelated SVG icons. |
 | [Digital Nomad Icons](https://digitalnomadicons.com/) | Lifestyle icon & emoji pack for digital nomads featuring travel-themed illustrations. |
 | [Draw Kit](https://www.drawkit.com/search-results) | Library of 2D, 3D illustrations, icons and animations for designers |
 | [Dribbble](https://dribbble.com/search/free-icons) | Search results for free icon designs on Dribbble. |
 | [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | Free PSD logo mockup with realistic embossed effect on paper. |
-| [Envato](https://elements.envato.com/graphics/icons) | Vector Icons / Creative Market / / Gumroad / Motion Array |
+| [Envato](https://elements.envato.com/graphics/icons) | Subscription service for vector icons, graphics, templates, and design assets |
 | [Figma](https://www.figma.com/community/icons) | 6,900+ free icon sets & packs from the Figma community. |
 | [Forge Icons](https://icons.theforgesmith.com/) | 300+ SVG icons for e-commerce, travel, social media, and app design. |
 | [Free Icons](https://icons-for-free.com/) | Large collection of free icons in various styles and formats. |
 | [Freepik](https://www.magnific.com/icons) | Millions of vector icons, stickers, and illustration packs. |
 | [Futicons](https://futicons.com/) | Free futuristic line and fill SVG icons for modern web projects. |
 | [Game Icons](https://game-icons.net/) | 4,180 free SVG and PNG game-themed icons, regularly updated. |
-| [Gumroad](https://gumroad.com/design/icons) | Vector Icons / Creative Market / Envato / / Motion Array |
+| [Gumroad](https://gumroad.com/design/icons) | Platform for independent creators selling vector icons, fonts, and digital design assets |
 | [Health icons](https://healthicons.org/) | Free open source health and medical icon set for commercial use |
 | [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | Free 20-pack of industrial-themed HM graphic icons. |
 | [Hola SVG Icons](https://icons.holasvg.com/) | Free open source SVG icons with customizable stroke, fill, and color. |
 | [Hugeicons](https://hugeicons.com/) | 51,000+ free & pro icons for designers and developers in multiple styles. |
 | [Humbleicons](https://humbleicons.com/) | 284 simple, neutral, carefully crafted free SVG icons. |
-| [Icon Finder](https://www.magnific.com/icons) | The Noun Project / My Crate / Yellow Images / / YWFT |
+| [Icon Finder](https://www.magnific.com/icons) | Search engine for millions of vector icons, illustrations, and stickers |
 | [Icon Maker](https://ray.so/icon) | Online tool by Raycast for creating custom app icons |
 | [Icon Park](https://iconpark.oceanengine.com/illustrations) | ByteDance's illustration library with multiple customization options. |
 | [Icon Park](https://iconpark.oceanengine.com/official) | ByteDance's official icon library with themeable SVG icons. |
@@ -64,8 +64,8 @@
 | [Majesticons](https://www.majesticons.com/) | 11,000+ premium hand-crafted icons in line, duotone, and solid styles. |
 | [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | Extended preview of Material Design Icons from the MDI sandbox. |
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
-| [Motion Array](https://motionarray.com/browse/graphics/icons/) | Vector Icons / Creative Market / Envato / Gumroad / |
-| [My Crate](https://my.crate.as/?tag=Icon) | The Noun Project / / Yellow Images / Icon Finder / YWFT |
+| [Motion Array](https://motionarray.com/browse/graphics/icons/) | Marketplace for motion graphics, video templates, stock footage, and design assets including icons |
+| [My Crate](https://my.crate.as/?tag=Icon) | Curated marketplace for design assets including vector icons, fonts, and graphics |
 | [Obra Icons](https://icons.obra.studio/) | Clean, consistent UI icon set with 1047 MIT-licensed icons |
 | [Octicons](https://primer.style/octicons/) | GitHub's handcrafted, scalable icon set by Primer design system |
 | [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file/1445713209741917748/openbridge-icon-pack) | Free icon pack available on Figma Community. |
@@ -78,13 +78,13 @@
 | [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | - Download SVG Vector files from any website |
 | [Tech Icons](https://techicons.dev/) | 426+ SVG and PNG tech icons for programming languages, frameworks, and tools. |
 | [The Icon of](https://www.theiconof.com/search) | 1,100+ pixel perfect icons available for Figma, Sketch, XD, and more. |
-| [The Noun Project](https://thenounproject.com/icons/) | / My Crate / Yellow Images / Icon Finder / YWFT |
-| [Vector Icons](https://vectoricons.net/designers) | / Creative Market / Envato / Gumroad / Motion Array |
+| [The Noun Project](https://thenounproject.com/icons/) | Library of over 3 million icons and photos created by a global community |
+| [Vector Icons](https://vectoricons.net/designers) | Directory of vector icon designers and resources for finding icon sets |
 | [Vector Lab](https://thevectorlab.com/pages/graphics-and-logos) | Marketplace for vector graphics, logos and design resources |
 | [Vzy Icons](https://icons.vzy.co/) | Simple, clean SVG icon set for modern web design. |
 | [Warp SVG Online](https://pavellaptev.github.io/warp-svg/) | Online tool to warp and distort SVG files with mesh deformation. |
-| [Yellow Images](https://yellowimages.com/graphic-design/category/icons) | The Noun Project / My Crate / / Icon Finder / YWFT |
-| [YWFT](https://www.youworkforthem.com/graphics/icons) | The Noun Project / My Crate / Yellow Images / Icon Finder / |
+| [Yellow Images](https://yellowimages.com/graphic-design/category/icons) | Marketplace for vector icons, mockups, fonts, and premium design resources |
+| [YWFT](https://www.youworkforthem.com/graphics/icons) | Marketplace for fonts, vector icons, graphics, and design assets from independent creators |
 | [Zwicon](https://www.zwicon.com/) | Handcrafted icon set with clean, consistent strokes. |
 | [3DICONS](https://3dicons.co) | Beautifully crafted open source 3D icons |
 | [All SVG Icons](https://allsvgicons.com/) | Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries. |

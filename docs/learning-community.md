@@ -65,7 +65,7 @@
 | [Blender list](https://www.reddit.com/r/blender/comments/1iipe0p/i_made_a_list_of_blender_assets_and_addons/) | Reddit compilation of Blender assets, add-ons, and community tools. |
 | [CG Peers](https://t.me/Cg_peers) | Telegram community for CG artists to share work, resources, and feedback. |
 | [Concept Art Empire](https://conceptartempire.com/photobashing/) | Guide and examples for photobashing, concept art, and digital painting techniques. |
-| [Figma](https://www.figma.com/community/design-tutorials) | Figma Community tutorials and editable design resources for UI/UX workflows. |
+| [Figma](https://www.figma.com/community/design-tutorials) | Figma Community tutorials and editable design resources for user interface and user experience workflows. |
 | [Github](https://github.com/ad-si/awesome-3d-printing) | Curated GitHub list of 3D printing projects, tools, and community resources. |
 | [github.com](https://github.com/ComposioHQ/awesome-claude-skills) | GitHub collection of Claude AI skills, examples, and integration ideas. |
 | [github.com](https://github.com/BehiSecc/awesome-claude-skills) | Another GitHub collection of Claude AI skills, tools, and prompt engineering tips. |
@@ -107,10 +107,10 @@
 | [DesignContest](https://www.designcontest.com) | Host contests for logos, websites, and print designs with blind judging options and NDA protection. |
 | [DesignCrowd](https://www.designcrowd.com) | Crowdsourced design marketplace with over 1 million designers competing in logo, web, and graphic design contests. |
 | [Designhill](https://www.designhill.com) | AI-powered logo maker alongside traditional design contests for logos, packaging, and merchandise. |
-| [DesignJobsBoard](https://www.designjobsboard.com) | Curated job listings for UI/UX, graphic, and product design roles at startups and enterprises. |
+| [DesignJobsBoard](https://www.designjobsboard.com) | Curated job listings for user interface and user experience, graphic, and product design roles at startups and enterprises. |
 | [DesignQuote](https://www.designquote.net) | Get quotes from pre-vetted design agencies and freelancers for branding and web projects. |
 | [Fiverr](https://www.fiverr.com) | Marketplace for creative services starting at $5, with designers offering packaged services at set prices. |
-| [Freelancer](https://www.freelancer.com) | Global freelance marketplace with design contests and hourly/fixed-price projects across all creative fields. |
+| [Freelancer](https://www.freelancer.com) | Global freelance marketplace with design contests and hourly and fixed-price projects across all creative fields. |
 | [Guru](https://www.guru.com) | Freelance platform with workroom collaboration tools, escrow payments, and design job postings. |
 | [Hatchwise](https://www.hatchwise.com) | Logo and naming contest platform offering unlimited revisions and full trademark rights. |
 | [If You Could Jobs](https://www.ifyoucouldjobs.com) | Creative industry job board based in the UK, featuring roles at agencies, studios, and in-house teams. |
@@ -170,7 +170,7 @@
 | [CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | A simple CSS property viewer. |
 | [daily.dev - News for Busy Developers](https://chromewebstore.google.com/detail/dailydev-where-developers/jlmpjdjjbgclbocgajdjefcidcncaied) | Get programming news with zero effort. Simply open a new tab, and you’re all set. A must-have tool for busy developers! |
 | [Debug CSS](https://chromewebstore.google.com/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj) | Adds outline to all elements on the page to show the culprit element which is changing desired layout. Helps in debugging CSS of the page |
-| [Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler a form filler that fills all inputs on a page with fake/dummy data. |
+| [Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler a form filler that fills all inputs on a page with dummy data. |
 | [Fake Filler](https://addons.mozilla.org/en-US/firefox/addon/fake-filler/) | Fill out web forms with dummy data |
 | [Fireshot - Full Page Screen Capture](https://addons.mozilla.org/en-US/firefox/addon/fireshot/) | Capture full web pages |
 | [Fonts Ninja](https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
@@ -178,7 +178,7 @@
 | [Hackertab.dev](https://chromewebstore.google.com/detail/hackertab-%E2%80%93-dev-news-gith/ocoipcahhaedjhnpoanfflhbdcpmalmp) | Hackertab helps developers stay up-to-date with the latest dev news and resources in one tab. |
 | [Imageye - Image downloader](https://chromewebstore.google.com/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Find and download all images on a web page. With Imageye you can find, browse and download all the images present in a web page. |
 | [Imageye - Image downloader](https://addons.mozilla.org/en-US/firefox/addon/imageye_image_downloader/) | Download images from web pages |
-| [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en) | Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file |
+| [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en) | Beautify CSS, JavaScript and JSON code when you open a CSS, JS, or JSON file |
 | [JavaScript and CSS Code Beautifier](https://addons.mozilla.org/en-US/firefox/addon/beautifer-minify/) | Beautify and minify JavaScript and CSS code |
 | [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) | Formats and colors JSON content for better readability. It can also collapse and expand nested structures. |
 | [JSON Lite](https://github.com/lauriro/json-lite) | Browser extension for viewing JSON files. |
@@ -232,5 +232,5 @@
 | [Printing Projects](https://all3dp.com/projects/3d-printing-projects/) | Project-based tutorials for 3D printing design, modeling, and fabrication. |
 | [rubenstomdesign.com](https://rubenstomdesign.com/blogs/news/mastering-indesign-templates-everything-you-need-to-know-to-start-designing) | Blog post with practical guidance for mastering InDesign templates. |
 | [storyblocks.com](https://www.storyblocks.com/resources/tutorials/create-video-mockup-designs) | Tutorial for creating video mockups using Storyblocks footage and templates. |
-| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | Interactive UX/UI tutorials covering design fundamentals, typography, and workflow. |
+| [UX/UI design tutorials \| Uxcel](https://app.uxcel.com/tutorials) | Interactive user experience and user interface tutorials covering design fundamentals, typography, and workflow. |
 | [youtube.com](https://www.youtube.com/results?search_query=Blueprint+Effect+in+Adobe+Photoshop) | YouTube search for Photoshop blueprint effect tutorials and design workflow videos. |
