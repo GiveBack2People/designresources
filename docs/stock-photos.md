@@ -159,7 +159,6 @@
 | [Placeholder](https://placeholder.com/) | A free image placeholder service for the web. You can specify image size and format |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/) | Public domain images of all types |
 | [PxHere](https://pxhere.com/) | Free Images & Free stock photos - PxHere |
-| [Random User Generator](https://randomuser.me) | A free, open-source API for generating random user data. Like Lorem Ipsum, but for people. |
 | [Realistic Shots](https://realisticshots.com/) | Free high-resolution stock photos |
 | [Saxifraga](https://www.freenatureimages.eu/) | Free nature images |
 | [SkitterPhoto](https://skitterphoto.com/) | Free high-resolution photography |
