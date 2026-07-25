@@ -101,10 +101,10 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3axis](https://3axis.co/) | - Vectors for Laser Cutting |
+| [3axis](https://3axis.co/) | Free DXF, CDR, and SVG vectors for laser cutting, CNC, and engraving projects |
 | [Collage](https://t.me/ooutsidepsd/4585?single) | Telegram Grunge Texture Stamps / Vintage Vibes / |
 | [Free Stock Vectors - Stockio.com](https://urbanfonts.com/) | Large collection of free vector graphics, icons, and clip art for personal and commercial use |
-| [Grunge Texture Stamps](https://t.me/Illustrationlessons/6774) | Telegram / Vintage Vibes / Collage |
+| [Grunge Texture Stamps](https://t.me/Illustrationlessons/6774) | Vintage grunge texture stamps shared on a Telegram illustration resource channel |
 | [VectorStock](https://www.vectorstock.com/free-vectors) | Marketplace with millions of free and premium vector images for personal use |
 | [Vintage Vibes](https://t.me/designrar/5100) | Telegram Grunge Texture Stamps / / Collage |
 | [All Silhouettes](https://www.vexels.com/) | Specializes in providing free vector silhouettes for various design projects. |
@@ -115,7 +115,7 @@
 | [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
 | [Delesign](https://free-designs.delesign.com/free-designs/graphics/) | A collection of free illustrations and more |
-| [Freeble](https://freebbble.com/) | Vectors, patterns, mockups and more |
+| [Freeble](https://freebbble.com/) | Free design resources from Dribbble including mockups, icons, UI kits, and templates |
 | [FreeVectors](https://www.freevectors.net/) | Provides free vector art and graphics for personal and commercial use. |
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 | [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |

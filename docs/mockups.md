@@ -15,7 +15,7 @@
 | [Behance](https://www.behance.net/search/projects/free%20mockup?tracking_source=typeahead_search_direct) | Behance search for free mockup projects and PSD files |
 | [Bendito Mockup](https://benditomockup.com/category/freebies) | Iconic free mockups for bold brand presentations |
 | [Best mockups curation](https://mockups.digital/creators) | Curated directory of top mockup creators and designers |
-| [Blender Mockup Scenes](https://www.blendkit.com/) | 3D mockup scenes and assets for Blender |
+| [Blender Mockup Scenes](https://www.blendkit.com/) | Evergrowing 3D asset library for Blender with 66,000+ free models and scenes |
 | [Camp Keyframe](https://campkeyframe.gumroad.com/l/animatedtexturepack) | Animated Paper Textures - Not Free |
 | [Canva](https://www.canva.com/mockups) | Browser-based mockup generator with drag-and-drop editing |
 | [Content Core](https://contentcore.xyz/) | AI-powered content creation platform with mockup export |
@@ -40,7 +40,7 @@
 | [Freepik](https://www.magnific.com/mockup-generator) | Online mockup generator with 5K resolution (now Magnific) |
 | [Freepik](https://www.magnific.com/search?format=search&last_filter=selection&last_value=1&query=Mockup&selection=1&type=psd) | Freepik search for PSD mockup file downloads |
 | [Good Mockups](https://goodmockups.com/) | 7,300+ free high-quality PSD mockup files |
-| [Grafic Yard](https://graficyard.com/collections/all) | Format Mockups / Graphic Shelter / |
+| [Grafic Yard](https://graficyard.com/collections/all) | Premium 3D apparel and product mockup packs for designers |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
 | [Hazard Mockups](https://www.hazardmockups.com/freebies) | Free urban signage and poster mockups |
 | [Hazard Mockups](https://www.hazardmockups.com/category/video-mockups) | Video mockups and motion design templates |
@@ -53,7 +53,7 @@
 | [Liquid Mockups](https://liquidmockups.com/) | Authentic high-quality mockups for design work |
 | [Liquid Mockups](https://liquidmockups.com/shop/video) | Video mockups and motion design asset packs |
 | [Loveart](https://www.lovart.ai) | AI design agent for creating professional visuals |
-| [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Vintage paper |
+| [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Free vintage paper manuscript mockup with PSD smart layers |
 | [Mockup app](https://mockupapp.ls.graphics/banner/latest-free-mockups) | Online mockup creator by ls.graphics with free templates |
 | [Mockup Batch](https://exchange.adobe.com/apps/cc/e8f80854/mockupbatch---create-mockups-in-bulk) | Adobe Photoshop extension for creating mockups in bulk |
 | [Mockup Ceacle](https://mockup.ceacle.com/) | Powerful Photoshop mockup system with 45k+ assets |
@@ -121,7 +121,7 @@
 | [Deviceframes](https://deviceframes.com) | 3D device mockups with customizable backgrounds and scenes for showcasing app designs. |
 | [Dimmy.Club](https://dimmy.club) | Free browser mockup generator. |
 | [Heroshot](https://github.com/omachala/heroshot) | Automate documentation screenshots with visual element picker and theme-aware output |
-| [Lunacy](https://icons8.com/lunacy) | Create mockups from scratch for free |
+| [Lunacy](https://icons8.com/lunacy) | Free graphic design software with AI tools, UI design, prototyping, and built-in assets |
 | [Media Modifier](https://mediamodifier.com/) | beautiful design mockups service for your products (free & premium) |
 | [Mock.Video](https://www.mock.video/) | Instantly create mockups by adding a device frame to your videos. |
 | [MockCity](https://mockcity.com/) | Bulk generate mockups from PSD templates by automatically placing images in SmartObjects. The visual editor allows you to change SmartObject parameters and see an updated mockup preview in realtime. |

@@ -205,7 +205,7 @@
 | [Stylebot](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/) | Customize the appearance of web pages |
 | [UX Check](https://chromewebstore.google.com/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) | Identify usability issues through a heuristic evaluation. |
 | [VisBug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) | Open source web design debug tool built with JavaScript |
-| [VisBug](https://addons.mozilla.org/en-US/firefox/addon/visbug/) | Web design debugging tool |
+| [VisBug](https://addons.mozilla.org/en-US/firefox/addon/visbug/) | Open source browser design tools for editing and inspecting any webpage |
 | [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | Wappalyzer is a technology profiler that shows you what websites are built with. |
 | [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/) | Identify technologies used on websites |
 | [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Adds a toolbar button with various web developer tools. |

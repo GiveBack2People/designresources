@@ -12,7 +12,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools?tab=readme-ov-file) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools?tab=readme-ov-file) | Curated list of the best design tools, plugins, and resources for designers and developers. |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | A collection of software for graphic design, video editing, web development, and photography. Key tools within the suite include Photoshop, Illustrator, InDesign, After Effects, and Premiere Pro. |
 | [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | The industry-standard vector graphics editor for logos, icons, typography, and complex illustrations. |
 | [Affinity Designer](https://affinity.serif.com/) | A vector graphic design software alternative to Adobe Illustrator. It offers professional-grade features for illustration, UI design, and typography. |
@@ -55,34 +55,34 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Animoto Video Maker](https://animoto.com/online-video-maker) | Make videos online |
+| [Animoto Video Maker](https://animoto.com/online-video-maker) | Drag-and-drop online video maker for creating professional videos from photos and clips. |
 | [Blobmaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code by typing or drop a file. |
-| [Cartoon Photo](https://cartoon.pho.to/) | Turn photos into cartoons |
+| [Cartoon Photo](https://cartoon.pho.to/) | Free online tool to turn portrait photos into cartoons with face morphing and animation effects. |
 | [ChartGo](https://www.chartgo.com/) | Create charts and graphs online |
 | [Clippy](https://bennettfeely.com/clippy/) | Easy CSS clip-path maker |
 | [Codepng](https://www.codepng.app/) | Convert your source code into awesome shareable images. |
 | [CSS Arrow](http://www.cssarrowplease.com/) | Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 | [CSS Grid Generator](https://grid.layoutit.com/) | A tool for creating CSS Grid Layouts |
-| [CTA Button Maker](https://www.clickminded.com/button-generator/) | Create call to action buttons |
+| [CTA Button Maker](https://www.clickminded.com/button-generator/) | Free online button generator for designing custom call-to-action buttons with CSS code export. |
 | [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
 | [Diagrams](https://www.diagrams.net/) | Diagram software and Flowchart maker |
 | [Doodle Ipsum](https://doodleipsum.com/) | The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
-| [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
+| [Draw.io](https://www.draw.io/) | Free online diagram editor with integrations for Google Drive, Confluence, and VS Code. |
 | [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams |
 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/full-control.html) | Eight values specifying border-radius in CSS ( border-radius generator ) |
 | [Figen](https://figen.cc/) | Post Cover & Background Generator Tool |
 | [Figma](https://www.figma.com/graphic-design-tool/) | Online graphic design tool (Free & paid options) |
 | [Flex Malven](http://flexbox.malven.co/) | A flexbox grid cheatsheet to reference when working with flexbox |
-| [Fotor](https://www.fotor.com/) | Photo editor and design maker |
-| [Framer](https://www.framer.com/) | Is prototyping tool for teams |
+| [Fotor](https://www.fotor.com/) | Free online photo editor with AI enhancement, background removal, and graphic design tools. |
+| [Framer](https://www.framer.com/) | AI-powered website builder for creating professional sites with no-code design and CMS features. |
 | [Get Waves](https://getwaves.io/) | A free SVG wave generator to make unique SVG waves for web design |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Glassmorphism](https://hype4.academy/tools/glassmorphism-generator) | An incredible online tool for generating quick glassmorphic UI in CSS code snippets. |
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
 | [Grid Malven](http://grid.malven.co/) | A css grid cheatsheet to reference when creating a css grid |
 | [GTmetrix](https://gtmetrix.com/) | Website Speed and Performance Optimization |
-| [Infogram](https://infogram.com/) | Create infograms |
+| [Infogram](https://infogram.com/) | Online tool for creating interactive infographics, charts, reports, and data visualizations. |
 | [Jitter](https://jitter.video/) | Online tool to create motion graphics/design |
 | [JSONT](https://www.jsont.run/) | A simple and powerful online JSON formatting tool |
 | [Lucidchart](https://www.lucidchart.com/pages/) | Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
@@ -95,9 +95,9 @@
 | [Penpot](https://penpot.app/) | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community [Open Source and selfhostable](https://github.com/penpot/penpot#what-is-penpot) |
 | [Personas](https://personas.draftbit.com/) | A playful avatar generator for the modern age |
 | [Photo Creator](https://icons8.com/mega-creator) | Create your own photos instead of searching for stock |
-| [Photopea](https://www.photopea.com) | An Online Photoshop editor |
+| [Photopea](https://www.photopea.com) | Free online Photoshop alternative with PSD support, layers, masks, and AI editing tools. |
 | [PixCleaner](https://www.pixcleaner.com/) | Accurate and hassle free background removal tool |
-| [Pixlr](https://www.pixlr.com/) | Online photo editor |
+| [Pixlr](https://www.pixlr.com/) | Free AI-powered online photo editor with image generation, background removal, and collage tools. |
 | [Ray.so](https://ray.so/) | Online tool to create beautiful images of your code. |
 | [RemoveBG](https://www.remove.bg/) | Remove image backgrounds |
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
@@ -105,39 +105,39 @@
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution (4 free) |
 | [TableConvert](https://tableconvert.com/) | Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table. |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
-| [Ui Bakery](https://uibakery.io/) | Create full-fledged web apps visually |
+| [Ui Bakery](https://uibakery.io/) | Low-code platform for building internal tools, admin panels, dashboards, and CRUD apps visually. |
 | [Unscreen](https://www.canva.com/features/video-background-remover/) | Remove Video Background 100% Automatically and Free |
-| [UXWing SVG Editor](https://uxwing.com/svg-icon-editor) | Creating and Edit SVG Online |
-| [Vectr](https://vectr.com/) | Free vector graphics software |
+| [UXWing SVG Editor](https://uxwing.com/svg-icon-editor) | Free online SVG icon editor for creating and editing scalable vector graphics in the browser. |
+| [Vectr](https://vectr.com/) | Free AI-powered vector graphics editor and logo maker with background removal and real-time collaboration. |
 | [Visily](https://www.visily.ai) | Tool that empowers *non-designers* to design web and mobile app mockups |
 | [Visme](https://www.visme.co/) | Create presentations, infographics and more |
-| [Whimsical](https://whimsical.com/) | Wireframes, diagrams and more (4 free) |
-| [Whiteboard](https://witeboard.com/) | Online drawing tool |
+| [Whimsical](https://whimsical.com/) | Collaborative whiteboard for flowcharts, wireframes, mind maps, and product diagrams. |
+| [Whiteboard](https://witeboard.com/) | Online real-time collaborative whiteboard for sketching ideas and drawing together. |
 | [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly prototype and build stunning websites using Tailwind CSS (Free & Premium) |
 | [Wireframe.cc](https://wireframe.cc/) | Wireframing tool (free & paid) |
-| [Wix](https://www.wix.com/) | Create a Website You’re Proud Of |
+| [Wix](https://www.wix.com/) | AI-powered website builder for creating professional sites with drag-and-drop and eCommerce features. |
 | [Yellow Lab Tools](https://yellowlab.tools/) | Online test to help speeding up heavy web pages |
 
 ## Downloadable Software
 
 | Resource | Description |
 | :--- | :--- |
-| [Armor Paint](https://armorpaint.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Armor Paint](https://armorpaint.org/) | Stand-alone 3D PBR texture painting software with GPU acceleration and node-based workflow. |
 | [Bulk Image Compressor](https://www.softwarehow.com/bulk-image-compressor/) | Softwarehow / Image Splitter / Recolor Links |
 | [CLO 3D](https://www.clo3d.com/en/clo/download) | Apparently best 3D Software for Clothing design |
-| [Gravity Sketch](https://gravitysketch.com/) | - 3D Design sketching software |
+| [Gravity Sketch](https://gravitysketch.com/) | Immersive 3D design sketching tool for VR and desktop used for product design and ideation. |
 | [Image Splitter](https://www.softwarehow.com/image-splitter/) | Softwarehow Bulk Image Compressor / / Recolor Links |
 | [Recolor Links](https://www.softwarehow.com/recolor-links/) | Softwarehow Bulk Image Compressor / Image Splitter / |
 | [Simply Print](https://simplyprint.io/) | 3D Printer Cloud Management Software |
-| [SOFTWARE](https://bitbucket.org/archinate/lunchboxml/src/master/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [SOFTWARE](https://bitbucket.org/archinate/lunchboxml/src/master/) | LunchboxML machine learning library for computational design and geometry processing on Bitbucket. |
 | [🏴‍☠️](https://filecr.com/windows/clo-virtual-fashion/) | Apparently best 3D Software for Clothing design |
-| [Adobe XD](https://www.adobe.com/products/xd.html) | Free design tool from Adobe |
-| [Be Funky](https://www.befunky.com/features/graphic-designer/) | Online design program |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Vector-based UI/UX design tool for prototyping and wireframing websites and mobile apps. |
+| [Be Funky](https://www.befunky.com/features/graphic-designer/) | Free online graphic design tool with photo editing, collage making, and template-based designs. |
 | [Blender](https://www.blender.org/download/) | Open source, free animation, 3D modeling, etc. |
 | [Colorpicker](https://colorpicker.fr) | Open Source colors software: Retrieve, manipulate and store your colors easily! |
 | [Darktable](https://www.darktable.org/) | Free & Open source photography workflow application and raw developer |
 | [Google Web Designer](https://webdesigner.withgoogle.com/) | Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
-| [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor) | Free Photo Editor: For windows only |
+| [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor) | Free AI-powered photo editing software for Windows with background removal and retouching tools. |
 | [Krita](https://krita.org/en/download/krita-desktop/) | Sketching and painting program designed for digital artists |
 | [Origami Studio](https://origami.design) | Interactive interface design tool created by Facebook: For mac only |
 | [Pencil Project](https://pencil.evolus.vn/) | GUI prototyping software |
@@ -169,153 +169,153 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [(3D)](https://www.bimandco.com/it/fabbricanti/844-scrigno/details) | Scrigno Italy - Doors |
-| [1879](https://archive.org/details/maw-company.12700/page/n13/mode/2up) | Maw Co / - USA - 1890 |
-| [1885](https://archive.org/details/Campbell46354/page/n89/mode/2up) | Italy - 1906 |
-| [1905](https://archive.org/details/sears-robuck-and-company-1905/page/n35/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [1920](https://archive.org/details/CasaGonzalez/mode/2up) | Casa Gonzalez 1925 / - Spain |
-| [1940](https://archive.org/details/SearsWallpapers1940/page/n51/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) | - Create Comics from prompts |
-| [AI Design Awards](https://www.instagram.com/ai.designawards/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [AI Index](https://ai-index.eu/) | - Graphic Design created with AI |
-| [AI Motion Capture Tools That Let You Animate Characters Without Suits](https://gachoki.com/ai-powered-motion-capture/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [AI Scripts](https://aiscripts.com/ai-scripts/) | Vectorise / DTP Sripting / SHS Page / |
-| [AIGA Eye on Design](https://eyeondesign.aiga.org/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [AIM Brick](https://aimbrick.com/MasonryDesigner#list_materials) | - Custom brick textures |
-| [Alibaba Wan 2.1](https://huggingface.co/spaces/Wan-AI/Wan2.1) | Local Model Make Image move - 🆓💾 |
-| [Alibaba Z Image Turbo](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Alki](https://alki.fr/en/collections/chaises-de-bureau) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Allegro](https://huggingface.co/rhymes-ai/Allegro) | - Offline Text to Video Generator |
-| [Archive](https://archive.org/details/david-rumsey-map-collection) | David Rumsey / - Old maps |
-| [archive.org](https://archive.org/details/revetementsceram00hteb_0/page/n17/mode/2up) | France - 1904 |
-| [archive.org](https://archive.org/search?query=Datacraft+Sozaijiten) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [archive.org](https://archive.org/details/blindusk-master-bundle-collection) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Ark Design AI](https://arkdesign.ai/) | - Text to BIM - Not free |
+| [(3D)](https://www.bimandco.com/it/fabbricanti/844-scrigno/details) | Scrigno door product page on Bim&co, an Italian manufacturer's 3D catalog for architects. |
+| [1879](https://archive.org/details/maw-company.12700/page/n13/mode/2up) | Archive.org scan of Maw & Co 1890 catalog featuring decorative tiles and architectural designs. |
+| [1885](https://archive.org/details/Campbell46354/page/n89/mode/2up) | Archive.org scan of Campbell 1906 catalog with Italian ornamental and architectural elements. |
+| [1905](https://archive.org/details/sears-robuck-and-company-1905/page/n35/mode/2up) | Digitized 1905 Sears Roebuck catalog on Internet Archive for vintage design and typography reference. |
+| [1920](https://archive.org/details/CasaGonzalez/mode/2up) | Archive.org scan of Casa Gonzalez 1925 catalog showcasing Spanish design and architecture. |
+| [1940](https://archive.org/details/SearsWallpapers1940/page/n51/mode/2up) | Digitized 1940 Sears wallpaper catalog on Internet Archive for vintage pattern and texture references. |
+| [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) | Hugging Face Space for generating comic panels and strips from text prompts using AI. |
+| [AI Design Awards](https://www.instagram.com/ai.designawards/) | Instagram account showcasing AI-generated design projects and award-winning creative work. |
+| [AI Index](https://ai-index.eu/) | Curated platform showcasing graphic design projects created using AI tools and techniques. |
+| [AI Motion Capture Tools That Let You Animate Characters Without Suits](https://gachoki.com/ai-powered-motion-capture/) | Blog post reviewing AI-powered markerless motion capture tools for animating characters without suits. |
+| [AI Scripts](https://aiscripts.com/ai-scripts/) | Marketplace for Adobe Illustrator scripts, vectors, and DTP automation resources. |
+| [AIGA Eye on Design](https://eyeondesign.aiga.org/) | AIGA's editorial platform covering graphic design culture, trends, and critical industry perspectives. |
+| [AIM Brick](https://aimbrick.com/MasonryDesigner#list_materials) | Custom brick texture library for architectural masonry design and visualization |
+| [Alibaba Wan 2.1](https://huggingface.co/spaces/Wan-AI/Wan2.1) | Open source AI text-to-video generation model by Alibaba |
+| [Alibaba Z Image Turbo](https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo) | AI-powered image generation and editing tool from Alibaba's Tongyi lab on Hugging Face. |
+| [Alki](https://alki.fr/en/collections/chaises-de-bureau) | French furniture cooperative designing contemporary office chairs, stools, and contract seating. |
+| [Allegro](https://huggingface.co/rhymes-ai/Allegro) | Open source AI text-to-video generator by Rhymes AI |
+| [Archive](https://archive.org/details/david-rumsey-map-collection) | David Rumsey historical map collection hosted on Internet Archive |
+| [archive.org](https://archive.org/details/revetementsceram00hteb_0/page/n17/mode/2up) | French ceramic tile pattern book from 1904 on Internet Archive |
+| [archive.org](https://archive.org/search?query=Datacraft+Sozaijiten) | Search results on Internet Archive for Datacraft Sozaijiten design resource collections. |
+| [archive.org](https://archive.org/details/blindusk-master-bundle-collection) | Internet Archive collection of Blindusk master bundle design resources and assets. |
+| [Ark Design AI](https://arkdesign.ai/) | AI-powered architectural design tool for automated floor plans |
 | [Assets Scout,](https://scout.asseter.ai/) | - If you cannot find free Textures of what you need, try copying an image ofthe texture, and paste it in |
-| [Atomosphera](https://atmospheraitaly.com/categorie/poltrone/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Australian Tesselated Tile Co. - Australia - 1886](https://archive.org/details/Tesselated57748/page/n13/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [B&B Italia](https://www.bebitalia.com/en-us/modern-furniture/indoor/armchairs.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Bad King Archive](https://archive.org/details/badking-resources) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Bandai Nomca](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Benjamin El Doghaïli](https://www.benjamin-eldoghaili.com/decors) | Eclectic,Kitsch, super colorful |
-| [Beriestain](https://beriestain.com/works/torre-glorias/) | modern, colorful |
-| [Bootes Tiles - Spain - 1906](https://archive.org/details/Boote47723/page/n21/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Atomosphera](https://atmospheraitaly.com/categorie/poltrone/) | Italian outdoor furniture brand specializing in armchairs, sofas, and lounge seating collections. |
+| [Australian Tesselated Tile Co. - Australia - 1886](https://archive.org/details/Tesselated57748/page/n13/mode/2up) | Digitized 1886 catalog of Australian Tesselated Tile Co. for historic ceramic tile pattern reference. |
+| [B&B Italia](https://www.bebitalia.com/en-us/modern-furniture/indoor/armchairs.html) | Italian luxury design furniture brand offering modern armchairs, sofas, and home furnishings. |
+| [Bad King Archive](https://archive.org/details/badking-resources) | Internet Archive collection of Bad King design resources and creative assets. |
+| [Bandai Nomca](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) | Motion capture datasets by Bandai Namco Research for AI-based motion editing and style transfer. |
+| [Benjamin El Doghaïli](https://www.benjamin-eldoghaili.com/decors) | Eclectic and colorful hotel interior design portfolio by Benjamin El Doghaïli |
+| [Beriestain](https://beriestain.com/works/torre-glorias/) | Jaime Beriestain Studio project featuring modern Torre Glorias restaurant |
+| [Bootes Tiles - Spain - 1906](https://archive.org/details/Boote47723/page/n21/mode/2up) | Digitized 1906 Spanish Bootes Tiles catalog for historic ceramic and pattern design reference. |
 | [Brain Made](https://www.instagram.com/brain.made.0/?hl=en) | , 3D Cad Designer , Simple Ideas , Kashan Solidworks |
 | [Brick Link](https://www.bricklink.com/v3/studio/main.page) | Create 3D Accurate LEGO Version from reference image |
-| [C. & J. G. Potter](https://archive.org/details/Potter61280/page/n331/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Cassina](https://www.cassina.com/it/it.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Chain-of-Zoom -](https://huggingface.co/spaces/alexnasa/Chain-of-Zoom) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [C. & J. G. Potter](https://archive.org/details/Potter61280/page/n331/mode/2up) | Digitized historical catalog of C. & J. G. Potter for vintage design and illustration reference. |
+| [Cassina](https://www.cassina.com/it/it.html) | Italian luxury design furniture brand known for iconic modern and contemporary furniture pieces. |
+| [Chain-of-Zoom -](https://huggingface.co/spaces/alexnasa/Chain-of-Zoom) | AI-powered tool for high-resolution image generation with chain-of-thought zoom enhancement. |
 | [Cine Grain](https://www.cinegrain.com/) | , Overlay FX / Lux Edit / The Creative Herd |
-| [Codex Nutall](https://archive.org/details/gri_33125011146541/page/n55/mode/2up) | - Ancient Mexican Codex - 1858 |
+| [Codex Nutall](https://archive.org/details/gri_33125011146541/page/n55/mode/2up) | Ancient Mexican codex manuscript from 1858 on Internet Archive |
 | [Construction](https://archive.org/details/dictionnairedest04chab/page/366/mode/2up) | Pierre Chabat XIXc Wall Decorations / / Pinterest |
 | [Craighill](https://www.instagram.com/craighillcompany/reels/) | - Industrial design history/explanations |
-| [Das Thier in der decorativen Kunst - Seder Anton](https://archive.org/details/gri_33125013920190/page/n43/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Das Thier in der decorativen Kunst - Seder Anton](https://archive.org/details/gri_33125013920190/page/n43/mode/2up) | Digitized book on animals in decorative art by Seder Anton for historical design inspiration. |
 | [Dave Clark](https://www.youtube.com/@Afraid2Sleep) | / Vaigue Man / Julie W Design / IG - Long videos |
-| [DaVinci Resolve – Fairlight \| Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [DaVinci Resolve – Fairlight \| Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve/fairlight) | Fairlight audio post-production suite within DaVinci Resolve for professional sound editing. |
 | [Demo](https://www.openai.fm/) | Text to speech with customized emotions. Free |
-| [Design Library](https://design-library.jp/mailmagazine/) | Email Marketing |
-| [Design Resource Library](https://beacons.ai/design_by_brady) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Dooq details](https://www.dooqdetails.com/) | 3D Portugal - Expensive |
-| [DRFT-AI](https://www.drftai.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Design Library](https://design-library.jp/mailmagazine/) | Japanese HTML email newsletter design gallery for inspiration |
+| [Design Resource Library](https://beacons.ai/design_by_brady) | Curated collection of design resources and creative assets by designer Brady. |
+| [Dooq details](https://www.dooqdetails.com/) | Portuguese luxury furniture brand specializing in seating and lighting |
+| [DRFT-AI](https://www.drftai.com/) | AI-powered design inspiration platform for social media creators and content makers. |
 | [Droodles by Roger Price](https://archive.org/details/droodlesclassice00larr/page/24/mode/2up) | - Enigmatic Doodles - Book 1953 |
-| [DTP Sripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Vectorise / / SHS Page / AI Scripts |
+| [DTP Sripting](https://sites.google.com/site/dtpscripting/illustrator-scripts/makecropmarksai) | Collection of Adobe Illustrator scripts including crop mark tools |
 | [Electronics Gaming Monthly](https://archive.org/details/electronic-gaming-monthly) | / Video Game Magazines / Ditial Archive |
-| [Essex & Co.](https://archive.org/details/Essex10934/page/n185/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Essex & Co.](https://archive.org/details/Essex10934/page/n185/mode/2up) | Digitized historical catalog of Essex & Co. for vintage design and illustration reference. |
 | [Fab](https://www.fab.com/search?tags=terrain) | 3D Export / Turbo Squid / / AE Juice / - Not Free |
 | [Fibreguard](https://products.fibreguard.com/plugin) | - Free Plugin for 3dsmax 2025 or newer full of fabrics |
-| [Fine Art Archive](https://archive.org/details/Fine-Art-History?sort=-downloads) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Fine Art Archive](https://archive.org/details/Fine-Art-History?sort=-downloads) | Internet Archive collection of fine art history resources sorted by popularity and downloads. |
 | [Firefly](https://firefly.adobe.com/) | - Free for Adobe users |
-| [Forty-four Turkish fairy tales](https://archive.org/details/fortyfourturkish001862/page/70/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Francis Kere - Relationship between materials and local climate](https://www.archdaily.com/978851/how-does-francis-kere-use-materials-to-respond-to-local-climate-conditions) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Freepik](https://www.freepik.com/pikaso) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Google AI Studio](https://aistudio.google.com/prompts/new_chat) | Vibe code a mockup generator with . |
+| [Forty-four Turkish fairy tales](https://archive.org/details/fortyfourturkish001862/page/70/mode/2up) | Digitized Turkish fairy tales book on Internet Archive for illustrative and cultural design reference. |
+| [Francis Kere - Relationship between materials and local climate](https://www.archdaily.com/978851/how-does-francis-kere-use-materials-to-respond-to-local-climate-conditions) | ArchDaily article exploring how Francis Kere uses materials to respond to local climate conditions. |
+| [Freepik](https://www.freepik.com/pikaso) | Pikaso AI image generation tool integrated into Freepik for creating custom illustrations. |
+| [Google AI Studio](https://aistudio.google.com/prompts/new_chat) | Google's AI platform for prototyping with Gemini models |
 | [GPT 4o TTS](https://developers.openai.com/api/docs/models/gpt-4o-mini-tts) | Text to speech with customized emotions. Free Demo |
-| [Harworth](https://www.haworth.com/eu/en/products/chairs.html) | USA/Europe |
-| [Henry Bosch Company](https://archive.org/details/henry-bosch-company-1906/page/n25/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Heritage Library](https://archive.org/details/buildingtechnologyheritagelibrary) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Harworth](https://www.haworth.com/eu/en/products/chairs.html) | Haworth office furniture catalog including chairs for workspace design |
+| [Henry Bosch Company](https://archive.org/details/henry-bosch-company-1906/page/n25/mode/2up) | Digitized 1906 Henry Bosch Company catalog for vintage industrial design reference. |
+| [Heritage Library](https://archive.org/details/buildingtechnologyheritagelibrary) | Internet Archive collection of building technology heritage library resources for architectural reference. |
 | [Hokusai Manga by Katsushika Hokusai](https://archive.org/details/hokusaimangathes01kats/page/n17/mode/2up) | - First Manga 1814 - Book |
 | [Home Builders US 1950s Catalogue](https://archive.org/details/HomeBuildersCatalogPlansOfAllTypesOfSmallHomes/page/n288/mode/1up?view=theater) | / Homes and plans of the 1940s, 50s , 60s and 70s |
-| [Hte Boulenger & Cie](https://archive.org/details/revetementsceram00hteb/page/2/mode/2up) | France - 1904 |
+| [Hte Boulenger & Cie](https://archive.org/details/revetementsceram00hteb/page/2/mode/2up) | French ceramic and tile pattern book from 1904 on Internet Archive |
 | [Hume](https://app.hume.ai/) | - Have spiritual, emotional, deep conversations with AI bot. |
 | [Ideen - J. Maria Olbrich (1899)](https://archive.org/details/ideenleipzig00olbr/page/70/mode/1up) | Austrian Art Nouveau |
-| [Illuminated initial letters & ancient and modern alphabets](https://archive.org/details/illuminatediniti00unse/page/n39/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Immersity](https://app.immersity.ai/upload) | - Photo to 3D video - 1 |
-| [Infiniti](https://www.infinitidesign.it/en/products/?product_cat=chairs) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Internet Archive](https://archive.org/details/texts) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Internet Archive](https://archive.org/details/animationandcartoons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Illuminated initial letters & ancient and modern alphabets](https://archive.org/details/illuminatediniti00unse/page/n39/mode/2up) | Digitized book of illuminated initial letters and alphabets for typographic and calligraphy inspiration. |
+| [Immersity](https://app.immersity.ai/upload) | AI tool for converting photos into 3D depth videos |
+| [Infiniti](https://www.infinitidesign.it/en/products/?product_cat=chairs) | Italian furniture brand offering contemporary chairs, stools, tables, and contract seating solutions. |
+| [Internet Archive](https://archive.org/details/texts) | Internet Archive's massive collection of digitized texts, books, and documents for research. |
+| [Internet Archive](https://archive.org/details/animationandcartoons) | Internet Archive's collection of animation and cartoon media for creative reference. |
 | [Internet Archive](https://archive.org/details/prelinger?page=2) | Old clips, general |
-| [Kartell](https://www.kartell.com/it/it/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Komut](https://komut.studio/luminaires/) | France 3D Printed France |
-| [Krea](https://www.krea.ai/apps/enhance) | - Morphing animations between images D |
-| [LFA](https://oa.letterformarchive.org/)&utm_source=adwords&utm_medium=ppc&hsa_acc=9348595192&hsa_cam=19262872965&hsa_grp=143152583654&hsa_ad=708124366037&hsa_src=g&hsa_tgt=kwd-1825891008190&hsa_kw=letterform%20archives&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=19262872965&gbraid=0AAAAACbnx_NnX87Uo49KhWXVm72TQfbKE&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNLKwHJazMw2rRHaRunrFi-X-4KAPk_PYUCQM7klXnufvCPo_SzKxoCO8MQAvD_BwE) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Live Portrait](https://huggingface.co/spaces/KlingTeam/LivePortrait) | Face swap video |
-| [Lovart](https://www.lovart.ai/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [MAGI-1](https://huggingface.co/sand-ai/MAGI-1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Majoliche](https://archive.org/details/Cantagalli14720/page/n43/mode/2up) | Italy - 1906 |
-| [Malkin Edge & Co - England - 1885](https://archive.org/details/Malkin4810/page/n27/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Malloy](https://www.malloy.sg/) | AI Animation creator |
-| [Manifattura Italiana](https://archive.org/details/Campionario40079/page/n21/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Marcus Catesby](https://archive.org/details/mobot31753002764659/page/XVIII/mode/2up) | Fish and snakes |
-| [MaterialX Library](https://matlib.gpuopen.com/main/materials/all) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Maubege 1900 - France](https://archive.org/details/albumfabriquedep00fabr/page/6/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Mauberg - France - 1900](https://archive.org/details/albumfabriquedep00fabr/page/18/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Maw & Co](https://archive.org/details/Maw34101/page/n11/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Midjourney](https://www.midjourney.com/explore) | always depends on your prompting obv. |
-| [Midjourney Styles and references guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference?tab=readme-ov-file) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Minton Hollins & Co - England - 1875](https://archive.org/details/minton-hollins-co.4173/page/n35/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Kartell](https://www.kartell.com/it/it/) | Italian design furniture brand known for iconic plastic chairs, home furnishings, and collaborations with renowned designers. |
+| [Komut](https://komut.studio/luminaires/) | Paris-based 3D printed sustainable luminaire and lighting design studio |
+| [Krea](https://www.krea.ai/apps/enhance) | AI image enhancement and upscaling platform with video and 3D tools |
+| [LFA](https://oa.letterformarchive.org/)&utm_source=adwords&utm_medium=ppc&hsa_acc=9348595192&hsa_cam=19262872965&hsa_grp=143152583654&hsa_ad=708124366037&hsa_src=g&hsa_tgt=kwd-1825891008190&hsa_kw=letterform%20archives&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=19262872965&gbraid=0AAAAACbnx_NnX87Uo49KhWXVm72TQfbKE&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNLKwHJazMw2rRHaRunrFi-X-4KAPk_PYUCQM7klXnufvCPo_SzKxoCO8MQAvD_BwE) | Online archive of lettering, typography, and graphic design history from the Letterform Archive collection. |
+| [Live Portrait](https://huggingface.co/spaces/KlingTeam/LivePortrait) | AI-powered face animation and lip-sync video generation tool |
+| [Lovart](https://www.lovart.ai/) | AI-powered design agent that generates brand visuals, product pages, and marketing assets from text prompts. |
+| [MAGI-1](https://huggingface.co/sand-ai/MAGI-1) | Open-source autoregressive AI model for generating high-quality videos from images and text prompts. |
+| [Majoliche](https://archive.org/details/Cantagalli14720/page/n43/mode/2up) | Italian majolica ceramic tile pattern book from 1906 on Internet Archive |
+| [Malkin Edge & Co - England - 1885](https://archive.org/details/Malkin4810/page/n27/mode/2up) | Digitized catalog of Victorian ceramic tile patterns and ornamental designs from 1885 England. |
+| [Malloy](https://www.malloy.sg/) | AI motion graphics generator for video titles and animations |
+| [Manifattura Italiana](https://archive.org/details/Campionario40079/page/n21/mode/2up) | Digitized sample book of Italian ceramic and decorative patterns from the 19th century. |
+| [Marcus Catesby](https://archive.org/details/mobot31753002764659/page/XVIII/mode/2up) | Historic natural history illustrations of fish and snakes on Internet Archive |
+| [MaterialX Library](https://matlib.gpuopen.com/main/materials/all) | Library of physically based 3D materials for rendering, maintained by AMD GPUOpen with a searchable catalog. |
+| [Maubege 1900 - France](https://archive.org/details/albumfabriquedep00fabr/page/6/mode/2up) | Digitized French album of decorative arts, ornamental patterns, and ceramic designs from 1900. |
+| [Mauberg - France - 1900](https://archive.org/details/albumfabriquedep00fabr/page/18/mode/2up) | Digitized French design catalog featuring ornamental motifs and decorative patterns from 1900. |
+| [Maw & Co](https://archive.org/details/Maw34101/page/n11/mode/2up) | Digitized catalog of Victorian tile and ceramic designs by the historic English manufacturer Maw & Co. |
+| [Midjourney](https://www.midjourney.com/explore) | AI image generation platform with text-to-image capabilities |
+| [Midjourney Styles and references guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference?tab=readme-ov-file) | Comprehensive reference of styles, keywords, and parameters for crafting Midjourney AI image prompts. |
+| [Minton Hollins & Co - England - 1875](https://archive.org/details/minton-hollins-co.4173/page/n35/mode/2up) | Digitized catalog of Victorian tile patterns and encaustic ceramic designs from 1875 England. |
 | [Mosaico Nolla - Spain - 1870](https://archive.org/details/catalogsamplest00migu/page/n51/mode/2up) | Spain - 1870 |
-| [Motion Elements](https://ai.motionelements.com/) | - AI Video Editing Tools |
-| [Naive Illustration](https://ar.pinterest.com/search/pins/?q=naive%20illustration%20graphic%20design&rs=typed) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [NeuTTS-Air -](https://huggingface.co/spaces/neuphonic/neutts-air) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Motion Elements](https://ai.motionelements.com/) | AI-powered video editing suite with text-to-video and upscaling tools |
+| [Naive Illustration](https://ar.pinterest.com/search/pins/?q=naive%20illustration%20graphic%20design&rs=typed) | Pinterest search results for naive illustration and graphic design inspiration. |
+| [NeuTTS-Air -](https://huggingface.co/spaces/neuphonic/neutts-air) | Free AI text-to-speech demo by Neuphonic for generating realistic voice audio from text. |
 | [Nicks Chair Sketches](https://www.baker.studio/nickschairsketches) | - 100 sketch variations on a lounge chair |
-| [Old Time radio](https://archive.org/details/lumedwards) | / Old Time Radio Youtube |
-| [One-Click Screenshot to Figma Conversion with AI \| Codia](https://codia.ai/screenshot-to-figma) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Old Time radio](https://archive.org/details/lumedwards) | Old Time Radio archive featuring vintage Lum and Abner shows |
+| [One-Click Screenshot to Figma Conversion with AI \| Codia](https://codia.ai/screenshot-to-figma) | Convert UI screenshots into editable Figma designs using AI-powered recognition by Codia. |
 | [Paint Coach](https://www.youtube.com/@paintcoach) | Youtube Proko / David Finch / / Sketching Scottie / Art with Antonio |
-| [Parts Design](https://partsdesign.net/mainvisual) | Japanese Websites |
-| [Pedrali](https://www.pedrali.com/en-us/products/chairs-design) | 3D w User finishes Italy |
-| [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Parts Design](https://partsdesign.net/mainvisual) | Japanese website design gallery organized by UI components and sections |
+| [Pedrali](https://www.pedrali.com/en-us/products/chairs-design) | Italian design chair and furniture manufacturer for contract use |
+| [PIFuHD](https://shunsukesaito.github.io/PIFuHD/) | AI research project for reconstructing high-resolution 3D human models from a single 2D photograph. |
 | [Plerdy UX & Usability Testing -](https://chromewebstore.google.com/detail/plerdy-ux-usability-testi/cdbneippcpjnpjenabkgfljgpjmamobg) | enhance site design with heatmaps, scroll tracking |
-| [PR Paris](https://archive.org/details/Paris12108/page/n269/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [PR Paris](https://archive.org/details/Paris12108/page/n269/mode/2up) | Digitized Parisian architectural catalog of ornamental designs, moldings, and decorative elements. |
 | [Rav Zines](https://archive.org/details/ravezines) | - Early 2000s magazines |
-| [Re-creating old American designs in wall paper](https://archive.org/details/nancy-mc-clelland-inc-1941/page/n7/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Render AI](https://rendair.ai/) | - Renders from sketches - Not Free |
-| [Retail Design Blog](https://retaildesignblog.net/category/spaces/office-healthcare/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Retail Design Blog](https://retaildesignblog.net/category/products/lighting/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Saaif Design](https://www.instagram.com/saifsdesign) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Saba](https://sabaitalia.com/it) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Re-creating old American designs in wall paper](https://archive.org/details/nancy-mc-clelland-inc-1941/page/n7/mode/2up) | Digitized 1941 catalog of reproduced American wallpaper patterns and interior designs. |
+| [Render AI](https://rendair.ai/) | AI architectural rendering tool for sketches to photorealistic visuals |
+| [Retail Design Blog](https://retaildesignblog.net/category/spaces/office-healthcare/) | Blog category showcasing office and healthcare interior design projects from around the world. |
+| [Retail Design Blog](https://retaildesignblog.net/category/products/lighting/) | Blog category featuring retail and commercial lighting design inspiration and installations. |
+| [Saaif Design](https://www.instagram.com/saifsdesign) | Instagram portfolio of graphic design, branding, and visual art projects. |
+| [Saba](https://sabaitalia.com/it) | Italian furniture brand offering sofas, chairs, tables, and home accessories with emotional design philosophy. |
 | [Saint Ricchi](https://saintricchi.com/) | Design Syndrome / Studio AAA / / BLK Market Not Free |
-| [Sears 1906](https://archive.org/details/wallpapersamples00sear/page/n57/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [SHS Page](http://shspage.com/aijs/en) | Vectorise / DTP Sripting / / AI Scripts |
-| [Sick Again](https://sickagain.gumroad.com/) | Font Bros , / Yellow Images |
+| [Sears 1906](https://archive.org/details/wallpapersamples00sear/page/n57/mode/2up) | Digitized Sears catalog of wallpaper samples and home decoration patterns from 1906. |
+| [SHS Page](http://shspage.com/aijs/en) | Collection of Adobe Illustrator JavaScript scripts by Hiroyuki Sato |
+| [Sick Again](https://sickagain.gumroad.com/) | Design assets marketplace on Gumroad offering fonts and graphics |
 | [Sketch Daily](https://www.sketchdaily.net/) | Doodlewash / / Terawell / Line of Action |
-| [Snail Eyes](https://snaileye.de/) | Graphic Design |
-| [State of AI in Design](https://stateofaidesign.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [StdGEN](https://stdgen.github.io/) | - AI 3D Character creator from image |
-| [Streaming Brain Studios](https://screamingbrainstudios.com/downloads/) | Archival old games textures |
-| [Suapp](https://www.sketchupbar.com/air) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Snail Eyes](https://snaileye.de/) | Snail Eye comic festival in Leipzig featuring exhibitions and workshops |
+| [State of AI in Design](https://stateofaidesign.com/) | Annual research report on how AI tools are transforming design workflows, craft, and team structures. |
+| [StdGEN](https://stdgen.github.io/) | AI-powered 3D character generation from single images with semantic decomposition |
+| [Streaming Brain Studios](https://screamingbrainstudios.com/downloads/) | Retro game textures and assets under CC0 public domain license |
+| [Suapp](https://www.sketchupbar.com/air) | AI-powered rendering tool for SketchUp that generates design visualizations and architectural concepts. |
 | [Sustainable Design](https://www.sustainabledesign.studio/store/p/filamentmaker) | - Filament maker from Platic bottles 190 |
-| [Temple of Flora - Tobert John Thornton](https://archive.org/details/gri_33125012607053/page/n115/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The Bon Marche Wall Paper Dept](https://archive.org/details/bon-marche-1932/page/n37/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The encyclopedia of ornament (1880)](https://archive.org/details/encyclopediaofor0000raci/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The Grammar of Ornament -](https://archive.org/details/grammarornament00Jone/page/n21/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The hand book of mediaeval alphabets](https://archive.org/details/handbookofmedia00shawuoft/page/n36/mode/1up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Temple of Flora - Tobert John Thornton](https://archive.org/details/gri_33125012607053/page/n115/mode/2up) | Digitized 19th century botanical illustration book with detailed floral engravings by Robert John Thornton. |
+| [The Bon Marche Wall Paper Dept](https://archive.org/details/bon-marche-1932/page/n37/mode/2up) | Digitized 1932 catalog of wallpaper designs from the iconic Bon Marché department store. |
+| [The encyclopedia of ornament (1880)](https://archive.org/details/encyclopediaofor0000raci/mode/2up) | Digitized reference book of decorative ornaments, architectural motifs, and patterns from 1880. |
+| [The Grammar of Ornament -](https://archive.org/details/grammarornament00Jone/page/n21/mode/2up) | Digitized edition of Owen Jones's classic reference on world ornamental design and decorative arts. |
+| [The hand book of mediaeval alphabets](https://archive.org/details/handbookofmedia00shawuoft/page/n36/mode/1up) | Digitized Victorian reference book of medieval calligraphy scripts and decorative alphabets. |
 | [The Magazine Rack](https://archive.org/details/magazine_rack) | - Old Magazine Archive |
-| [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [The Stories Behind Severance’s Eerie Office Design](https://www.vulture.com/article/severance-office-design-explained.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Threlkeld Granite Co - England - 1898](https://archive.org/details/albumofornamenta00thre/page/n13/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Tickets Please](https://www.blaisehayward.com/tickets-please) | - Ticket Shows Designs |
+| [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources-library) | Curated collection of UX and product design tools, books, articles, and plugins by Adham Dannaway. |
+| [The Stories Behind Severance’s Eerie Office Design](https://www.vulture.com/article/severance-office-design-explained.html) | Vulture article exploring the production design and props behind the Apple TV+ series Severance. |
+| [Threlkeld Granite Co - England - 1898](https://archive.org/details/albumofornamenta00thre/page/n13/mode/2up) | Digitized album of Victorian ornamental stonework, granite designs, and architectural patterns. |
+| [Tickets Please](https://www.blaisehayward.com/tickets-please) | Photographic collection of vintage concert tickets by Blaise Hayward |
 | [Tost](https://tost.ai/) | - Free AIs for Image, video and 3D Generation |
 | [Vaigue Man](https://www.youtube.com/@VaigueMan) | Dave Clark / / Julie W Design / IG - Long videos |
-| [Vector Magic](https://vectormagic.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Vector Magic](https://vectormagic.com/) | Online and desktop tool for converting JPG, PNG, and BMP bitmap images to SVG, EPS, and PDF vectors. |
 | [Vectorizer AI](https://vectorizer.ai/) | Not free, but you can take a screenshot of the preview |
-| [vectorwizard.ai](https://vectorwizard.ai/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [vectorwizard.ai](https://vectorwizard.ai/) | AI tool that generates clean, animated SVG code from text prompts, sketches, or images. |
 | [Wakamai Fondue](https://wakamaifondue.com/) | Upload a font and Get info, language support |
 | [Wall Decorations](https://archive.org/details/gri_33125011207269/mode/2up) | Pierre Chabat XIXc / Construction / Pinterest |
-| [Wallpaper Ideas for 1909](https://archive.org/details/wallpaperideasfo00robe/page/n71/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Wan2.2 Animate](https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate) | - Replace character/person in video |
-| [William Barry - UK - 1879](https://archive.org/details/Barry43078/page/n15/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Woollams & Co](https://archive.org/details/Woollams40062/page/n145/mode/2up) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [아고 라이팅 (Ago)](https://agolighting.com/#/main) | South Korea |
+| [Wallpaper Ideas for 1909](https://archive.org/details/wallpaperideasfo00robe/page/n71/mode/2up) | Digitized catalog of wallpaper patterns, room designs, and interior decoration ideas from 1909. |
+| [Wan2.2 Animate](https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate) | AI tool for replacing characters or people in existing videos |
+| [William Barry - UK - 1879](https://archive.org/details/Barry43078/page/n15/mode/2up) | Digitized catalog of Victorian decorative designs and ornamental patterns from 1879 England. |
+| [Woollams & Co](https://archive.org/details/Woollams40062/page/n145/mode/2up) | Digitized catalog of Victorian wallpaper and decorative designs by the historic Woollams & Co. |
+| [아고 라이팅 (Ago)](https://agolighting.com/#/main) | South Korean contemporary lighting design brand |
 | [Galileo AI](https://stitch.withgoogle.com/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
 | [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
 | [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |

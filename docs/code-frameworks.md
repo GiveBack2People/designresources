@@ -413,7 +413,7 @@
 | [Clarity](https://clarity.design/) | CSS based Angular UI framework developed by VMware group |
 | [Covalent UI](https://teradata.github.io/covalent/v3/#/) | Angular UI Platform focused on solving common enterprise needs |
 | [Material Angular](https://material.angular.io/) | UI library for Angular based on Material design |
-| [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | For multi select drop-dowm in forms |
+| [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | Angular multi-select dropdown component for form selection interfaces. |
 | [Nebular](https://akveo.github.io/nebular/) | Customizable UI Kit, Auth & Security for Angular |
 | [NG Bootstrap](https://ng-bootstrap.github.io/#/home) | UI library for Angular based on the Bootstrap framework |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/) | Native Angular components & directives for Lightning Design System |
@@ -423,7 +423,7 @@
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/) | Another UI library for Angular based on the Bootstrap framework |
 | [ngx-admin](https://akveo.github.io/ngx-admin/) | Admin template based on Angular 10+ and Nebular |
 | [Onsen Angular](https://onsen.io/angular2/) | Hybrid mobile and PWA UI library for Angular and Onsen UI |
-| [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
+| [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | Angular pagination library for data tables and list views. |
 | [PrimeNG](https://primeng.org/) | Powerful UI component library for Angular |
 | [spartan](https://www.spartan.ng/) | Cutting-edge tools powering Angular full-stack development. |
 | [Taiga UI](https://taiga-ui.dev/) | Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |

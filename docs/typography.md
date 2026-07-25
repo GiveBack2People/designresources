@@ -39,7 +39,7 @@
 | [Cyrillic Fonts](https://cyrillic-fonts.ru/) | Russian font archive featuring Cyrillic typefaces and downloads. |
 | [Da Font file](https://dafontfile.org/category/arabic-font/) | Arabic font archive with free and premium Arabic typefaces. |
 | [Dafont](https://www.dafont.com/es/) | One of the largest archives of freely downloadable fonts on the web. |
-| [DafontFile](https://dafontfile.org/) | Zip Password: dafontfile.org |
+| [DafontFile](https://dafontfile.org/) | Download free fonts organized by category including serif, script, and display |
 | [Deefont](https://www.deefont.com/) | Curated library of free and commercial fonts with category browsing and previews. |
 | [Design College](https://note.com/adobe_design/n/na99c2becf8a7) | Japanese brush font roundup and calligraphy font resources. |
 | [Devanagari Font Testing Page](https://www.motaitalic.com/tools/devanagari-font-tester/) | Test and preview Devanagari fonts with full character set and language samples. |
@@ -61,7 +61,7 @@
 | [Font Catalogue](https://fontcatalog.ru/) | Russian font catalog with Cyrillic and display fonts. |
 | [Font Chinaz](https://font.chinaz.com/) | Chinese font directory with free download links and previews. |
 | [Font Collector](https://www.font-collector.com/) | Collect, organize, and preview your favorite fonts in one place. |
-| [Font Finder](https://chromewebstore.google.com/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | Chrome Extensions |
+| [Font Finder](https://chromewebstore.google.com/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | Chrome extension to inspect font styles, sizes, and colors on any webpage |
 | [Font Finder](https://fontfinder.online/) | Identify fonts used on any website by hovering over text. |
 | [Font Freak](https://www.fontfreak.com/) | Archive of free fonts covering various styles and categories for download. |
 | [Font Gauntlet](https://fontgauntlet.com/) | Preview and test Google Font combinations in real-time on your own text. |
@@ -89,7 +89,7 @@
 | [Fonts Knowledge - Google Fonts](https://fonts.google.com/knowledge) | Learn typography fundamentals with Google Fonts free educational resource. |
 | [Fonts Loader](https://fontsloader.com/types?sort=rait) | Russian font directory with popular Cyrillic typefaces. |
 | [Fonts Mega 8](https://fonts.mega8.ru/) | Russian font archive with downloadable Cyrillic fonts. |
-| [Fonts Ninja](https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?pli=1) | Chrome Extensions |
+| [Fonts Ninja](https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?pli=1) | Chrome extension to identify, bookmark, and organize fonts from any website |
 | [Fonts Online](https://fonts-online.ru/) | Russian font marketplace with Cyrillic typefaces. |
 | [Fonts.net](https://www.fonts.net.cn/fonts-zh/tag-shouxie2-1.html) | Chinese font portal specializing in handwriting and display fonts. |
 | [Fontself Maker Plugin](https://www.fontself.com/store?source=alarkina) | Create fonts from images and vector artwork using a plugin. |
@@ -131,7 +131,7 @@
 | [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/) | Collection of classic pixel fonts from vintage PC systems and DOS era. |
 | [Online Fonts](https://online-fonts.com/) | Download free fonts for personal and commercial use with instant preview. |
 | [Paratype](https://www.paratype.com/) | Professional font foundry page with typeface portfolios. |
-| [Pousse ta fonte](https://www.poussetafonte.com/) | - List of famous Font Design Studios |
+| [Pousse ta fonte](https://www.poussetafonte.com/) | Curated directory of font foundries, type foundries, and font marketplaces |
 | [Premium Beat](https://www.premiumbeat.com/blog/free-animated-fonts/) | - Collection of Handpainted animated font for videos |
 | [Programming Fonts](https://www.programmingfonts.org/#lekton) | Programming font showcase and testing tool. |
 | [Ru Fonts](https://www.rufonts.ru/) | Russian font archive for free Cyrillic type downloads. |
@@ -154,7 +154,7 @@
 | [Variable Fonts](https://v-fonts.com/) | Showcase and directory of variable font technology and available typefaces. |
 | [Web Fonts](https://www.onlinewebfonts.com/fonts) | Browse and download thousands of web fonts for online and print use. |
 | [Wenyue](https://wenyue.cn/) | Chinese font foundry offering traditional and modern typefaces. |
-| [What Font](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?pli=1) | Chrome Extensions |
+| [What Font](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?pli=1) | Chrome extension to easily identify fonts used on any webpage by hovering over text |
 | [What Font is](https://www.whatfontis.com/) | Upload an image to identify fonts with a large database of typefaces. |
 | [What The Google Font?](https://www.serbyte.net/what-the-google-font) | Find Google Fonts similar to your favorite typeface. |
 | [Wordmark](https://wordmark.it/) | Quickly display a phrase in all google fonts |

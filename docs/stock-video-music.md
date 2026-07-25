@@ -12,48 +12,48 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [19 Free Film Grain Overlays](https://motionarray.com/learn/video-effects/free-film-grain/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [19 Free Film Grain Overlays](https://motionarray.com/learn/video-effects/free-film-grain/) | Curated list of 19 free film grain overlays for adding vintage cinematic texture to videos. |
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | Game Dev Academy / Jesus FC14 / - Youtube |
-| [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato / 2 / Iphone / 4 |
+| [Billboards](https://elements.envato.com/video-templates/3d+billboard+mockup) | Envato Elements collection of 3D billboard mockup video templates for After Effects |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | - Insane Blender Artist |
-| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397) | Collage Constructor |
-| [elements.envato.com](https://elements.envato.com/video-templates/luts) | Envato , , 3 / Yci Maging |
+| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397) | VideoHive item for creating collage kits with customizable templates and assets |
+| [elements.envato.com](https://elements.envato.com/video-templates/luts) | Envato Elements collection of LUTs for color grading video footage |
 | [elements.envato.com](https://elements.envato.com/video-templates/paper+texture+overlay) | Lux Edit / Video Hive / 2 / 3 / 4 / / 6 / Toros Kose / - Not Free |
 | [elements.envato.com](https://elements.envato.com/video-templates/texture+pack) | Lux Edit / Video Hive / 2 / 3 / 4 / 5 / / Toros Kose / - Not Free |
-| [elements.envato.com](https://elements.envato.com/video-templates/3d+mockup) | Envato Billboards / / Iphone / 4 |
-| [elements.envato.com](https://elements.envato.com/video-templates/mockups/compatible-with-after-effects) | Envato Billboards / 2 / Iphone / |
-| [Envato](https://videohive.net/search/luts) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-after-effects) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [elements.envato.com](https://elements.envato.com/video-templates/3d+mockup) | Envato Elements section for 3D mockup video templates and motion graphics |
+| [elements.envato.com](https://elements.envato.com/video-templates/mockups/compatible-with-after-effects) | Envato Elements After Effects mockup templates for video projects |
+| [Envato](https://videohive.net/search/luts) | VideoHive marketplace search for LUT color grading presets for video editing software. |
+| [Envato](https://elements.envato.com/video-templates/compatible-with-after-effects) | Premium After Effects video template library with customizable motion graphics and animations. |
 | [Envato](https://elements.envato.com/video-templates/compatible-with-premiere-pro) | Video Milkshake , Tiny Tapes , Human Video , Pix Flow , Cinecom , Gumroad / |
-| [Envato](https://elements.envato.com/video-templates/compatible-with-final-cut-pro) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Envato](https://elements.envato.com/video-templates/compatible-with-final-cut-pro) | Premium Final Cut Pro video template library with titles, transitions, and effects. |
 | [Envato](https://elements.envato.com/video-templates/compatible-with-davinci-resolve) | / 2 / Mixkit / Motion Array / AE Juice / Video Editors Studio |
 | [Firefly](https://firefly.adobe.com/generate/video) | Image to Video 🆓 |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=&query=&selection=1&type=video) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=video&query=animated+texture&type=video) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Freepik](https://www.freepik.com/video-templates) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik / / 3 / Raw Pixel |
-| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik / 2 / / Raw Pixel |
-| [Iphone](https://elements.envato.com/video-templates/iphone+mockup) | Envato Billboards / 2 / / 4 |
+| [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=&query=&selection=1&type=video) | Free stock video footage library with searchable categories on the Freepik platform. |
+| [Freepik](https://www.freepik.com/search?format=search&last_filter=type&last_value=video&query=animated+texture&type=video) | Free animated texture video clips available for download on Freepik's stock library. |
+| [Freepik](https://www.freepik.com/video-templates) | Free video templates for various editing software available on the Freepik platform. |
+| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=texture+pack&query=texture+pack&type=video) | Freepik video search for texture pack overlays and motion backgrounds |
+| [freepik.com](https://www.freepik.com/search?format=search&last_filter=query&last_value=paper+texture+overlay&query=paper+texture+overlay&type=video) | Freepik video search for paper texture overlays and vintage film effects |
+| [Iphone](https://elements.envato.com/video-templates/iphone+mockup) | Envato Elements collection of iPhone mockup video templates for After Effects |
 | [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | Game Dev Academy / / Animation Methods - Youtube |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
-| [Mix Kit](https://mixkit.co/free-sound-effects/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Mixkit](https://mixkit.co/free-after-effects-templates/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Mixkit](https://mixkit.co/free-final-cut-pro-templates/zoom-backwards-transition-667/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mix Kit](https://mixkit.co/free-sound-effects/) | Free sound effects library with categories including animals, nature, game sounds, and transitions. |
+| [Mixkit](https://mixkit.co/free-after-effects-templates/) | Free After Effects template library with titles, transitions, and motion graphics elements. |
+| [Mixkit](https://mixkit.co/free-final-cut-pro-templates/zoom-backwards-transition-667/) | Free Final Cut Pro zoom transition template for video editing on the Mixkit platform. |
 | [Mixkit](https://mixkit.co/free-davinci-resolve-templates/) | Envato / 2 / / Motion Array / AE Juice / Video Editors Studio |
-| [Mixkit](https://mixkit.co/free-premiere-pro-templates/transitions/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Motion Elements](https://www.motionelements.com/search/video?price_range=-1) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Motion Pack](https://videohive.net/item/mopack/29918969?s_rank=6) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Moyo Studio](https://www.moyo-studio.com/products/?category=video) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Nitrozome](https://videohive.net/user/nitrozme) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Render Ram](https://www.youtube.com/@RenderRam/videos) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [SAM 3D Meta AI](https://aidemos.meta.com/segment-anything/editor/segment-video) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Step Fun](https://huggingface.co/stepfun-ai/stepvideo-ti2v) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mixkit](https://mixkit.co/free-premiere-pro-templates/transitions/) | Free Premiere Pro transition templates for video editing available on Mixkit. |
+| [Motion Elements](https://www.motionelements.com/search/video?price_range=-1) | Free stock video and motion graphics library with searchable content for video production. |
+| [Motion Pack](https://videohive.net/item/mopack/29918969?s_rank=6) | Premium motion graphics pack for After Effects with versatile animation elements and templates. |
+| [Moyo Studio](https://www.moyo-studio.com/products/?category=video) | Premium video mockup bundles for showcasing digital designs on devices with realistic motion. |
+| [Nitrozome](https://videohive.net/user/nitrozme) | VideoHive Power Elite author offering LUT color grading presets and video templates. |
+| [Render Ram](https://www.youtube.com/@RenderRam/videos) | YouTube channel featuring 3D rendering tutorials, CGI breakdowns, and motion design content for creators. |
+| [SAM 3D Meta AI](https://aidemos.meta.com/segment-anything/editor/segment-video) | Interactive demo of Meta's Segment Anything Model for AI-powered video object segmentation and tracking. |
+| [Step Fun](https://huggingface.co/stepfun-ai/stepvideo-ti2v) | Open-source text-driven image-to-video generation model with realistic motion and physics simulation. |
 | [Video Editors Studio](https://videoeditorstudio.com/) | Envato / 2 / Mixkit / Motion Array / AE Juice / |
 | [Video Hive](https://videohive.net/search/texture%20pack) | Lux Edit / / 2 / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
-| [Video Hive](https://videohive.net/category/after-effects-project-files) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Video Hive](https://videohive.net/category/after-effects-project-files) | Marketplace for premium After Effects templates, including openers, titles, logos, and broadcast packages. |
 | [Video Hive](https://videohive.net/category/premiere-pro-templates) | Aniom , Creators Studio , Sick Boat , , Eleven Percent , Videos Change Reality |
-| [Video Hive](https://videohive.net/category/apple-motion-templates) | / Motion Elements - Not Free |
-| [Videohive](https://videohive.net/category/add-ons) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Video Hive](https://videohive.net/category/apple-motion-templates) | VideoHive category for Apple Motion templates and motion graphics projects |
+| [Videohive](https://videohive.net/category/add-ons) | Collection of After Effects scripts, presets, and plugins to extend video editing workflows. |
 | [videohive.net](https://videohive.net/search/animated%20texture) | Lux Edit / Video Hive / / 3 / 4 / 5 / 6 / Toros Kose / - Not Free |
 | [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Creator FX , Eleven Percent / Envato / / |
 | [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Envato / / Mixkit / Motion Array / AE Juice / Video Editors Studio |
@@ -63,7 +63,7 @@
 | [Clipstill](https://www.clipstill.com/) | A collection of cinemagraphs (still photos with minor repeated movement). |
 | [Coverr](https://coverr.co/) | Beautiful, free stock videos for commercial and non-commercial use. |
 | [Descript](https://www.descript.com) | All-in-one video and podcast editor with AI-powered transcription, overdub, and eye contact correction. |
-| [Free-Stock-Video](https://free-stock.video) | Free Footage Stock Videos |
+| [Free-Stock-Video](https://free-stock.video) | Royalty-free vertical 9:16 stock video footage for Reels, TikTok, and Shorts |
 | [HeyGen](https://www.heygen.com) | AI video creation platform with realistic AI avatars for presentations, marketing, and training content. |
 | [Kling AI](https://kling.ai/) | Advanced AI video generation with realistic motion and physics, from Kuaishou Technology. |
 | [Luma Dream Machine](https://lumalabs.ai/app) | Fast AI video generation from text and images with impressive quality and motion coherence. |
@@ -85,15 +85,15 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | - Create animation from audio |
-| [Audio Jungle](https://audiojungle.net/) | 셀바이뮤직 / / MotionArray |
-| [Freepik](https://www.freepik.com/audio) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Motion Array](https://motionarray.com/browse/sound-effects/) | Nash / / Mr Horse - Not Free |
-| [MotionArray](https://motionarray.com/browse/royalty-free-music/) | 셀바이뮤직 / Audio Jungle / |
-| [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Nash / Motion Array / - Not Free |
-| [Pixa Bay](https://pixabay.com/sound-effects/search/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Tuto](https://beginnersapproach.com/davinci-resolve-free-sound-library/) | Fairlight \| Blackmagic Design / |
-| [셀바이뮤직](https://sellbuymusic.com/) | / Audio Jungle / MotionArray |
+| [Adobe Animate](https://new.express.adobe.com/tools/animate-from-audio) | Animate characters from audio using this free Adobe Express tool |
+| [Audio Jungle](https://audiojungle.net/) | Royalty-free music and sound effects marketplace on the Envato platform |
+| [Freepik](https://www.freepik.com/audio) | Royalty-free music library, AI voiceover generation, and sound effects for creative projects. |
+| [Motion Array](https://motionarray.com/browse/sound-effects/) | Subscription-based royalty-free sound effects for video and motion design |
+| [MotionArray](https://motionarray.com/browse/royalty-free-music/) | Unlimited royalty-free music tracks for video and content creators |
+| [Mr Horse](https://misterhorse.com/products/essential-sound-effects/3263) | Premium essential sound effects library for motion designers and video editors |
+| [Pixa Bay](https://pixabay.com/sound-effects/search/) | Large library of free, royalty-free sound effects for use in videos, games, and other projects. |
+| [Tuto](https://beginnersapproach.com/davinci-resolve-free-sound-library/) | Tutorial on installing and using the free Fairlight sound library in DaVinci Resolve |
+| [셀바이뮤직](https://sellbuymusic.com/) | Korean royalty-free BGM and sound effects platform for video and content creators |
 | [Artlist](https://artlist.io) | A music licensing platform offering high-quality, royalty-free music for creative projects. |
 | [Audionautix](https://audionautix.com) | Free production music for creative projects by Jason Shaw. |
 | [Bensound](https://www.bensound.com/) | Download Royalty Free Music for free and use it in your project |

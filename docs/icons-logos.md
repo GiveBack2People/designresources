@@ -18,15 +18,15 @@
 | [Animated Icons](https://animatedicons.co/) | 4,000+ free high-quality animated icons available as Lottie, SVG & PNG. Customizable colors. |
 | [Basicons](https://basicons.xyz/) | Basic yet versatile SVG icon set for UI design. |
 | [Behance](https://www.behance.net/search/projects/?sort=appreciations&time=week&search=free%20icons) | Curated search results for free icon projects on Behance. |
-| [Bioicons](https://bioicons.com/) | Health Medical icons |
+| [Bioicons](https://bioicons.com/) | Free high-quality scientific and biological illustration icons |
 | [Circum Icons](https://circumicons.com/icons) | 1,600+ consistent open source SVG icons with multiple formats. |
 | [CoolIcons](https://coolicons.cool/) | 1,320+ carefully designed line, duotone, and duocolor icons with customizable stroke. |
 | [Coreui](https://coreui.io/icons/) | Free SVG, JavaScript & Webfont icons with components for Angular, React, and Vue.js. |
 | [Creative Market](https://creativemarket.com/icons) | Vector Icons / / Envato / Gumroad / Motion Array |
-| [Davooda](https://davooda.com/) | Digital Nomad Icons / |
+| [Davooda](https://davooda.com/) | Shop offering simple, beautiful icons for design and web projects |
 | [Design Family Market](https://www.designfamilymarket.com/l/BDFM-tool-pixelated-SVG?layout=profile) | Online tool for creating pixelated SVG icons. |
 | [Digital Nomad Icons](https://digitalnomadicons.com/) | Lifestyle icon & emoji pack for digital nomads featuring travel-themed illustrations. |
-| [Draw Kit](https://www.drawkit.com/search-results) | Illustration / icons |
+| [Draw Kit](https://www.drawkit.com/search-results) | Library of 2D, 3D illustrations, icons and animations for designers |
 | [Dribbble](https://dribbble.com/search/free-icons) | Search results for free icon designs on Dribbble. |
 | [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | Free PSD logo mockup with realistic embossed effect on paper. |
 | [Envato](https://elements.envato.com/graphics/icons) | Vector Icons / Creative Market / / Gumroad / Motion Array |
@@ -37,13 +37,13 @@
 | [Futicons](https://futicons.com/) | Free futuristic line and fill SVG icons for modern web projects. |
 | [Game Icons](https://game-icons.net/) | 4,180 free SVG and PNG game-themed icons, regularly updated. |
 | [Gumroad](https://gumroad.com/design/icons) | Vector Icons / Creative Market / Envato / / Motion Array |
-| [Health icons](https://healthicons.org/) | Health Medical icons |
+| [Health icons](https://healthicons.org/) | Free open source health and medical icon set for commercial use |
 | [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | Free 20-pack of industrial-themed HM graphic icons. |
 | [Hola SVG Icons](https://icons.holasvg.com/) | Free open source SVG icons with customizable stroke, fill, and color. |
 | [Hugeicons](https://hugeicons.com/) | 51,000+ free & pro icons for designers and developers in multiple styles. |
 | [Humbleicons](https://humbleicons.com/) | 284 simple, neutral, carefully crafted free SVG icons. |
 | [Icon Finder](https://www.magnific.com/icons) | The Noun Project / My Crate / Yellow Images / / YWFT |
-| [Icon Maker](https://ray.so/icon) | Icon online Tools Pro Icons / |
+| [Icon Maker](https://ray.so/icon) | Online tool by Raycast for creating custom app icons |
 | [Icon Park](https://iconpark.oceanengine.com/illustrations) | ByteDance's illustration library with multiple customization options. |
 | [Icon Park](https://iconpark.oceanengine.com/official) | ByteDance's official icon library with themeable SVG icons. |
 | [Icon Scout](https://iconscout.com/3d-illustrations) | 335K+ 3D illustrations in PNG, BLEND, FBX, and glTF formats. |
@@ -66,21 +66,21 @@
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
 | [Motion Array](https://motionarray.com/browse/graphics/icons/) | Vector Icons / Creative Market / Envato / Gumroad / |
 | [My Crate](https://my.crate.as/?tag=Icon) | The Noun Project / / Yellow Images / Icon Finder / YWFT |
-| [Obra Icons](https://icons.obra.studio/) | OpenMoji / / Octicons |
-| [Octicons](https://primer.style/octicons/) | OpenMoji / Obra Icons / |
+| [Obra Icons](https://icons.obra.studio/) | Clean, consistent UI icon set with 1047 MIT-licensed icons |
+| [Octicons](https://primer.style/octicons/) | GitHub's handcrafted, scalable icon set by Primer design system |
 | [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file/1445713209741917748/openbridge-icon-pack) | Free icon pack available on Figma Community. |
-| [OpenMoji](https://openmoji.org/) | / Obra Icons / Octicons |
+| [OpenMoji](https://openmoji.org/) | Open source emoji library with 4495 consistent, handcrafted emojis |
 | [Pixelarticons](https://pixelarticons.com/) | 4,052 pixel art icons in 4 styles, hand-crafted on a 24x24 pixel grid. |
 | [Potlab Icons](https://potlabicons.com/) | Animated SVG icon library with React, Figma, Flutter, and Framer support. |
 | [pqoqubbw/icons](https://lucide-animated.com/) | 350+ animated React icons built with Motion and Lucide, MIT licensed. |
-| [Shapefest](https://www.shapefest.com/#new) | 3D icons / Lego blocks |
+| [Shapefest](https://www.shapefest.com/#new) | Massive library of premium 3D illustrations and clay renders |
 | [Svg Doodle icon](https://svgicon.net/) | Free hand-drawn SVG doodle icons in brush, arrow, circle, and abstract styles. |
 | [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | - Download SVG Vector files from any website |
 | [Tech Icons](https://techicons.dev/) | 426+ SVG and PNG tech icons for programming languages, frameworks, and tools. |
 | [The Icon of](https://www.theiconof.com/search) | 1,100+ pixel perfect icons available for Figma, Sketch, XD, and more. |
 | [The Noun Project](https://thenounproject.com/icons/) | / My Crate / Yellow Images / Icon Finder / YWFT |
 | [Vector Icons](https://vectoricons.net/designers) | / Creative Market / Envato / Gumroad / Motion Array |
-| [Vector Lab](https://thevectorlab.com/pages/graphics-and-logos) | Yellow Images / Studio 2am / - Not Free |
+| [Vector Lab](https://thevectorlab.com/pages/graphics-and-logos) | Marketplace for vector graphics, logos and design resources |
 | [Vzy Icons](https://icons.vzy.co/) | Simple, clean SVG icon set for modern web design. |
 | [Warp SVG Online](https://pavellaptev.github.io/warp-svg/) | Online tool to warp and distort SVG files with mesh deformation. |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/icons) | The Noun Project / My Crate / / Icon Finder / YWFT |
@@ -119,13 +119,13 @@
 | [Icons8](http://icons8.com/) | Nearly 1.3 million+ free icons. Yes, you've heard it. Has various license options. |
 | [Icons8](https://icons8.com/icons) | Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality. |
 | [Iconscout](https://iconscout.com/) | Free Download Icons illustrations stock photos at one place |
-| [IconsDb](https://www.iconsdb.com/) | Free Custom Icons |
+| [IconsDb](https://www.iconsdb.com/) | 4,216 free customizable icons in any color for personal and commercial use |
 | [IconSear.ch](https://iconsear.ch/search.html) | Search engine with over 50,000 SVG icons indexed |
 | [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
 | [Ikonate](https://ikonate.com/) | Fully customizable & accessible vector icons |
 | [Ionicons](https://ionic.io/ionicons) | Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG. Completely open source, MIT licensed and built by Ionic. |
 | [Ionicons](https://ionicons.com) | Beautifully crafted open source icons for use in web, iOS, Android, and desktop apps. |
-| [Linear Icons](https://linearicons.com/free) | 1000+ Ultra crisp vector icons |
+| [Linear Icons](https://linearicons.com/free) | 170 free vector line icons for UI design in SVG, PNG, PSD, and icon font formats |
 | [LineIcons](https://lineicons.com) | 2000+ Essential Line Icons for Designers and Developers |
 | [Lordicon](https://lordicon.com/icons#free) | 50 free animated interactive icons |
 | [Lucide](https://lucide.dev) | Lucide is an open-source icon library, a fork of Feather Icons. |
@@ -134,13 +134,13 @@
 | [Nucleo App](https://nucleoapp.com/) | Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
 | [Phosphor Icons](https://phosphoricons.com) | Phosphor is a flexible icon family for interfaces, diagrams, presentations |
 | [Radix Icons](https://www.radix-ui.com/icons) | A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component, SVG and more. |
-| [Remix Icon](https://remixicon.com/) | Simply Delightful Icon System |
+| [Remix Icon](https://remixicon.com/) | Open source icon library with 2,800+ high-quality icons for UI design |
 | [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
 | [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
-| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | 8000+ free icons |
-| [Shitty Icons](https://shittyicons.com/) | Collection of Free icons. |
+| [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | Desktop app to browse 8,000+ free icons from 20+ popular icon sets |
+| [Shitty Icons](https://shittyicons.com/) | Free collection of intentionally ugly hand-drawn SVG icons |
 | [Simple Icons](https://simpleicons.org/) | 1307 Free SVG icons for popular brands |
-| [Streamline Icons](https://www.streamlinehq.com/) | Good collection of free minimal icons. |
+| [Streamline Icons](https://www.streamlinehq.com/) | Massive icon library with 445,000+ icons in multiple styles, including free sets |
 | [Streamline Icons](https://streamlineicons.com) | A huge collection of meticulously crafted icons, covering a wide range of categories and themes. |
 | [SVG Repo](https://www.svgrepo.com/) | Download free SVG Vectors for commercial use. |
 | [System UIcons](https://systemuicons.com/) | 220+ icons in a growing collection. |
@@ -160,12 +160,12 @@
 | :--- | :--- |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/) | Fast, All-in-One Logo Generator |
-| [Logo Maker](https://logomakr.com/) | Create custom logos |
+| [Logo Maker](https://logomakr.com/) | AI-powered custom logo maker with high-resolution PNG and SVG downloads |
 | [LogoSear.ch](https://logosear.ch/search.html) | Search engine with over 200,000 SVG logos indexed |
 | [LOGOwine](https://www.logo.wine/) | Brand Logos Free Download in SVG Vector & PNG File Format |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
 | [SVGPorn](https://svglogos.dev/) | 1000+ high-quality SVG logos |
-| [VectorLogoZone](https://www.vectorlogo.zone/) | Consistently formatted SVG logos |
+| [VectorLogoZone](https://www.vectorlogo.zone/) | 3,000+ consistently formatted SVG logos perfect for README and credits pages |
 
 ## Favicons
 
@@ -199,14 +199,14 @@
 | [Unicons](https://iconscout.com/unicons) | A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native. |
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [Weather Icons](https://erikflowers.github.io/weather-icons/) | Weather Icons is the only icon font with 222 weather themed icons |
-| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) | Customizable Foundation icons |
+| [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3) | 283 customizable CSS icon fonts from the Zurb Foundation framework |
 
 ## Lottie Animations
 
 | Resource | Description |
 | :--- | :--- |
 | [Iconscout](https://iconscout.com/lotties) | A collection of free and premium Lottie animations for various design needs. |
-| [LottieFiles](https://lottiefiles.com/featured) | Lottie's marketplace. |
+| [LottieFiles](https://lottiefiles.com/featured) | Marketplace for free and premium Lottie animations and motion graphics |
 | [LottieFiles Community](https://lottiefiles.com/community) | A community-driven collection of free animations for various design projects. |
 | [MotionBox](https://motionbox.io) | Create, edit, and customize Lottie animations online for free. |
 | [MotionElements](https://www.motionelements.com) | Royalty-free Lottie animations for commercial use. |
