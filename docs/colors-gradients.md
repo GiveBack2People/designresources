@@ -8,68 +8,69 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [Adobe Color](https://color.adobe.com/create/color-wheel) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Adobe Color Stock](https://color.adobe.com/explore) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [AI Palette](https://aipalette.online/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Adobe Color](https://color.adobe.com/create/color-wheel) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Adobe Color Stock](https://color.adobe.com/explore) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [AI Palette](https://aipalette.online/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Astra Vision](https://astra-vision.github.io/MaterialPalette/) | - Extract Textures from image |
 | [Blackout FX](https://www.blackout-fx.com/) | / Cinecolors / Creatopia |
 | [Camilla Falsini](https://www.behance.net/camillafalsini) | Geometric, bold colors |
-| [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Chroma HEX/RGB Color Picker](https://chromewebstore.google.com/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn?hl=en) | - Color Picker on anything on the website |
-| [CineColor](https://cinecolor.io/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Cinecolors](https://cinecolor.io/collections/tools) | Blackout FX / / Creatopia |
-| [Color and Contrast](https://colorandcontrast.com/#/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Color Designer](https://colordesigner.io/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [CineColor](https://cinecolor.io/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Cinecolors](https://cinecolor.io/collections/tools) | Blackout FX / Creatopia |
+| [Color and Contrast](https://colorandcontrast.com/#/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Designer](https://colordesigner.io/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Color Experts](https://www.colorexpertsbd.com/blog/best-youtube-channels-for-learning-photography-photo-editing/) | Youtube channels |
 | [Color Finale](https://colorfinale.com/) | / Alex 4D / FCPX / Industrial Revolution - Not Free |
-| [Color Fizz](https://colorfizz.space/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Color Game](https://color.method.ac/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Color Geo Guesser](https://color-geo-guesser.mohit.rocks/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Fizz](https://colorfizz.space/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Game](https://color.method.ac/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Geo Guesser](https://color-geo-guesser.mohit.rocks/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Color Magic](https://colormagic.app/) | AI powered |
 | [Color Name](https://www.color-name.com/) | Get Color name of a HEX |
 | [Color Palette Pro](https://colorpalette.pro/?color=oklch%2842%25+0.32+186%29&paletteType=tri&paletteStyle=square&colorFormat=oklch&effects=0%2C0%2C0%2C0) | - Color Palette Synthesizer |
-| [Color Palettes](https://colorpalettes.net/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Color Supply](https://colorsupplyyy.com/palettes) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Color Works](https://colorworks.gumroad.com/l/watercaustics?affiliate_id=497553011) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Palettes](https://colorpalettes.net/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Supply](https://colorsupplyyy.com/palettes) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color Works](https://colorworks.gumroad.com/l/watercaustics?affiliate_id=497553011) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [color-blend](https://meyerweb.com/eric/tools/color-blend) | intermediate colors between 2 or 3 colors |
-| [Color.review](https://color.review/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Colorfle](https://colorfle.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [colorslurp.com](https://colorslurp.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Color.review](https://color.review/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Colorfle](https://colorfle.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [colorslurp.com](https://colorslurp.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Colorsuite](https://colorsuite.app/) | Lightroom Preset Extractor |
 | [Colortime Lab](https://colortime.shop/) | / Creative Market / Craftwork |
-| [Creatopia](https://creatopia.us/) | Blackout FX / Cinecolors / |
-| [Design Index](https://www.designindex.xyz/colours) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Digital Color Fidget/](https://petertdonahue.com/color-fidget.html) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Eva Design](https://colors.eva.design/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Figma](https://www.figma.com/community/shapes-colors/texture) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Creatopia](https://creatopia.us/) | Blackout FX / Cinecolors |
+| [Design Index](https://www.designindex.xyz/colours) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Digital Color Fidget/](https://petertdonahue.com/color-fidget.html) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Eva Design](https://colors.eva.design/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Figma](https://www.figma.com/community/shapes-colors/texture) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Figma Color meanings](https://www.figma.com/colors/) | - Different colors meaning and palettes |
-| [Found Color](https://foundcolor.co/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Google Arts Experiments (Find art from palette)](https://artsexperiments.withgoogle.com/artpalette/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Halftones, Watercolors](https://designdell.com/?s=free&download_category=&submit=Search) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Found Color](https://foundcolor.co/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Google Arts Experiments (Find art from palette)](https://artsexperiments.withgoogle.com/artpalette/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Halftones, Watercolors](https://designdell.com/?s=free&download_category=&submit=Search) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Image Colorizer](https://huggingface.co/spaces/fffiloni/text-guided-image-colorization) | - Turn old BW picture to color |
-| [Mindfully curated color palettes](https://access.mymind.com/colors) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Mindfully curated color palettes](https://access.mymind.com/colors) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Movies in color](https://moviesincolor.com/) | Color Palettes inspired by movie scenes Movies color palettes |
-| [My saved colour palettes](https://ar.pinterest.com/tnorverto/color-palettes/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [My saved colour palettes](https://ar.pinterest.com/tnorverto/color-palettes/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Nippon Colors](https://nipponcolors.com/#toki) | Japanese Color Palettes |
 | [Nippon Palette](https://www.543life.com/content/nipponnoiropalette2/) | Japanese Color Palettes |
-| [No BS Color Palette Generator](https://nobsutils.com/colors) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Palette Generator](https://palettegenerator.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [PaletteMaker App](https://palettemaker.com/app) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [No BS Color Palette Generator](https://nobsutils.com/colors) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Palette Generator](https://palettegenerator.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [PaletteMaker App](https://palettemaker.com/app) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Perron](https://www.perrondesign.ca/en/projets) | Iconic, Colourful, biophilic |
 | [Pick a Palette](https://pickapalette.gumroad.com/l/gridlines-scale-rulers) | / Henry Gao For Procreate! |
-| [Play in Colors](https://victorgarciart.es/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Radix Colors](https://www.radix-ui.com/colors) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Raw Color](https://www.rawcolor.nl/welcome/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Play in Colors](https://victorgarciart.es/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Radix Colors](https://www.radix-ui.com/colors) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Raw Color](https://www.rawcolor.nl/welcome/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Relax](https://www.relaxdesign.it/it/sanitari-sys/sys-s/) | 3D w/user Italy - Colors |
-| [Scheme Color](https://www.schemecolor.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Shape and Color](https://www.figma.com/community/shapes-colors?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Pixels / Figma comunity / |
-| [Step Inside Colors World](https://colors.dopely.top/inside-colors/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Super Color Palette](https://supercolorpalette.com/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Texture Pack](https://aescripts.com/fs-texture-palette/) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Tone-based surface color](https://m2.material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=E91E63) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Scheme Color](https://www.schemecolor.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Shape and Color](https://www.figma.com/community/shapes-colors?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all) | Pixels / Figma comunity |
+| [Step Inside Colors World](https://colors.dopely.top/inside-colors/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Super Color Palette](https://supercolorpalette.com/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Texture Pack](https://aescripts.com/fs-texture-palette/) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Tone-based surface color](https://m2.material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=E91E63) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
 | [Tonester Paints](https://tonesterpaints.com/collections/paints) | - Paint collection with beautiful unique colors |
 | [Trad. Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan) | Japanese Color Palettes |
-| [Try Colors](https://trycolors.com/games) | *Help us improve — [contribute a description](https://github.com/jubayerprantor/designresources/blob/main/CONTRIBUTING.md)!* |
-| [Unblast Palettes](https://unblast.com/color-schemes/) | Mindfully curated color palettes / |
+| [Try Colors](https://trycolors.com/games) | *Help us improve — [contribute a description](https://github.com/GiveBack2People/designresources/blob/main/CONTRIBUTING.md)!* |
+| [Unblast Palettes](https://unblast.com/color-schemes/) | Mindfully curated color palettes |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 | [2 Color Combinations](https://2colors.colorion.co) | Provides you different color combinations to be used on your application. |
 | [Adobe Color](https://color.adobe.com/) | Create color schemes with the color wheel or browse thousands of color combinations. |
@@ -97,7 +98,7 @@
 | [Colorlab](https://getcolorlab.com) | Find your perfect Color Palette easily! Explore, create, and save beautiful colors perfect for any project. Whether you're working on your website or refreshing a mobile app design, Colorlab is the tool you need to get colors right! |
 | [ColorLeap](https://colorleap.app/home) | Take a leap through time and see the colors of history. |
 | [ColorLisa](https://colorlisa.com/) | A curated collection of color palettes inspired by famous artists, designed to spark creativity and inspiration. |
-| [Colormind](http://colormind.io/) | AI-generated color schemes. |
+| [Colormind](https://colormind.io/) | AI-generated color schemes. |
 | [Colors & Fonts](https://www.colorsandfonts.com/) | A curated library of colors, fonts and resources |
 | [colors.dopely](https://colors.dopely.top/) | Super-fast and simple color palette generator, palettes can be saved and shared in seconds. |
 | [Colors.lol](https://colors.lol/) | Interesting color palettes generated by a Twitter bot, there are hex codes and descriptive names for each color. |
@@ -135,10 +136,10 @@
 | [Huetone](https://github.com/ardov/huetone) | A tool to create accessible color systems. |
 | [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
 | [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
-| [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
+| [Khroma](https://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
 | [Lospec Palette List](https://lospec.com/palette-list) | The Lospec Palette List is a database of palettes for pixel art. |
 | [Material Design Palette](https://material.io/design/color/the-color-system.html) | Google's Material Design Palette provides a set of predefined color palettes based on the Material Design guidelines. |
-| [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
+| [Material Design Palette Generator](https://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Material Palette](https://www.materialpalette.com/) | Free to pick palettes, icons and colors for Material Design |
 | [Material Palettes](https://material.colorion.co/) | 1000+ Material Design palettes |
 | [Muzli Colors](https://colors.muz.li) | A color palette generator with trending palettes and colors. |
