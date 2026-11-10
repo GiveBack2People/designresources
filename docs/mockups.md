@@ -122,6 +122,7 @@
 | [Loveart](https://www.lovart.ai/?sourceId=003524&campaignid=22553582104&adgroupid=%7Badgroupdid%7D&network=g&device=c&devicemodel=&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCDHlwLSMEm0bGuo-9uZtOM9l40U0D_i8l25rsF6Qulb7TBCdpM7gQaAuiFEALw_wcB&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV&wbraid=CkAKCAjw_8rBBhBeEjAACOTdWK5SYs69VSho2hE7Y4UMXyjXtWF4cAbPI6grM_ke4glPOFIoTq3u5CjTI8QaAnbu&gad_source=1&gad_campaignid=22553582104&gbraid=0AAAAA_YioAB2RFoUnslqHKKymeyvu_gpV) | Follows concept, branding |
 | [Animockup](https://github.com/alyssaxuu/animockup) | Create animated mockups in the browser 🔥. |
 | [AppLaunchpad](https://theapplaunchpad.com) | Generate beautiful mockups for your app or website. |
+| [AppScreen](https://appscreen.pro) | Free browser editor for App Store and Google Play screenshots with iPhone and Android device frames, captions and backgrounds. No sign-up needed. |
 | [Artboard Studio](https://artboard.studio) | A mockup and design tool for branding projects. |
 | [Clean Mock](https://cleanmock.com/) | Create stunning mockups using the latest device frames like iPhone X and custom backgrounds, all from your browser—quickly and for free. |
 | [Collab Shot](https://www.collabshot.com/) | Real-time screen grabs and image sharing |
