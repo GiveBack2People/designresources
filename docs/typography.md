@@ -133,8 +133,8 @@
 | [Old School PC Fonts](https://int10h.org/oldschool-pc-fonts/) | Collection of classic pixel fonts from vintage PC systems and DOS era. |
 | [Online Fonts](https://online-fonts.com/) | Download free fonts for personal and commercial use with instant preview. |
 | [Paratype](https://www.paratype.com/) | Professional font foundry page with typeface portfolios. |
-| [Pousse ta fonte](https://www.poussetafonte.com/) | - List of famous Font Design Studios |
-| [Premium Beat](https://www.premiumbeat.com/blog/free-animated-fonts/) | - Collection of Handpainted animated font for videos |
+| [Pousse ta fonte](https://www.poussetafonte.com/) | Directory of famous font design studios. |
+| [Premium Beat](https://www.premiumbeat.com/blog/free-animated-fonts/) | Collection of handpainted animated fonts for videos. |
 | [ProCatalogue](https://pro-catalog.ru/) | Russian type catalog with Cyrillic and web fonts. |
 | [Programming Fonts](https://www.programmingfonts.org/#lekton) | Programming font showcase and testing tool. |
 | [Ru Fonts](https://www.rufonts.ru/) | Russian font archive for free Cyrillic type downloads. |
