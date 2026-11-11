@@ -105,7 +105,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3axis](https://3axis.co/) | - Vectors for Laser Cutting |
+| [3axis](https://3axis.co/) | Vector files and designs for laser cutting. |
 | [Free Stock Vectors - Stockio.com](https://www.stockio.com/free-vectors/) | Large collection of free vector graphics, icons, and clip art for personal and commercial use |
 | [VectorStock](https://www.vectorstock.com/free-vectors) | Marketplace with millions of free and premium vector images for personal use |
 | [All Silhouettes](https://www.all-silhouettes.com/) | Specializes in providing free vector silhouettes for various design projects. |
@@ -136,7 +136,7 @@
 | [ROBOHASH](https://robohash.org/) | Generate unique images from any text |
 | [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and PowerPoint presentations |
 | [Stockio](https://www.stockio.com) | Free vectors, photos, videos, and fonts for personal and commercial use. |
-| [SVG wave](https://svgwave.in/) | A free, customizable gradient 🌈 SVG wave generator for UI designs. |
+| [SVG wave](https://svgwave.in/) | A free, customizable gradient SVG wave generator for UI designs. |
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
 | [The Noun Project](https://thenounproject.com/) | A vast collection of icons and symbols created by designers from around the world. |
 | [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
@@ -155,7 +155,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [1 Envira](https://enviragallery.com/guide-to-gradient-maps-in-photoshop/) | - Tutorial on Gradient Maps |
+| [1 Envira](https://enviragallery.com/guide-to-gradient-maps-in-photoshop/) | Tutorial on creating gradient maps in Photoshop. |
 | [3 Gradients / 3 Shapes – Bolderaja](https://bolderaja1.com/products/gradient-color-grainy-textures-2/) | Premium gradient color grainy texture packs for design projects |
 | [AI Textured](https://aitextured.com/textures/) | Free AI seamless patterns |
 | [CGI Backgrounds](https://www.cgibackgrounds.com/search?term=&page=1&type=visual-hdri-search) | Image search HDRI - Not Free |
