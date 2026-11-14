@@ -14,7 +14,7 @@
 | :--- | :--- |
 | [3D icons](https://www.3dicons.com/) | Over 4,000 3D icons & characters in high 4K resolution with front & perspective views. Includes Figma file. |
 | [3D LogoLab](https://www.3dlogolab.io/3d-logo-generator-free) | Free online 3D rotating logo generator tool. |
-| [Achi](https://www.a-chi.jp/fudemojilogo-tool-site/) | Japanese Brush Calligraphy / Note / Japan Design / Photoshop Vip / Coliss |
+| [Achi](https://www.a-chi.jp/fudemojilogo-tool-site/) | Collection of Japanese brush calligraphy logo tools and design resources. |
 | [Akar Icons](https://akaricons.com/) | Minimal open source SVG icon library with clean, rounded strokes. |
 | [Animated Icons](https://animatedicons.co/) | 4,000+ free high-quality animated icons available as Lottie, SVG & PNG. Customizable colors. |
 | [Basicons](https://basicons.xyz/) | Basic yet versatile SVG icon set for UI design. |
@@ -31,19 +31,23 @@
 | [Draw Kit](https://www.drawkit.com/search-results) | Library of 2D, 3D illustrations, icons and animations for designers |
 | [Dribbble](https://dribbble.com/search/free-icons) | Search results for free icon designs on Dribbble. |
 | [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | Free PSD logo mockup with realistic embossed effect on paper. |
+| [Energy Icons](https://energyicons.com) | Open-source icon library for renewable energy and the energy transition. |
 | [Figma](https://www.figma.com/community/icons) | 6,900+ free icon sets & packs from the Figma community. |
+| [Flagpack](https://flagpack.xyz) | Open-source set of country flag icons for design tools and code. |
 | [Forge Icons](https://icons.theforgesmith.com/) | 300+ SVG icons for e-commerce, travel, social media, and app design. |
 | [Free Icons](https://icons-for-free.com/) | Large collection of free icons in various styles and formats. |
 | [Futicons](https://futicons.com/) | Free futuristic line and fill SVG icons for modern web projects. |
 | [Game Icons](https://game-icons.net/) | 4,180 free SVG and PNG game-themed icons, regularly updated. |
+| [Glow UI Icons](https://www.glowui.com/icons) | Open-source interface icons in outline and solid styles. |
+| [Griddy Icons](https://griddyicons.com) | Free open-source icon family with SVG icons and a React library. |
 | [Gumroad](https://gumroad.com/design/icons) | Platform for independent creators selling vector icons, fonts, and digital design assets |
 | [Health icons](https://healthicons.org/) | Health Medical icons |
 | [HM Icons](https://hmicons.gumroad.com/l/hmicons-free) | Free 20-pack of industrial-themed HM graphic icons. |
 | [Hola SVG Icons](https://icons.holasvg.com/) | Free open source SVG icons with customizable stroke, fill, and color. |
 | [Hugeicons](https://hugeicons.com/) | 51,000+ free & pro icons for designers and developers in multiple styles. |
 | [Humbleicons](https://humbleicons.com/) | 284 simple, neutral, carefully crafted free SVG icons. |
-| [Icon Finder](https://www.iconfinder.com/designers) | The Noun Project / My Crate / Yellow Images / YWFT |
-| [Icon Maker](https://ray.so/icon) | Icon online Tools Pro Icons |
+| [Icon Finder](https://www.iconfinder.com/designers) | Directory of vector icon designers on Iconfinder. |
+| [Icon Maker](https://ray.so/icon) | Online tool for creating and customizing icons. |
 | [Icon Park](https://iconpark.oceanengine.com/illustrations) | ByteDance's illustration library with multiple customization options. |
 | [Icon Park](https://iconpark.oceanengine.com/official) | ByteDance's official icon library with themeable SVG icons. |
 | [Icon Scout](https://iconscout.com/3d-illustrations) | 335K+ 3D illustrations in PNG, BLEND, FBX, and glTF formats. |
@@ -61,6 +65,7 @@
 | [Logo Design Love](https://www.logodesignlove.com/) | Blog about logos, symbols, icons, and marks by David Airey. |
 | [Logo Designer](https://www.logo-designer.co/) | Logo design inspiration blog showcasing brand identity work. |
 | [Lordicon](https://lordicon.com/) | 43,900+ animated icons library with static and animated styles. |
+| [Lucide Animated](https://lucide-animated.com) | Free open-source library of animated React icons, licensed under MIT. |
 | [Majesticons](https://www.majesticons.com/) | 11,000+ premium hand-crafted icons in line, duotone, and solid styles. |
 | [Material Icons](https://petershaggynoble.github.io/MDI-Sandbox/extended/) | Extended preview of Material Design Icons from the MDI sandbox. |
 | [Material UI](https://materialui.co/icons) | Material Design icons browser with filled, outlined, rounded, sharp, and two-tone. |
@@ -74,14 +79,16 @@
 | [Octicons](https://primer.style/octicons/) | GitHub's handcrafted, scalable icon set by Primer design system |
 | [OpenBridge Icon Pack \| Figma](https://www.figma.com/community/file /openbridge-icon-pack) | Free icon pack available on Figma Community. |
 | [OpenMoji](https://openmoji.org/) | Open source emoji library with 4495 consistent, handcrafted emojis |
+| [Pikaicons](https://pikaicons.com) | SVG icon library with 221 icons free and a larger paid set. |
 | [Pixelarticons](https://pixelarticons.com/) | 4,052 pixel art icons in 4 styles, hand-crafted on a 24x24 pixel grid. |
 | [Potlab Icons](https://potlabicons.com/) | Animated SVG icon library with React, Figma, Flutter, and Framer support. |
 | [pqoqubbw/icons](https://icons.pqoqubbw.dev/) | 350+ animated React icons built with Motion and Lucide, MIT licensed. |
 | [Pro Icons](https://proicons.com/design-tools/) | Icon online Tools / Icon Maker |
+| [Rune Icons](https://www.runeicons.com/) | Open-source icons in five styles, licensed under Apache 2.0. |
 | [Shapefest](https://www.shapefest.com/#new) | Massive library of premium 3D illustrations and clay renders |
 | [Smashicons](https://smashicons.com/) | Professional icon packs for UI/UX design projects. |
 | [Svg Doodle icon](https://svgicon.net/) | Free hand-drawn SVG doodle icons in brush, arrow, circle, and abstract styles. |
-| [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | - Download SVG Vector files from any website |
+| [SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp?hl=en) | Download SVG vector files from any website. |
 | [Tech Icons](https://techicons.dev/) | 426+ SVG and PNG tech icons for programming languages, frameworks, and tools. |
 | [The Icon of](https://www.theiconof.com/search) | 1,100+ pixel perfect icons available for Figma, Sketch, XD, and more. |
 | [The Noun Project](https://thenounproject.com/icons/) | Library of over 3 million icons and photos created by a global community |
@@ -171,7 +178,7 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [VectorWiki](https://vectorwiki.com/) | - Download Logos in SVG |
+| [VectorWiki](https://vectorwiki.com/) | Download brand and company logos in SVG vector format. |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/) | Fast, All-in-One Logo Generator |
 | [Logo Maker](https://logomakr.com/) | Create custom logos |
