@@ -106,6 +106,7 @@
 | [Photo Creator](https://photos.icons8.com/creator) | Create your own photos instead of searching for stock |
 | [Photopea](https://www.photopea.com) | An Online Photoshop editor |
 | [Pic2Vector](https://pic2vector.com/) | Free browser-based converter that traces PNG, JPG, and WebP images into SVG vectors; runs locally with WebAssembly, no upload or account. |
+| [PixelArtHive](https://pixelarthive.com/pixel-art-upscaler) | Free browser tool for resizing pixel art and sprites with crisp edges. It processes files locally without signup. |
 | [PixCleaner](https://www.pixcleaner.com/) | Accurate and hassle free background removal tool |
 | [Pixlr](https://www.pixlr.com/) | Online photo editor |
 | [Pryzm](https://pryzm.design) | Browser studio for backgrounds and textures, with a free plan. |
