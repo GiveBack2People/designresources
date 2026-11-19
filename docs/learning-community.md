@@ -12,6 +12,9 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [The A11y Project](https://www.a11yproject.com/) | Community-driven effort to make digital accessibility easier with checklists and resources. |
+| [WAVE Web Accessibility Tool](https://wave.webaim.org/) | Suite of evaluation tools that helps authors make web content more accessible to individuals with disabilities. |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) | Industry-standard WCAG color contrast checker for conforming to Level AA and AAA standards. |
 | [100 Days of CSS Challenge](https://100dayscss.com) | Free CSS challenge to create, submit results, and check out what others have created without registration. |
 | [Adobe](https://www.adobe.com/learn/indesign) | Official Adobe InDesign learning portal with project-based tutorials for layout, publishing, and print design. |
 | [Adobe Learn](https://www.adobe.com/learn/illustrator?locale=en&learnIn=1) | Official Adobe Illustrator tutorials covering vector illustration, logo design, and creative workflows. |
@@ -19,7 +22,6 @@
 | [CSSBattle](https://cssbattle.dev) | Free challenges where you recreate a target image using CSS. |
 | [GitHub - A guide for learning how to write scripts for use in Adobe Illustrator](https://github.com/rjduran/adobe-scripting) | GitHub repo with scripting tutorials for automating Adobe Illustrator workflows. |
 | [Lapa](https://www.lapa.ninja/learn/figma/) | Curated Figma tutorials, plugin recommendations, and UI design inspiration for product designers. |
-| [Mesh Gradient Generator [+ Noise] – Figma/SVG Export](https://www.learnui.design/tools/mesh-gradient-generator.html) | Web-based tool for creating mesh gradients with noise and exporting SVGs for Figma. |
 | [Motion Lab](https://www.motionlab.co.kr/TUTORIAL) | Motion design tutorials and animation resources for kinetic typography, effects, and video storytelling. |
 | [The Vault - Learning Design](https://newincreative.notion.site/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9?s=09) | Notion-based collection of design guides, templates, and inspiration for creative projects. |
 | [Vagon](https://vagon.io/blog/best-sketchup-tutorials) | Blog post recommending SketchUp tutorials and rendering tips for fast 3D scene creation. |
@@ -28,7 +30,6 @@
 | [Claude](https://claude.ai) | Anthropic's conversational AI great for in-depth learning support, writing help, and summarization. |
 | [Codecademy](https://www.codecademy.com) | Learn-by-doing platform with in-browser coding exercises. Free tier covers basics well. |
 | [Coursera](https://www.coursera.org) | University-level courses from Stanford, Yale, and Google. Certificates count toward degrees. |
-| [Coursera Graphic Design](https://www.coursera.org/courses?query=graphic%20design) | Online courses on graphic design. |
 | [CreativeLive](https://www.creativelive.com) | Free live broadcasts of photography, design, and business classes. Pay to rewatch. |
 | [Design+Code](https://designcode.io) | SwiftUI, React, and Figma courses with beautiful production value and real-world projects. |
 | [Designlab](https://trydesignlab.com) | Mentor-led UX bootcamps with portfolio reviews and 1-on-1 feedback sessions. |
@@ -36,11 +37,10 @@
 | [FreeCodeCamp](https://www.freecodecamp.org) | Free full-stack curriculum with certifications. Build real projects for nonprofits. |
 | [Frontend Masters](https://frontendmasters.com) | Expert-level JavaScript and front-end courses from industry leaders like Kyle Simpson. |
 | [General Assembly](https://generalassemb.ly) | Bootcamp-style programs with career services. Options for part-time, full-time, or self-paced. |
-| [Google Web Fundamentals](https://developers.google.com/web) | Official guides on performance, PWAs, and Core Web Vitals from Google's developer relations team. |
+| [web.dev by Google](https://web.dev/) | Google's guidance and tools for modern web development, performance, PWAs, and Core Web Vitals. |
 | [Interaction Design Foundation](https://www.interaction-design.org) | Affordable membership for 40+ UX courses. Used by designers at Apple and IBM for training. |
 | [Khan Academy](https://www.khanacademy.org) | Completely free education covering computing basics, JavaScript, and SQL fundamentals. |
 | [LinkedIn Learning](https://www.linkedin.com/learning) | Formerly Lynda.com. Certificates display on LinkedIn profile. Often free via public libraries. |
-| [Lynda](https://www.lynda.com) | Now LinkedIn Learning. Classic software tutorials still accessible through the redirect. |
 | [Pluralsight](https://www.pluralsight.com) | Deep technical courses with skill assessments and learning paths for engineering teams. |
 | [Scrimba](https://scrimba.com) | Interactive screencasts where you can pause and edit the instructor's code directly. |
 | [Skillshare](https://www.skillshare.com/) | Online classes in design, photography, and more. |

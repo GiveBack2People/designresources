@@ -30,7 +30,7 @@
 | [3D Car](https://3dcar.ru/blueprints/) | Archive of vehicle blueprints and technical drawings for 3D modelers. |
 | [3D CG Zone](https://3dcgzone.com/category/daz/) | Free Daz Studio and Poser 3D assets including models, props, clothing, and hair downloads. |
 | [3D Coa](https://3dcoat.com/tutorials/) | Video tutorials for 3DCoat digital sculpting, voxel modeling, retopology, UV mapping, and PBR texturing. |
-| [3D Coat](https://materials.3dcoat.com/scans?_gl=1*1gb9coh*_ga*MTQ2ODA0NzQyMC4xNzQwOTIzNTc3*_ga_1YB6F61XRV*MTc0MDkyMzY2Ni4xLjEuMTc0MDkyMzc5Ny41OC4wLjA.) | Scanned 3D surface materials and textures for 3DCoat with limited free downloads. |
+| [3D Coat](https://materials.3dcoat.com/scans) | Scanned 3D surface materials and textures for 3DCoat with limited free downloads. |
 | [3D Content Central](https://www.3dcontentcentral.com/Default.aspx) | Free CAD model library for 2D and 3D parts, assemblies, and supplier catalogs from Dassault Systèmes. |
 | [3D Convert](https://3d-convert.com/en/) | Free online 3D model converter supporting 50+ formats including STL, OBJ, FBX, and PLY. |
 | [3D Cosmos](https://3dcosmos.org/?gotl-signin) | Enscape, 3ds Max, and SketchUp 3D asset library |
@@ -45,12 +45,10 @@
 | [3D Mag](https://3dmag.org/en/market/) | Marketplace for free and premium STL 3D printing models including figures, toys, and accessories. |
 | [3DMaxter](https://3dmaxter.com/) | Extensive 3D model library featuring architectural exterior scenes, plants, and game assets. |
 | [3D Mechanisms](https://all3dp.com/2/compliant-mechanisms-3d-print/) | Curated collection of print-in-place compliant mechanisms for 3D printing. |
-| [3D Mili](https://3dmili.com/sculpture) | Resource unavailable for verification. |
 | [3D Model Japan](https://3dmj.info/) | Japanese 3D model marketplace offering furniture, lighting, plants, and CG images for architecture visualization. |
 | [3D Model Libraries - 3D Printing Resources and Tools -](https://guides.library.utoronto.ca/3Dprinting/libraries) | University of Toronto guide listing 3D model repositories, software tools, and printing services. |
 | [3D Model Org](https://3d-model.org/3d-print/) | 3D printable models including characters, props, and miniatures |
 | [3D Model Share](https://3dmodelshare.org/3d-scenes/) | Free 3D scenes, furniture, and interior models available for download in 3ds Max format. |
-| [3D Models](https://3dmodels.org/ko/blueprints/) | Resource unavailable for verification. |
 | [3D Models](https://rt3dmodels.com/tag/lumion/) | Free real-time 3D models for Lumion, D5 Render, SketchUp, Twinmotion, and Unreal formats. |
 | [3d models free](https://3dsmodelfree.com/) | Free 3ds Max models including furniture, scenes, architecture, plants, and lighting for visualization. |
 | [3D Motive](https://3dmotive.com/) | Online training platform with courses in 3D modeling, game art, animation, texturing, and sculpting. |
@@ -123,7 +121,6 @@
 | [3dsmax Scene](https://3dsmaxscene.com/) | Free ready-to-render architectural scenes optimized for 3ds Max, V-Ray, and Corona. |
 | [3dsMaxdepot.com](https://3dsmaxdepot.com/) | Community file-sharing site for 3ds Max resources including animations, rigs, and shaders. |
 | [3DSyorg](https://3dsky.org/3dmodels?query=hdri&order=relevance) | Collection of 3ds Max HDRI lighting textures and environment maps on 3dsky. |
-| [3dvn.org](https://3dvn.org/) | Resource unavailable for verification. |
 | [3DZip](https://3dzip.org/) | Free 3D models for 3ds Max covering furniture, scenes, textures, and architectural elements. |
 | [A23D](https://www.a23d.co/) | Library of over 551,000 photorealistic 3D models, PBR textures, decals, and IES profiles. |
 | [A23D](https://www.a23d.co/decals) | A23D marketplace for 3D decal assets - Not Free |
@@ -301,7 +298,6 @@
 | [Poly Haven](https://polyhaven.com/hdris/) | CC0 licensed HDRI environment maps for realistic lighting in 3D rendering and visualization. |
 | [Poly Pizza](https://poly.pizza) | Free downloads of low-poly 3D models, with no login required. |
 | [PresetsFX](https://presetsfx.com/category/daz-3d-model/#google_vignette) | Website offering Daz 3D model presets and resources |
-| [Pro for Free 3D Models](https://pro3dmodelsfree.com/3d-models/3d-print/) | Resource unavailable for verification. |
 | [Prome AI](https://www.promeai.pro/consistency-rendering) | - Changing textures to renders - M |
 | [Quaternius](https://quaternius.com) | Free CC0 library of hundreds of low-poly 3D models. |
 | [Render 96](https://github.com/Render96/Render96Wiki/wiki) | Archival old games textures |

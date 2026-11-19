@@ -12,6 +12,7 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Crispy Doodles](https://www.figma.com/community/file/1241125633606791793/crispy-doodles-120-free-and-fresh-doodles-for-your-mockups) | 120 free Figma doodles for enhancing mockup and web presentations. |
 | [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/) | Curated collection of 70+ Photoshop brush packs for digital painting, concept art, and illustration |
 | [Anatomical Illustrations](https://www.flickr.com/photos/133115863@N08/albums/72157654232226445/with/18406466060) | Vintage science illustrations | 
 | [Bendigo Gastronomy Illustrations](https://natalieryan.com.au/bendigo-gastronomy-illustrations) | Illustrated textile and food-inspired designs from Natalie Ryan |

@@ -52,17 +52,13 @@
 | [Autodesk SketchBook](https://www.sketchbook.com) | Now free sketching app with a clean interface designed for quick ideation and concept art. |
 | [Axure RP](https://www.axure.com/) | A powerful prototyping tool used for creating interactive prototypes of websites and mobile apps. It's favored by UX designers for its ability to create complex interactions and dynamic content. |
 | [Black Ink](https://www.bleank.com) | Node-based brush controller for creating unique procedural and generative artwork effects. |
-| [Blender](https://www.blender.org/) | While primarily known as a 3D modeling and animation software, Blender also includes robust 2D animation and video editing features, making it a versatile tool for multimedia projects. |
 | [Canva](https://www.canva.com/) | A web-based graphic design platform that offers a wide range of pre-designed templates for various design needs, including social media graphics, presentations, posters, and more. It's known for its user-friendly interface and accessibility. |
 | [Clip Studio Paint](https://www.clipstudio.net/en) | Industry-leading software for manga, comics, and animation with specialized panel and speech bubble tools. |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based interface for Stable Diffusion with advanced workflows for AI image generation. |
 | [CorelDRAW](https://www.coreldraw.com) | Professional vector graphics suite popular for print design, signage, and technical illustration since 1989. |
 | [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
 | [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
-| [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) | A free and open-source raster graphics editor that offers many features similar to Adobe Photoshop. It's great for photo retouching, image composition, and graphic design. |
 | [Gravit Designer](https://www.designer.io) | Cross-platform vector design app with a free tier, works in-browser and as a desktop app. |
-| [Inkscape](https://inkscape.org/) | An open-source vector graphics editor that's comparable to Adobe Illustrator. It's used for creating logos, illustrations, diagrams, and other vector graphics. |
-| [Krita](https://krita.org/) | Free and open-source digital painting program designed for concept artists, illustrators, and comic creators. |
 | [Linearity Curve](https://www.linearity.io/curve/) | Professional vector design tool for Mac and iPad with powerful pen tool and auto-trace features. |
 | [Linearity Move](https://www.linearity.io/move/) | Animation software that brings vector designs to life with an intuitive timeline and motion paths. |
 | [MediBang Paint](https://medibangpaint.com) | Free cross-platform comic and illustration tool with cloud storage and 800+ free tones/brushes. |
@@ -75,7 +71,6 @@
 | [Pixso](https://pixso.net) | Collaborative design platform combining prototyping, design systems, and developer handoff in one tool. |
 | [Polotno Studio](https://studio.polotno.com) | Free browser-based graphic design editor for social media posts, banners, and print materials. |
 | [Procreate](https://procreate.art/) | A digital painting app for iPad that's popular among illustrators and digital artists for its natural drawing experience and extensive brush library. |
-| [Scribus](https://www.scribus.net/) | An open-source desktop publishing software that can be used for creating layouts for brochures, newsletters, posters, and other printed materials. |
 | [Sketch](https://www.sketch.com/) | A vector graphics editor specifically designed for user interface and user experience (UI/UX) design. It's known for its ease of use and robust features for designing digital interfaces. |
 | [Sketchable](https://www.sketchable.app) | Windows-optimized drawing app with excellent pen pressure support and customizable workspace. |
 | [Tayasui Sketches](https://tayasui.com/sketches) | Realistic drawing app with watercolor, oil paint, and pencil tools that mimic real media. |
@@ -127,7 +122,6 @@
 | [Octopus](https://octopus.do/) | Sitemap builder |
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 | [Onlineboard](https://onlineboard.eu) | Real-time shareable whiteboard for brainstorming |
-| [Penpot](https://penpot.app/) | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community [Open Source and selfhostable](https://github.com/penpot/penpot#what-is-penpot) |
 | [Personas](https://personas.draftbit.com/) | A playful avatar generator for the modern age |
 | [Photo Creator](https://photos.icons8.com/creator) | Create your own photos instead of searching for stock |
 | [Photopea](https://www.photopea.com) | An Online Photoshop editor |
@@ -213,6 +207,11 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Bolt.new](https://bolt.new/) | In-browser AI development sandbox that scaffolds, designs, and deploys full-stack web applications. |
+| [Lovable](https://lovable.dev/) | AI full-stack software and UI generator that turns ideas into functional, beautifully styled web apps. |
+| [Recraft](https://www.recraft.ai/) | AI generative design studio for vector art, 3D illustrations, digital art, and consistent brand icon sets. |
+| [Krea AI](https://www.krea.ai/) | Real-time generative canvas, AI upscaler, and creative image enhancer for designers. |
+| [Ideogram](https://ideogram.ai/) | Generative image AI tool with industry-leading typography and graphic design prompt adherence. |
 | [AI Comic Factory](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory) | AI-powered tool on Hugging Face for generating comic strips from text prompts. |
 | [AI Design Awards](https://www.instagram.com/ai.designawards/) | Instagram account showcasing AI-generated design projects and award-winning creative work. |
 | [AI Index](https://ai-index.eu/) | Curated directory showcasing graphic design projects created with AI. |

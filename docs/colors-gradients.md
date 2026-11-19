@@ -8,6 +8,7 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Mesh Gradient Generator](https://www.learnui.design/tools/mesh-gradient-generator.html) | Web-based tool for creating mesh gradients with noise and exporting SVGs for Figma. |
 | [Adobe Color](https://color.adobe.com/create/color-wheel) | Create color palettes, extract gradients from images, etc. |
 | [Adobe Color Stock](https://color.adobe.com/explore) | Discover current color trends in different industries from the creative communities on Behance and Adobe Stock |
 | [AI Palette](https://aipalette.online/) | AI-powered color palette generator based on visual themes, keywords, and images. |
@@ -18,7 +19,6 @@
 | [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) | Color wheel tool and palette generator for finding complementary, analogous, and triadic color schemes. |
 | [Chroma HEX/RGB Color Picker](https://chromewebstore.google.com/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn?hl=en) | Chrome extension eyedropper and color picker for selecting colors from web pages. |
 | [CineColor](https://cinecolor.io/) | Professional LUT packs, film emulations, and color grading tools for filmmakers and video editors. |
-| [Cinecolors](https://cinecolor.io/collections/tools) | Color grading tools, utilities, and plugins for video editing workflows. |
 | [Color and Contrast](https://colorandcontrast.com/#/) | Accessibility-focused tool for checking color contrast ratios against WCAG standards. |
 | [Color Designer](https://colordesigner.io/) | Comprehensive color tools platform featuring a palette builder, gradient generator, color mixer, and converter. |
 | [Color Experts](https://www.colorexpertsbd.com/blog/best-youtube-channels-for-learning-photography-photo-editing/) | Youtube channels |
@@ -39,7 +39,7 @@
 | [Colortime Lab](https://colortime.shop/) | Online store offering color palettes, design assets, and creative kits. |
 | [Creatopia](https://creatopia.us/) | Creative studio providing design assets, color tools, and digital resources. |
 | [Design Index](https://www.designindex.xyz/colours) | Curated collection of color palettes, gradients, backgrounds, and design tools for creative projects. |
-| [Digital Color Fidget/](https://petertdonahue.com/color-fidget.html) | Interactive browser-based tool for exploring and playing with digital color combinations. |
+| [Digital Color Fidget](https://petertdonahue.com/color-fidget.html) | Interactive browser-based tool for exploring and playing with digital color combinations. |
 | [Eva Design](https://colors.eva.design/) | Deep learning-powered color palette generator that creates harmonious color systems for UI design. |
 | [Figma](https://www.figma.com/community/shapes-colors/texture) | Figma Community tutorials and editable design resources for user interface and user experience workflows. |
 | [Figma Color meanings](https://www.figma.com/colors/) | Guide to color meanings, symbolism, and curated color palettes by Figma. |

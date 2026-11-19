@@ -12,6 +12,12 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Velvetyne Type Foundry](https://velvetyne.fr/) | French open-source foundry distributing experimental, quirky, and contemporary libre fonts. |
+| [Collletttivo](https://www.collletttivo.it/) | Open-source type foundry and collective designing high-character contemporary free typefaces. |
+| [Badass Libre Fonts](https://badasslibrefronts.com/) | Curated directory of libre and open-source fonts designed exclusively by women. |
+| [Open Foundry](https://open-foundry.com/) | Curated platform showcasing open-source typography with interactive variable font controls. |
+| [Dinamo Font Gauntlet](https://fontgauntlet.com/) | Browser-based variable font testing playground with animation, axes controls, and OpenType feature inspection. |
+| [Wakamai Fondue](https://wakamaifondue.com/) | "What can my font do?" tool to inspect OpenType features, glyph coverage, and font layout capabilities. |
 | [1000 Fonts](https://1000fonts.com/) | Search and download thousands of free and premium fonts for design projects. |
 | [743種類の](https://coliss.com/articles/freebies/japanese-free-fonts.html) | Curated collection of free Japanese fonts and typeface resources. |
 | [A Non-Designer's Guide to Pairing Fonts](https://visme.co/blog/pairing-fonts/) | Learn font pairing basics with practical tips on contrast, mood, and classification. |
@@ -27,8 +33,6 @@
 | [Az Fonts](https://ru.azfonts.net/) | Russian font archive for Cyrillic typefaces and Russian-language fonts. |
 | [Befonts](https://befonts.com/?filter=commercial) | Discover high-quality free fonts for personal and commercial design projects. |
 | [Behance](https://www.behance.net/galleries/graphic-design/typography) | Explore typography and lettering projects curated by Behance's creative community. |
-| [Behance](https://www.behance.net/search/projects?search=Typeface&tracking_source=typeahead_search_directt) | Browse thousands of typeface and font projects shared by designers on Behance. |
-| [Behance - Collection of nice free fonts](https://www.behance.net/moodboard/4860923/free-fonts) | A curated moodboard of nice free fonts collected by the Behance community. |
 | [Birdfont](https://birdfont.org/) | A free, open-source font editor for creating TTF, OTF, and SVG fonts. |
 | [Booth](https://booth.pm/ja/browse/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%83%BB%E6%9B%B8%E4%BD%93) | Japanese marketplace with fonts, typeface goods, and font design resources. |
 | [Briian](https://briian.com/290/free-fonts-download-2.html) | Guide to free Chinese font downloads and font resources. |
@@ -55,9 +59,8 @@
 | [Filipe Meunier](https://payhip.com/b/BUbh) | Typography resource and font design project page. |
 | [FontAlternatives](https://fontalternatives.com) | Directory of free open-source alternatives to premium fonts. |
 | [FontGoggles](https://fontgoggles.org) | Free desktop app for inspecting OpenType and variable fonts. |
-| [Fonts in use](https://fontsinuse.com/typefaces/7282/ll-akkurat) | Real-world usage examples of the LL Akkurat typeface. |
+| [Fonts in use](https://fontsinuse.com/) | Real-world usage examples of the LL Akkurat typeface. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625434351701/) | Vintage typography image collection on Flickr. |
-| [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625759177303) | Vintage typography image collection on Flickr. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625356311721) | Vintage typography image collection on Flickr. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157625552848034/) | Vintage typography image collection on Flickr. |
 | [flickr.com](https://www.flickr.com/photos/taffeta/albums/72157622554064131) | Vintage typography image collection on Flickr. |
@@ -73,7 +76,6 @@
 | [Font Finder](https://chromewebstore.google.com/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | Chrome Extensions |
 | [Font Finder](https://fontfinder.online/) | Identify fonts used on any website by hovering over text. |
 | [Font Freak](https://www.fontfreak.com/) | Archive of free fonts covering various styles and categories for download. |
-| [Font Gauntlet](https://fontgauntlet.com/) | Preview and test Google Font combinations in real-time on your own text. |
 | [Font interceptor](https://fontinterceptor.mschfmag.com/) | You can use to download any used font in a website. It will download it in WOFF, and then you use Cloud Converter to convert to OTF |
 | [Font Island](https://fontsisland.com/) | Font download portal with Cyrillic and international typefaces. |
 | [Font Labo](https://font-labo.com/hitsumou-font-matome/) | Japanese font roundup featuring brush and calligraphy fonts. |
@@ -95,7 +97,6 @@
 | [Fonts Arena](https://fontsarena.com/serif/) | Curated selection of free fonts for personal and commercial use across various styles. |
 | [Fonts Hub](https://fontshub.pro/) | Browse and download free fonts for all your design project needs. |
 | [Fonts in Movies](https://fontsinmovies.com/) | Discover what fonts are used in popular movies and film posters. |
-| [Fonts in use](https://fontsinuse.com/) | A searchable archive of typography in real-world design projects. |
 | [Fonts inspiration, combinations & similar fonts](https://maxibestof.one/typefaces) | Find font inspiration, explore combinations, and discover similar typefaces. |
 | [Fonts Knowledge - Google Fonts](https://fonts.google.com/knowledge) | Learn typography fundamentals with Google Fonts free educational resource. |
 | [Fonts Loader](https://fontsloader.com/types?sort=rait) | Russian font directory with popular Cyrillic typefaces. |
@@ -219,14 +220,12 @@
 | [Google Fonts](https://fonts.google.com/) | Library of open-source fonts for use in your websites, apps, and documents. |
 | [Google Web Fonts Typographic Project](https://femmebot.github.io/google-type/) | A showcase of Google Fonts and their typographic features in use. |
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) | A Hassle-Free Way to Self-Host Google Fonts |
-| [Wakamai Fondue](https://wakamaifondue.com/) | Upload a font file to inspect glyph tables, layout features, and language support. |
 | [Just Free Fonts](https://justfreefonts.com/) | A hand-curated collection of freeware, open-source, and public domain fonts intended for commercial use |
 | [Leon Sans](https://github.com/cmiscm/leonsans/) | A geometric sans-serif typeface made with code |
 | [Lexend](https://www.lexend.com/) | A variable font empirically shown to significantly improve reading-proficiency |
 | [Lost Type Co-op](https://losttype.com) | Collaborative digital type foundry, distributing typefaces from designers around the world. |
 | [Malayalam Fonts](https://smc.org.in/fonts/) | Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC) |
 | [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/) | Fluid typography is a modern way of approaching responsive typography. |
-| [Open Foundry](https://open-foundry.com) | FREE platform for curated open-source typefaces |
 | [Pinspiry Fonts](https://pinspiry.com/fonts/) | Curates free and premium fonts for designers and creatives. |
 | [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/) | When RoughJS meets Font Awesome |
 | [SFWin](https://github.com/blaisck/sfwin/) | San Francisco Fonts for Windows 10 and non-Apple Platform |
@@ -238,7 +237,6 @@
 | [Unblast](https://unblast.com/fonts/) | Provides free fonts for personal and commercial use, along with other design resources. |
 | [UrbanFonts](https://www.urbanfonts.com/) | A collection of over 8000 free fonts and dingbats |
 | [Use & Modify](https://usemodify.com/) | Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces |
-| [Velvetyne Type Foundry](https://velvetyne.fr) | A French digital type foundry that publishes open-source fonts for free. |
 | [W Fonts](https://www.wfonts.com/) | Download Free fonts |
 
 ## Bangla Fonts

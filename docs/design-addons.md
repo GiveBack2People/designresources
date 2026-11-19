@@ -195,7 +195,6 @@
 | [Urban Brush](https://www.urbanbrush.net/?s=%EC%A0%84%EB%8B%A8%EC%A7%80&post_type=download) | Korean design resource site offering free vector and brush downloads, with membership options. |
 | [Vecteezy](https://www.vecteezy.com/free-png/paper-texture) | Free PNG paper texture downloads with various grunge and vintage paper overlay options. |
 | [Workflow between ZBrush and Blender](https://www.reddit.com/r/ZBrush/comments/12os36o/best_workflow_between_zbrush_blender_and/) | Reddit discussion thread about best workflow practices between ZBrush and Blender. |
-| [Wow Brushes](https://wowbrushes.com/) | Site appears to be unavailable or experiencing server issues. |
 | [X03D](https://xo3d.co.uk/tools/texture-generator/) | Free browser-based texture generator tool for creating seamless procedural textures. |
 | [Yellow Images](https://yellowimages.com/graphic-design/category/textures) | Premium design resource marketplace offering textures, mockups, and graphic design assets. |
 | [Zulia Assets](https://www.zuliassets.com/shop/textures) | Marketplace offering texture packs, mockups, and vintage design resources for digital artists. |

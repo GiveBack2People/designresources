@@ -12,6 +12,11 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Lucide Icons](https://lucide.dev/) | Community-run fork of Feather Icons with over 1,450+ sharp, consistent vector icons for React, Vue, Svelte, and web. |
+| [Tabler Icons](https://tabler.io/icons) | Over 5,200+ free, open-source customizable SVG icons with zero dependencies. |
+| [Phosphor Icons](https://phosphoricons.com/) | Flexible open-source icon family for interfaces, diagrams, and presentations in 6 weights. |
+| [Simple Icons](https://simpleicons.org/) | 3,000+ free SVG icons for popular brands, developer tools, and web services. |
+| [Iconoir](https://iconoir.com/) | Open-source library of 1,500+ clean SVG icons supporting React, React Native, Vue, Flutter, and Figma. |
 | [3D icons](https://www.3dicons.com/) | Over 4,000 3D icons & characters in high 4K resolution with front & perspective views. Includes Figma file. |
 | [3D LogoLab](https://www.3dlogolab.io/3d-logo-generator-free) | Free online 3D rotating logo generator tool. |
 | [Achi](https://www.a-chi.jp/fudemojilogo-tool-site/) | Collection of Japanese brush calligraphy logo tools and design resources. |
@@ -30,7 +35,6 @@
 | [Doodlicons](https://doodlicons.com/) | Hand-drawn doodle-style icon set for creative projects. |
 | [Draw Kit](https://www.drawkit.com/search-results) | Library of 2D, 3D illustrations, icons and animations for designers |
 | [Dribbble](https://dribbble.com/search/free-icons) | Search results for free icon designs on Dribbble. |
-| [Embossed on paper mockup](https://unblast.com/logo-design-on-paper-mockup/) | Free PSD logo mockup with realistic embossed effect on paper. |
 | [Energy Icons](https://energyicons.com) | Open-source icon library for renewable energy and the energy transition. |
 | [Figma](https://www.figma.com/community/icons) | 6,900+ free icon sets & packs from the Figma community. |
 | [Flagpack](https://flagpack.xyz) | Open-source set of country flag icons for design tools and code. |
@@ -50,11 +54,9 @@
 | [Icon Park](https://iconpark.oceanengine.com/official) | ByteDance's official icon library with themeable SVG icons. |
 | [Icon Scout](https://iconscout.com/3d-illustrations) | 335K+ 3D illustrations in PNG, BLEND, FBX, and glTF formats. |
 | [Iconbuddy](https://iconbuddy.com/) | 300K+ open-source SVG icons from 200+ libraries in one search engine. |
-| [Iconic](https://iconic.app/battery-full/) | 1,507 pixel-perfect free icons with 24x24 bounding box and 1.5px stroke. |
+| [Iconic](https://iconic.app/) | 1,507 pixel-perfect free icons with 24x24 bounding box and 1.5px stroke. |
 | [Iconify Icon Sets](https://icon-sets.iconify.design/) | Home of open source icons — browse thousands of icon sets by category. |
 | [Iconizer](https://www.iconizer.io/) | 6,400+ customizable icons for UI/UX design with Figma integration. |
-| [Icons 8](https://icons8.com/illustrations/styles/free-1) | Free illustration styles and vector art collections from Icons8. |
-| [Icons 8](https://icons8.com/liquid-glass) | 3,000+ Liquid Glass style icons inspired by Apple's iOS aesthetic. |
 | [Icons SVG](https://iconsvg.xyz/) | Quick customizable SVG icons for your project. |
 | [icons.download](https://icons.download/) | 275 free vector icons in 16 styles by Vitaly Belousov. |
 | [Icons8](https://icons8.com/icons/group-3d) | 131 icon style packs including 3D Fluency, Liquid Glass, and more. |
@@ -127,7 +129,6 @@
 | [Iconfinder](https://www.iconfinder.com/) | Millions of icons, illustrations, 3D, or stickers for your design projects. Created by independent designers. |
 | [iconhub](https://iconhub.io/) | Just practical stunning icons for everyone |
 | [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
-| [Iconoir](https://iconoir.com/) | Free library of 900+ open source icons |
 | [IconPark](https://github.com/bytedance/IconPark) | Transform an SVG icon into multiple themes, and generate React icons, Vue icons, SVG icons |
 | [IconPharm](https://iconpharm.com/) | 9,900 free icons. Has option to edit before downloading. |
 | [Icons8](https://icons8.com/) | Nearly 1.3 million+ free icons. Yes, you've heard it. Has various license options. |
@@ -144,24 +145,20 @@
 | [LineIcons](https://lineicons.com) | 2000+ Essential Line Icons for Designers and Developers |
 | [Lordicon](https://lordicon.com/icons#free) | 50 free animated interactive icons |
 | [Lucide](https://lucide.netlify.app/) | Lucide is an open-source icon library, a fork of Feather Icons. |
-| [Lucide](https://lucide.dev) | A beautiful, consistent, and open-source icon library forked from Feather Icons with active community contributions. |
 | [Material Design Icons](https://materialdesignicons.com/) | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [MingCute Icon](https://www.mingcute.com/) | 3,000+ open-source, carefully designed minimalist icons in SVG, WebFont, and Figma formats for web and mobile. |
 | [Nucleo App](https://nucleoapp.com/) | Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
-| [Phosphor Icons](https://phosphoricons.com) | Phosphor is a flexible icon family for interfaces, diagrams, presentations |
 | [Radix Icons](https://www.radix-ui.com/icons) | A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component, SVG and more. |
 | [Remix Icon](https://remixicon.com/) | Simply Delightful Icon System |
 | [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
 | [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/) | 8000+ free icons |
 | [Shitty Icons](https://shittyicons.com/) | Collection of Free icons. |
-| [Simple Icons](https://simpleicons.org/) | 1307 Free SVG icons for popular brands |
 | [Streamline Icons](https://www.streamlinehq.com/) | Good collection of free minimal icons. |
 | [Streamline Icons](https://streamlineicons.com) | A huge collection of meticulously crafted icons, covering a wide range of categories and themes. |
 | [SVG Repo](https://www.svgrepo.com/) | Download free SVG Vectors for commercial use. |
 | [System UIcons](https://systemuicons.com/) | 220+ icons in a growing collection. |
 | [Tabler Icons](https://tabler-icons.io/) | 3500+ highly customizable open source SVG icons with React, Preact, Vue, Svelte and SolidJS support |
-| [Tabler Icons](https://tabler.io/icons) | Over 5,000 free MIT-licensed SVG icons with consistent stroke widths and customizable sizes. |
 | [Teeny Icons](https://teenyicons.com/) | TeenyIcons is a set of icons in SVG format easy to use in HTML |
 | [Unicorn Icons](https://unicornicons.com) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
 | [Unified icons](https://iconify.design/) | Thousands of icons, one unified framework. One library, over 40,000 vector icons. |

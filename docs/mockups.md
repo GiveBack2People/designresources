@@ -8,7 +8,6 @@
 
 | Resource | Description |
 | :--- | :--- |
-| [3D Box Mockups](https://app.packcad.com/) | 3D packaging design and CAD software for box prototypes |
 | [3D Box Mockups](https://app.packcad.com/mockup/) | Packaging CAD mockup tool for product design visualization |
 | [Akoya Mockups](https://akoyamockups.com/) | Photo-realistic premium mockups for devices, print, and apparel |
 | [Anagram Designs](https://anagramdesign.graphics/free-mockups/) | Free creative mockups with unique scene concepts |
@@ -19,7 +18,6 @@
 | [Canva](https://www.canva.com/mockups) | Browser-based mockup generator with drag-and-drop editing |
 | [Content Core](https://contentcore.xyz/) | AI-powered content creation platform with mockup export |
 | [Creative Market](https://creativemarket.com/mockups) | Marketplace for professional mockup templates, PSDs, and design assets |
-| [Crispy Doodles](https://www.figma.com/community/file/1241125633606791793/crispy-doodles-120-free-and-fresh-doodles-for-your-mockups) | 120 free Figma doodles for enhancing mockup presentations |
 | [Design Bolts](https://www.designbolts.com/category/mockup-psd/) | Free PSD mockup downloads organized by category |
 | [Design Deck](https://www.designdeck.io/free-mockups) | Free high-quality mockups with subscription pass option |
 | [Design Syndrome](https://designsyndrome.com/collections/design-assets?filter.p.m.custom.asset_type=Mockups) | Mockup and creative asset collection for modern designers |
@@ -29,7 +27,6 @@
 | [Format Mockups](https://www.formatmockups.com/mockups-new) | Mockup template library with graphic design resources |
 | [FrameDesign](https://framedesign.letsconstruct.nl/) | Design frame and mockup showcase website |
 | [Framenet](https://www.framenet.ai/) | AI motion graphics mockup generator for animated design previews |
-| [Framer Marketplace](https://www.framer.com/templates/categories/portfolio/) | Framer portfolio website templates marketplace |
 | [Free Design Resources](https://freedesignresources.net/category/free-mockups/) | 300+ free PSD mockups for designers |
 | [Free Mockup](https://freemockup.net/) | 5,000+ free Photoshop mockup downloads |
 | [Free Mockup Generator](https://www.pixeltrue.com/mockup-generator) | Free and simple device mockup generator |
@@ -37,14 +34,12 @@
 | [Grafic Yard](https://graficyard.com/collections/all) | Curated collection of mockups, graphics, and design templates. |
 | [Graphic Shelter](https://graphicshelter.sellfy.store/) | Mockup and design asset store on Sellfy |
 | [Hazard Mockups](https://www.hazardmockups.com/freebies) | Free urban signage and poster mockups |
-| [Hazard Mockups](https://www.hazardmockups.com/category/video-mockups) | Video mockups and motion design templates |
 | [House of Mockups](https://houseofmockups.com/collections/freebies) | Free design mockups and creative resources |
 | [Hyper Pix](https://hyperpix.net/mockups/) | Free PSD mockups for apparel and logo presentations |
 | [IMockups](https://imockups.com/mockups) | Directory of free and premium mockup templates |
 | [Indie Ground](https://indieground.net/shop-category/mockups/) | Mockup shop featuring Dreadlabs and Design Syndrome design assets |
 | [Iphone Mockups](https://iphone-mockups.com/) | Free online iPhone mockup generator tool |
 | [Liquid Mockups](https://liquidmockups.com/) | Authentic high-quality mockups for design work |
-| [Liquid Mockups](https://liquidmockups.com/shop/video) | Video mockups and motion design asset packs |
 | [Manuscript Mockup](https://miksks.com/products/free-manuscript-mockup) | Vintage paper |
 | [Minimal Mockups](https://www.minimalmockups.com/mockups/) | Minimalist device and product mockup templates |
 | [Mock Magic](https://www.mockmagic.com/) | Mockup tool with a free plan for unlimited static mockups. |
@@ -85,7 +80,7 @@
 | [Mr.Mockup](https://mrmockup.com/free-mockups/) | Large collection of free PSD mockup downloads |
 | [Njord Mockups](https://njordmockups.com/) | Photorealistic Nordic-style mockups for designers |
 | [Original Mockups](https://originalmockups.com/mockups/free-mockups) | Free PSD mockups for various design categories |
-| [Packlane](https://packlane.com/?_ga=2.23896370.920385931.1741503716-654284899.1741503715) | Packaging mockups for custom boxes and product packaging prototypes |
+| [Packlane](https://packlane.com/) | Packaging mockups for custom boxes and product packaging prototypes |
 | [Parallel Mockup](https://parallelmockup.com/) | Designer mockup collection with unique product scenes |
 | [Peculiar](https://peculiar.si/mockups) | Peculiar mockup collection by Sam Olevsky |
 | [PSD Mockup](https://psd-mockup.com/) | Free PSD mockups in various design categories |

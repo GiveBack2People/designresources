@@ -15,13 +15,11 @@
 | [& Tradition](https://www.andtradition.com/products?type=lighting) | Danish lighting and furniture brand |
 | [Humanscale Design Toolkit](https://eu.humanscale.com/resources/designer-toolkit/design-files.cfm?&category=seating) | Ergonomic seating design files |
 | [LEDS C4 Architectural Lighting](https://ledsc4.us/en/3-products) | LED lighting manufacturer |
-| [Polina Artamonova 3D Models](https://zeelproject.com/it/brands/polinaartamonova/models/) | Polina Artamonova Russia |
-| [Zeel Project 3D Models](https://zeelproject.com/26932-wall-hung-toilet-callipyge.html) | 3D bathroom model download |
 | [/storyboard - sakugabooru](https://www.sakugabooru.com/post?tags=storyboard) | Storyboard animation frame database |
 | [0010x0010](https://www.instagram.com/0010x0010/) | Animation and motion design works on Instagram. |
 | [1 Day 1 Architect](https://www.instagram.com/1day1architect/) | Daily architecture inspiration on Instagram |
 | [1000+ Textures](https://www.figma.com/community/file/1370508545199042511) | Figma texture resource library |
-| [101 Copenhagen](https://imagebank.101cph.com/folder/1513805#token=bHshD089BP&type=direct) | Danish furniture image bank |
+| [101 Copenhagen](https://101cph.com) | Danish furniture image bank |
 | [2.4gb texture pack](https://www.patreon.com/posts/free-40k-pack-92583321) | 20 paper texture Photoshop files |
 | [2tec2](https://www.2tec2.com/) | Woven vinyl flooring manufacturer |
 | [3Asky](https://3asky.net/sketchup/) | SketchUp 3D models and architectural assets repository. |
@@ -171,7 +169,7 @@
 | [Bolon](https://www.bolon.com/en) | Woven vinyl flooring designer |
 | [Booth](https://booth.pm/en/search/clip%20studio) | Clip Studio asset marketplace on Booth |
 | [Booth](https://booth.pm/ko/search/AfterEffects) | After Effects assets marketplace |
-| [Bover](https://bover.es/en/12-products?_gl=1*2m4nnu*_up*MQ..*_ga*MTM0MzcyNzEzNi4xNzc0Mjc2MTg0*_ga_HPXYGCGZH6*czE3NzQyNzYxODMkbzEkZzAkdDE3NzQyNzYxODMkajYwJGwwJGgw&categories=ceiling,pendants) | Designer lighting fixtures products |
+| [Bover](https://bover.es/en/12-products) | Designer lighting fixtures products |
 | [Brands In Motion](https://www.brandsinmotion.xyz/) | Motion branding resources platform |
 | [Brunner](https://www.brunner-group.com/en-DE/) | Office furniture solutions |
 | [Built Valencia](https://buitvalencia.com/colecciones/) | Ceramic tile design collections |
@@ -188,7 +186,7 @@
 | [Canva](https://www.canva.com/flyers/) | Online flyer design templates |
 | [Cappellini](https://www.cappellini.com/it/it.html) | Italian design furniture brand |
 | [Carl Hansen](https://www.carlhansen.com/en/it) | Danish design furniture classics |
-| [Castil](https://www.castil.it/en/products/?_gl=1*1mbreyw*_up*MQ..*_ga*NTE2ODM5NDYuMTczNTk0MDAyMQ..*_ga_DNERT2PTXN*MTczNTk0MDAyMC4xLjAuMTczNTk0MDAyMC4wLjAuMA..) | Designer chairs and seating |
+| [Castil](https://www.castil.it/en/products/) | Designer chairs and seating |
 | [Casual Archivist](https://docs.google.com/spreadsheets/d/1lyvVIqdGW78vftPu3rBUUqHfiFPltYntCLPUbkWxYew/edit?pli=1&gid=855006151#gid=855006151) | Archive Design collections  |
 | [Ceramica Flamina](https://www.ceramicaflaminia.it/) | Italian designer bathroom ceramics |
 | [CG Bytes](https://www.cgbytes.com/) | Digital art marketplace for 3D poser and rendering assets. |
@@ -817,7 +815,7 @@
 | [reddit.com](https://www.reddit.com/r/FigmaDesign/search/?q=What+plugins+for+Figma+are+you+using&cId=a79bd1c1-d31d-4dc9-ad10-2cd375e1e133&iId=5410f2ba-5a68-4e07-bee7-6f9008f67631) | Reddit search results for Figma plugin recommendations |
 | [Redpah](https://www.redpah.com/) | 3D print file marketplace for STL models and figurines |
 | [Refelt](https://www.refelt.com/products/) | Acoustic PET felt panels and sound-absorbing architectural products from the Netherlands. |
-| [Reggiani](https://www.reggiani.net/products/indoor?_gl=1*ajuz7b*_up*MQ..*_ga*OTEyODc4MzM4LjE3NTE2MTY1Njk.*_ga_ST7H11LNSG*czE3NTE2MTY1NjgkbzEkZzAkdDE3NTE2MTY1NjgkajYwJGwwJGgw) | Italian architectural indoor and outdoor luminaire manufacturer. |
+| [Reggiani](https://www.reggiani.net/products/indoor) | Italian architectural indoor and outdoor luminaire manufacturer. |
 | [Remember](https://www.remember.de/Produkte/Wohnen/Leuchten/) | German lighting products |
 | [Restaurant & Bar Design Awards](https://restaurantandbardesignawards.com/awards-archive/2024) | Global awards archive celebrating restaurant and bar space design. |
 | [Retopoflow - A suite of retopology tools for Blender](https://github.com/CGCookie/retopoflow) | Retopology toolset and mesh workflow addon for Blender. |

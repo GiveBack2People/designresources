@@ -12,16 +12,17 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Rive](https://rive.app/) | Interactive animation platform and runtime creating real-time vector graphics that respond to code and state machines. |
+| [Motion One](https://motion.dev/) | The smallest, fastest modern animation library for the web built on the Web Animations API. |
 | [Animation Methods](https://www.youtube.com/user/AnimationMethods/videos) | YouTube channel with game development and animation tutorials and resources |
 | [Chris Jones](https://www.youtube.com/@chrisjonestube/videos) | YouTube channel showcasing advanced Blender animation and realistic character modeling. |
-| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397?irgwc=1&clickid=UA32i01u6xycRUQSIpw5s0PyUkp0sFVFS0Xd1w0&iradid=275988&irpid=493534&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=) | Collage Constructor |
+| [Collage Kit Constructor](https://videohive.net/item/collage-kit-constructor/35640397) | Collage Constructor |
 | [Envato](https://videohive.net/search/luts) | VideoHive marketplace search for LUT color grading presets for video editing software. |
 | [Firefly](https://firefly.adobe.com/generate/video) | Adobe's generative AI tool for creating videos from images and text prompts. |
 | [Jesus FC14](https://www.youtube.com/user/JesusFC14/videos) | YouTube channel featuring game development tutorials and animation content |
 | [Jitter](https://jitter.video/?noredir=1) | UI animations |
 | [Mix Kit](https://mixkit.co/free-sound-effects/) | Free sound effects library with categories including animals, nature, game sounds, and transitions. |
 | [Mixkit](https://mixkit.co/free-after-effects-templates/) | Free After Effects template library with titles, transitions, and motion graphics elements. |
-| [Mixkit](https://mixkit.co/free-final-cut-pro-templates/zoom-backwards-transition-667/) | Free Final Cut Pro zoom transition template for video editing on the Mixkit platform. |
 | [Mixkit](https://mixkit.co/free-davinci-resolve-templates/) | Free DaVinci Resolve templates including titles, transitions, and lower thirds |
 | [Mixkit](https://mixkit.co/free-premiere-pro-templates/transitions/) | Free Premiere Pro transition templates for video editing available on Mixkit. |
 | [Motion Elements](https://www.motionelements.com/search/video?price_range=-1) | Free stock video and motion graphics library with searchable content for video production. |
@@ -37,8 +38,6 @@
 | [Video Hive](https://videohive.net/category/premiere-pro-templates) | Marketplace for Premiere Pro templates including titles, transitions, and openers. |
 | [Video Hive](https://videohive.net/category/apple-motion-templates) | VideoHive category for Apple Motion templates and motion graphics projects |
 | [Video Motion](https://videomotion.store/store/) | Online store offering video templates, motion assets, and editing packs. |
-| [Videohive](https://videohive.net/category/add-ons) | Collection of After Effects scripts, presets, and plugins to extend video editing workflows. |
-| [videohive.net](https://videohive.net/search/animated%20texture) | Marketplace for animated texture video effects and motion graphics overlays |
 | [videohive.net](https://videohive.net/category/motion-graphics?term=vfx) | Marketplace for VFX motion graphics including transitions, overlays, and particle effects |
 | [videohive.net](https://videohive.net/category/davinci-resolve-templates) | Marketplace for DaVinci Resolve templates including Fusion compositions, titles, and effects |
 | [YWFT](https://www.youworkforthem.com/videos) | Marketplace for stock video clips and motion graphics with one-time license pricing |

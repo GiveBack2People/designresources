@@ -12,6 +12,7 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Framer Marketplace](https://www.framer.com/templates/) | Framer website templates marketplace for modern, responsive portfolios and startups. |
 | [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
 | [BootstrapMade](https://bootstrapmade.com/) | Elegant, clean and beautiful free templates using Bootstrap. |
 | [BootstrapTaste](https://bootstraptaste.com/) | Premium & Free Bootstrap Templates |
@@ -45,6 +46,7 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Open Props](https://open-props.style/) | Supercharged CSS custom properties for building modern, responsive UI design systems. |
 | [98.css](https://jdan.github.io/98.css/) | A design system for building faithful recreations of old UIs |
 | [a11y.css](https://github.com/ffoodd/a11y.css) | Open-source stylesheet that warns developers about possible risks and mistakes in HTML code. |
 | [Arwes](https://github.com/arwes/arwes) | Web framework for futuristic sci-fi inspired UI designs with animations and sound effects |
@@ -74,7 +76,6 @@
 | [lit](https://github.com/ajusa/lit) | World's smallest responsive fire css framework (395 bytes). |
 | [Marx](https://github.com/mblode/marx) | Marx is the classless CSS reset to be used in any projects (namely small ones). |
 | [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
-| [Material Design Lite](https://getmdl.io/) | Light framework based on Material Design. No JS dependency |
 | [Materialize](https://materializecss.com/) | A modern responsive front-end framework based on Material Design |
 | [Metro 4](https://metroui.org.ua/index.html) | Create your site quickly and effectively with Metro 4. impressive components library built on html, css, javascript. |
 | [Milligram.io](https://milligram.io/) | Minimalist CSS framework |
@@ -90,9 +91,7 @@
 | [Raster Simple Grid System](https://rsms.me/raster/) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS. |
 | [Reseter.css](https://github.com/ikrishg/reseter.css) | Open-source CSS reset released under the MIT license. |
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
-| [Semantic UI](https://semantic-ui.com/) | Empowers designers and developers by creating a shared vocabulary for UI |
 | [Shoelace.css](https://www.shoelace.style/) | Lightweight, forward-thinking CSS library built with future CSS syntax |
-| [Skeleton](https://getskeleton.com/) | Extremely light framework for basic UI elements |
 | [Spectre CSS](https://picturepan2.github.io/spectre/) | Lightweight, modern CSS framework |
 | [StyleX](https://stylexjs.com/) | StyleX is a simple, easy-to-use JavaScript syntax and compiler for styling web apps. |
 | [Susy](https://www.oddbird.net/susy/) | Lightweight, grid-layout engine for Sass |
@@ -102,13 +101,11 @@
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
 | [Tufte](https://github.com/edwardtufte/tufte-css) | Style your webpage like Edward Tufte’s handouts. |
 | [Turret CSS](https://turretcss.com/) | Turret CSS is a styles framework for development of responsive websites. |
-| [twind](https://twind.dev/) | The smallest, fastest, most feature complete tailwind-in-js solution in existence |
 | [UIKit](https://getuikit.com/) | Lightweight and modular front-end framework |
 | [Uniform CSS](https://uniformcss.com/) | Fully configurable utility generator and CSS framework built entirely in Sass |
 | [UnoCSS](https://unocss.dev/) | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets. |
 | [Vanilla Framework](https://vanillaframework.io/) | Simple, extensible CSS framework written in Sass |
 | [W3.CSS](https://www.w3schools.com/w3css/) | A modern CSS framework with support for desktop, tablet, and mobile design by default. Designed to be independent of jQuery or any other JavaScript library |
-| [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
 | [Wing](https://kbrsh.github.io/wing/) | A beautiful CSS framework designed for minimalists |
 | [XP.css](https://botoxparty.github.io/XP.css/) | XP.css is an extension of 98.css. A CSS library for building interfaces that look like old UIs. |
 
@@ -296,6 +293,9 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Zag.js](https://zagjs.com/) | UI component state machines that power cross-framework design systems in React, Vue, and Solid. |
+| [Ariakit](https://ariakit.org/) | Open-source toolkit for building accessible web applications and design systems in React. |
+| [Tremor](https://tremor.so/) | Open-source React component library to build modern dashboards and data visualizations. |
 | [@tsparticles/react](https://github.com/tsparticles/react) | A lightweight React component for creating particles |
 | [@use-gesture](https://github.com/pmndrs/use-gesture) | Bread n butter utility for component-tied mouse/touch gestures in React. |
 | [Aceternity UI](https://ui.aceternity.com/) | Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
@@ -361,11 +361,9 @@
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Shards React](https://designrevision.com/downloads/shards-react/) | React UI kit featuring a modern design system with dozens of custom components |
 | [StyleSeed](https://github.com/bitjaru/styleseed) | Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
-| [Supabase UI](https://ui.supabase.io/) | An open-source UI component library inspired by Tailwind and AntDesign. |
 | [Tabler](https://github.com/tabler/tabler-react) | Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
 | [Theme UI](https://theme-ui.com/home) | Build consistent, themeable React apps based on constraint-based design principles |
 | [Treact](https://treact.owaiskhan.me) | Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
-| [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [ui-playbook](https://uiplaybook.dev/) | The documented collection of UI components |
 | [Vercel UI](https://github.com/geist-org/react) | Modern and minimalist React UI library |
 | [xstyled](https://xstyled.dev/) | A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate. |
@@ -375,6 +373,7 @@
 
 | Resource | Description |
 | :--- | :--- |
+| [Nuxt UI](https://ui.nuxt.com/) | Fully styled, accessible UI library built specifically for Nuxt and Vue with Tailwind CSS. |
 | [@tsparticles/vue2](https://github.com/tsparticles/vue2) | A lightweight Vue 2.x component for creating particles |
 | [@tsparticles/vue3](https://github.com/tsparticles/vue3) | A lightweight Vue 3.x component for creating particles |
 | [Antdv](https://antdv.com/) | UI library for Vue based on Ant Design |
