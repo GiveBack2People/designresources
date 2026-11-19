@@ -25,10 +25,10 @@
       </div>
     </div>
 
-    <!-- Quick Filter Pills -->
+    <!-- Page-Aware Quick Filter Pills -->
     <div class="filter-pills">
       <button
-        v-for="tag in quickTags"
+        v-for="tag in currentTags"
         :key="tag"
         :class="['tag-pill', { active: activeTag === tag }]"
         @click="selectTag(tag)"
@@ -36,11 +36,17 @@
         {{ tag }}
       </button>
     </div>
+
+    <!-- Empty State Feedback -->
+    <div v-if="visibleRows === 0 && totalRows > 0" class="no-results-box">
+      <p>No resources found matching "<strong>{{ searchQuery }}</strong>"</p>
+      <button class="reset-filter-btn" @click="clearSearch">Reset Filter</button>
+    </div>
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted, watch, nextTick } from 'vue'
+import { ref, computed, onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 
 const route = useRoute()
@@ -50,7 +56,28 @@ const totalRows = ref(0)
 const visibleRows = ref(0)
 const hasTables = ref(false)
 
-const quickTags = ['All', 'Free', 'Open Source', 'Figma', 'AI', 'Tutorials']
+const pageTagMap = {
+  'typography': ['All', 'Foundry', 'Bangla', 'Open Source', 'Variable', 'Pairing'],
+  'colors-gradients': ['All', 'Palette', 'Gradient', 'Contrast', 'Generator', 'HEX'],
+  'icons-logos': ['All', 'SVG', 'Animated', '3D', 'Logos', 'Lottie'],
+  'code-frameworks': ['All', 'Tailwind', 'React', 'Vue', 'Svelte', 'CSS', 'Components'],
+  'design-tools-ai': ['All', 'Open Source', 'Vector', 'Prototyping', 'Generative', 'Editor'],
+  '3d-architecture': ['All', 'Blender', 'Textures', 'PBR', 'Models', 'CAD'],
+  'stock-photos': ['All', 'Royalty-Free', 'Public Domain', 'CC0', 'High-Res'],
+  'stock-video-music': ['All', 'Video', 'Audio', 'VFX', 'Templates', 'Music'],
+  'mockups': ['All', 'Devices', 'Branding', 'PSD', 'Figma', 'Packaging'],
+  'marketplaces': ['All', 'Freemium', 'Subscription', 'Vectors', 'Audio'],
+  'learning-community': ['All', 'Tutorials', 'Community', 'Courses', 'Accessibility'],
+  'design-inspiration': ['All', 'Web', 'UI', 'Portfolios', 'Showcase', 'SaaS'],
+  'graphic-brand-inspiration': ['All', 'Branding', 'Identity', 'Posters', 'Typography', 'Studio'],
+  'spatial-product-inspiration': ['All', 'Architecture', 'Furniture', 'Lighting', 'Interior'],
+  'top-hubs': ['All', 'Free', 'Freemium', 'Ecosystem', 'Foundry']
+}
+
+const currentTags = computed(() => {
+  const currentKey = route.path.replace(/^\/|\.html$|\/$/g, '').split('/').pop() || ''
+  return pageTagMap[currentKey] || ['All', 'Free', 'Open Source', 'Figma', 'AI']
+})
 
 function countAndInitTables() {
   if (typeof window === 'undefined') return
@@ -103,6 +130,17 @@ function applyFilter() {
       count++
     } else {
       row.style.display = 'none'
+    }
+  })
+
+  // Hide empty tables if all their rows are hidden
+  const tables = document.querySelectorAll('.vp-doc table')
+  tables.forEach((table) => {
+    const tableVisibleRows = table.querySelectorAll('tbody tr:not([style*="display: none"])')
+    if (tableVisibleRows.length === 0 && q) {
+      table.style.display = 'none'
+    } else {
+      table.style.display = ''
     }
   })
 
@@ -236,6 +274,37 @@ watch(() => route.path, () => {
   color: #ffffff;
 }
 
+.no-results-box {
+  margin-top: 1rem;
+  padding: 1.25rem;
+  text-align: center;
+  background: var(--vp-c-bg-mute);
+  border-radius: 8px;
+  border: 1px dashed var(--vp-c-divider);
+}
+
+.no-results-box p {
+  margin: 0 0 0.5rem;
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+}
+
+.reset-filter-btn {
+  padding: 0.35rem 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  background: var(--vp-c-brand-1);
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.reset-filter-btn:hover {
+  opacity: 0.9;
+}
+
 @media (max-width: 640px) {
   .filter-header {
     flex-direction: column;
@@ -243,4 +312,3 @@ watch(() => route.path, () => {
   }
 }
 </style>
-

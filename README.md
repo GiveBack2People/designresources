@@ -23,19 +23,21 @@ We have transitioned from simple markdown lists to a high-speed, search-driven, 
 * **[Creative Marketplaces](https://giveback2people.github.io/designresources/marketplaces)** — Freemium powerhouses & elite subscription hubs (Envato Elements, Motion Array, Artlist).
 
 ### All Categories:
-1. **[Design Inspiration](https://giveback2people.github.io/designresources/design-inspiration)** — Curated galleries, portfolios, award-winning sites, and graphic design blogs.
-2. **[Stock Photos](https://giveback2people.github.io/designresources/stock-photos)** — Royalty-free high-res photography and AI image generators.
-3. **[Stock Video & Music](https://giveback2people.github.io/designresources/stock-video-music)** — Free footage, overlay packs, and royalty-free soundtracks.
-4. **[Vectors & Illustrations](https://giveback2people.github.io/designresources/vectors-illustrations)** — Open-source SVG vectors, clipart, and pattern generators.
-5. **[Icons, Logos & Animations](https://giveback2people.github.io/designresources/icons-logos)** — Icon libraries, brand logo databases, and Lottie animations.
-6. **[3D, Architecture & Motion](https://giveback2people.github.io/designresources/3d-architecture)** — 3D assets, OBJ/STL files, HDRI maps, interior architecture, and VFX assets.
-7. **[Typography & Fonts](https://giveback2people.github.io/designresources/typography)** — Free English & Bangla typefaces, Google Fonts, and pairing resources.
-8. **[Colors & Gradients](https://giveback2people.github.io/designresources/colors-gradients)** — Palette builders, gradient generators, contrast checkers, and brand hex palettes.
-9. **[Mockups & Frames](https://giveback2people.github.io/designresources/mockups)** — Device mockups, packaging outlines, and screenshot styling tools.
-10. **[Design Add-ons](https://giveback2people.github.io/designresources/design-addons)** — Photoshop brushes, Procreate assets, and texture packs.
-11. **[Design Tools & AI](https://giveback2people.github.io/designresources/design-tools-ai)** — Vector editors, layout software, and generative AI systems.
-12. **[Code & Frameworks](https://giveback2people.github.io/designresources/code-frameworks)** — UI libraries, CSS frameworks, JS plugins, and components for developers.
-13. **[Learning & Community](https://giveback2people.github.io/designresources/learning-community)** — Tutorials, forums, and design communities.
+1. **[Web & UI Inspiration](https://giveback2people.github.io/designresources/design-inspiration)** — Curated digital galleries, UI showcases, landing pages, and web awards.
+2. **[Graphic & Brand Inspiration](https://giveback2people.github.io/designresources/graphic-brand-inspiration)** — Visual identity archives, poster collections, and studio portfolios.
+3. **[Spatial & Product Inspiration](https://giveback2people.github.io/designresources/spatial-product-inspiration)** — Architectural concepts, furniture craftsmanship, and lighting design.
+4. **[Stock Photos](https://giveback2people.github.io/designresources/stock-photos)** — Royalty-free high-res photography and AI image generators.
+5. **[Stock Video & Music](https://giveback2people.github.io/designresources/stock-video-music)** — Free footage, overlay packs, and royalty-free soundtracks.
+6. **[Vectors & Illustrations](https://giveback2people.github.io/designresources/vectors-illustrations)** — Open-source SVG vectors, clipart, and pattern generators.
+7. **[Icons, Logos & Animations](https://giveback2people.github.io/designresources/icons-logos)** — Icon libraries, brand logo databases, and Lottie animations.
+8. **[3D, Architecture & Motion](https://giveback2people.github.io/designresources/3d-architecture)** — 3D assets, OBJ/STL files, HDRI maps, interior architecture, and VFX assets.
+9. **[Typography & Fonts](https://giveback2people.github.io/designresources/typography)** — Free English & Bangla typefaces, Google Fonts, and pairing resources.
+10. **[Colors & Gradients](https://giveback2people.github.io/designresources/colors-gradients)** — Palette builders, gradient generators, contrast checkers, and brand hex palettes.
+11. **[Mockups & Frames](https://giveback2people.github.io/designresources/mockups)** — Device mockups, packaging outlines, and screenshot styling tools.
+12. **[Design Add-ons](https://giveback2people.github.io/designresources/design-addons)** — Photoshop brushes, Procreate assets, and texture packs.
+13. **[Design Tools & AI](https://giveback2people.github.io/designresources/design-tools-ai)** — Vector editors, layout software, and generative AI systems.
+14. **[Code & Frameworks](https://giveback2people.github.io/designresources/code-frameworks)** — UI libraries, CSS frameworks, JS plugins, and components for developers.
+15. **[Learning & Community](https://giveback2people.github.io/designresources/learning-community)** — Tutorials, forums, and design communities.
 
 ---
 

@@ -83,7 +83,9 @@ export default defineConfig({
         text: 'Inspiration',
         collapsed: false,
         items: [
-          { text: 'Design Inspiration', link: '/design-inspiration' },
+          { text: 'Web & UI Inspiration', link: '/design-inspiration' },
+          { text: 'Graphic & Brand Inspiration', link: '/graphic-brand-inspiration' },
+          { text: 'Spatial & Product Inspiration', link: '/spatial-product-inspiration' },
         ]
       },
       {

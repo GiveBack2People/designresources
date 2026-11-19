@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Lychee Link Checker
+        id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -31,7 +32,19 @@ jobs:
             --timeout 20
             --retry-wait-time 5
             docs/**/*.md
+          output: ./lychee/out.md
           fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Create Issue for Broken Links
+        if: steps.lychee.outputs.exit_code != 0 && steps.lychee.outputs.exit_code != '0'
+        run: |
+          if [ -s "./lychee/out.md" ]; then
+            gh issue create \
+              --title "🔗 Automated Link Health Report: Broken Links Detected" \
+              --body-file ./lychee/out.md \
+              --label "broken-link" || true
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

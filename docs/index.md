@@ -26,9 +26,17 @@ features:
     details: Curated Freemium hubs and elite subscription powerhouses (Envato Elements, Motion Array, Artlist).
     link: /marketplaces
   - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>'
-    title: Design Inspiration
-    details: Curated galleries, award sites, design showcases, and blogs to fuel your next project.
+    title: Web & UI Inspiration
+    details: Curated digital galleries, landing pages, mobile showcases, and web awards.
     link: /design-inspiration
+  - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
+    title: Graphic & Brand Inspiration
+    details: Visual identity archives, branding case studies, poster collections, and studio portfolios.
+    link: /graphic-brand-inspiration
+  - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>'
+    title: Spatial & Product Inspiration
+    details: Architectural visualization, interior environments, furniture design, and industrial lighting.
+    link: /spatial-product-inspiration
   - icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/><circle cx="12" cy="13" r="3"/></svg>'
     title: Stock Photos
     details: Millions of royalty-free, high-resolution images from the world's best creative communities.
