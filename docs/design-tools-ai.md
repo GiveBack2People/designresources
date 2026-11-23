@@ -228,6 +228,7 @@
 | [Google AI Studio](https://aistudio.google.com/prompts/new_chat) | Web-based prototyping environment for prompt engineering and experimenting with Google Gemini models. |
 | [GPT 4o TTS](https://platform.openai.com/docs/models/gpt-4o-mini-tts) | Text-to-speech with customizable emotional delivery by OpenAI. |
 | [Hume](https://app.hume.ai/) | Empathic voice AI platform for conversational interactions with emotional intelligence. |
+| [iArt](https://www.iart.ai/) | AI motion graphics tool that creates logo animation, kinetic typography, and explainer videos from prompts, with conversational edits. Free to start. |
 | [Immersity](https://app.immersity.ai/upload) | AI tool that converts 2D photos and images into 3D motion videos. |
 | [ImgGen.Ai](https://imggen.ai/) | Free AI-powered image generator and enhancement tool. |
 | [Krea](https://www.krea.ai/apps/image/enhancer) | AI-powered image enhancement and upscaling tool with real-time generative capabilities. |
