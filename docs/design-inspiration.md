@@ -17,6 +17,7 @@
 | [60FPS Design](https://60fps.design/) | UI/UX animation inspiration gallery |
 | [7 Best Retopology](https://themotiontree.com/retopology-software/) | Guide to retopology software and Blender addons. |
 | [79 Short Essays on Design](https://books.google.ca/books?id=RhP60u5mcMkC&pg=PA14&lpg=PA14&dq=Michael+Bierut+why+designers+can%27t+think&source=bl&ots=SCP9cB6an1&sig=WhEMfrQzoWSNcDB9PKuwNLJpKZ8&hl=en&sa=X&ei=K7UmT-fKDpOKsALI3YiNAg&redir_esc=y#v=onepage&q=Michael%20Bierut%20why%20designers%20can't%20think&f=false) | Design essays book on Google Books |
+| [A1 Gallery](https://www.a1.gallery/) | Hand-picked gallery of real, live websites, browsable by site, section and full page, with the fonts, colours and spacing each one uses. Free to browse. |
 | [Adnan Designs](https://www.behance.net/Adnan_Desings) | Graphic designer Behance portfolio |
 | [Adobe Sound Effects](https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html) | Royalty-free sound effects library |
 | [Aeux](https://google.github.io/AEUX/) | Figma to After Effects |
