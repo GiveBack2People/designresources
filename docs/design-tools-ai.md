@@ -59,6 +59,7 @@
 | [Fal.ai](https://fal.ai) | Serverless platform for running AI models at scale — fast inference for Flux, SDXL, and more. |
 | [Figma](https://www.figma.com/) | A cloud-based design tool that allows real-time collaboration among team members. It's popular for UI/UX design, prototyping, and design system management. |
 | [Gravit Designer](https://www.designer.io) | Cross-platform vector design app with a free tier, works in-browser and as a desktop app. |
+| [Kite](https://kite.new) | Collaborative UI design tool where your team and AI agents (Claude, ChatGPT, Cursor, Codex via a hosted MCP server) edit the same file; free plan with unlimited editors and 3 files, copy to Figma or export HTML/React/Tailwind. |
 | [Linearity Curve](https://www.linearity.io/curve/) | Professional vector design tool for Mac and iPad with powerful pen tool and auto-trace features. |
 | [Linearity Move](https://www.linearity.io/move/) | Animation software that brings vector designs to life with an intuitive timeline and motion paths. |
 | [MediBang Paint](https://medibangpaint.com) | Free cross-platform comic and illustration tool with cloud storage and 800+ free tones/brushes. |
