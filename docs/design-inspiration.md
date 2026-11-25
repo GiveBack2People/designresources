@@ -194,6 +194,7 @@
 | [Recent Design](https://recent.design/) | Web and UI design inspiration |
 | [reddit.com](https://www.reddit.com/r/FigmaDesign/comments/1avgugw/what_plugins_for_figma_are_you_using/) | Reddit discussion recommending top Figma plugins |
 | [reddit.com](https://www.reddit.com/r/FigmaDesign/search/?q=What+plugins+for+Figma+are+you+using&cId=a79bd1c1-d31d-4dc9-ad10-2cd375e1e133&iId=5410f2ba-5a68-4e07-bee7-6f9008f67631) | Reddit search results for Figma plugin recommendations |
+| [Refto Explore](https://refto.one/explore) | Hand-curated gallery of real websites with full-page screenshots and version history, page sections and a DESIGN.md file for each site. Free to browse. |
 | [Retopoflow - A suite of retopology tools for Blender](https://github.com/CGCookie/retopoflow) | Retopology toolset and mesh workflow addon for Blender. |
 | [Retro Skyboxes](https://vladislavzh.net/notes/retro-skyboxes-released?it=retro-skyboxes-released.html) | Free public domain retro 90s-style skybox texture pack |
 | [s5-style.com](https://www.s5-style.com/) | Curated web design gallery showcasing high-quality Japanese websites. |
